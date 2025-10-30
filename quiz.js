@@ -32,7 +32,7 @@ window.addEventListener('DOMContentLoaded', () => {
 });
 
 function loadAvailableSubjects() {
-    const possibleSubjects = ['sample','science','khoa_hoc_tu_nhien'];
+    const possibleSubjects = ['sample','science','khoa_hoc_tu_nhien','lich_su_dia_li','cong_nghe','tin_hoc','giao_duc_cong_dan'];
     let loaded = [];
     
     possibleSubjects.forEach(subject => {
