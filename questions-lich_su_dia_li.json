@@ -1,0 +1,465 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Lịch Sử là những gì",
+      "options": [
+        "đã diễn ra trong quá khứ.",
+        "đang diễn ra ở hiện tại.",
+        "sẽ xảy ra trong tương lai.",
+        "đã và đang diễn ra trong cuộc sống."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Môn Lịch Sử là môn học tìm hiểu về",
+      "options": [
+        "lịch sử loài người.",
+        "các thiên thể trong vũ trụ.",
+        "các dạng địa hình trong tự nhiên.",
+        "quy luật chuyển động của Trái Đất."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Nội dung nào sau đây không phản ánh đúng ý nghĩa của việc học lịch sử?",
+      "options": [
+        "Biết cội nguồn của tổ tiên, quê hương, đất nước.",
+        "Hiểu được tiến trình phát triển của văn minh nhân loại.",
+        "Đúc rút kinh nghiệm từ quá khứ phục vụ cho hiện tại.",
+        "Học cho vui vì kiến thức lịch sử mang tính giải trí cao."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Tư liệu gốc là",
+      "options": [
+        "những truyền thuyết, thần thoại,... được truyền từ đời này sang đời khác.",
+        "các bản chữ khắc trên xương, mai rùa,vỏ cây, đá….",
+        "những dấu tích vật chất của người xưa còn giữ lại trong lòng đất.",
+        "những tư liệu liên quan trực tiếp đến sự kiện lịch sử."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Để phục dựng lại lịch sử chúng ta không dựa vào nguồn tư liệu nào sau đây?",
+      "options": [
+        "Tư liệu truyền miệng.",
+        "Tư liệu hiện vật.",
+        "Các bộ tiểu thuyết giả tưởng.",
+        "Tư liệu chữ viết."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Điền từ thích hợp vào chỗ trống (.....) trong câu sau đây:………….là những dấu tích vật chất của người xưa còn giữ được trong lòng đất hay trên mặt đất.",
+      "options": [
+        "Tư liệu truyền miệng.",
+        "Tư liệu chữ viết.",
+        "Tư liệu ghi âm.",
+        "Tư liệu hiện vật."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Những tấm bia đá khắc chữ Phạn tìm thấy ở Thánh địa Mỹ Sơn được xếp vào loại tư liệu lịch sử nào?",
+      "options": [
+        "Tư liệu hiện vật.",
+        "Tư liệu chữ viết.",
+        "Tư liệu truyền miệng.",
+        "Tư liệu ghi âm, ghi hình."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Dựa vào tư liệu và trả lời câu hỏi: “Tại di chỉ khảo cổ học Óc Eo (An Giang), các nhà khoa học đã tìm thấy nhiều hiện vật bằng vàng, bạc, đá quý, cùng các mảnh gốm, tượng thần bằng đá và các dấu tích thành lũy. Những hiện vật này giúp các nhà nghiên cứu xác định sự tồn tại của một nền văn minh cổ ở miền Nam Việt Nam.”\n Dựa vào đoạn tư liệu trên, loại tư liệu lịch sử nào đã được sử dụng để nghiên cứu về nền văn minh Óc Eo?",
+      "options": [
+        "Tư liệu truyền miệng.",
+        "Tư liệu chữ viết.",
+        "Tư liệu hiện vật.",
+        "Tư liệu ghi âm, ghi hình."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Âm lịch tính thời gian dựa vào",
+      "options": [
+        "Mặt Trời quay quanh Trái Đất.",
+        "Trái Đất quay quanh Mặt Trời.",
+        "Mặt Trăng quay quanh Trái Đất.",
+        "Sự thay đổi thời tiết trong năm."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Dương lịch tính thời gian dựa vào",
+      "options": [
+        "Mặt Trăng quay quanh Trái Đất.",
+        "Trái Đất quay quanh Mặt Trời.",
+        "Sự thay đổi ngày – đêm.",
+        "Các mùa trong năm."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Lịch chính thức được dùng trên thế giới hiện nay gọi là",
+      "options": [
+        "Âm lịch.",
+        "Dương lịch.",
+        "Công lịch.",
+        "Quốc lịch."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Năm 2010 đến 2020 được gọi là gì trong cách tính thời gian lịch sử?",
+      "options": [
+        "Thập kỉ.",
+        "Thế kỉ.",
+        "Thiên niên kỉ.",
+        "Năm."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Trước năm Công nguyên (TCN), thời gian được tính như thế nào?",
+      "options": [
+        "Năm 0, năm -1, năm -2…",
+        "Năm 1 TCN, 2 TCN, 3 TCN…",
+        "Năm 100, 200, 300…",
+        "Năm 1, 2, 3…"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "“Mười rằm trăng náu/ Mười sáu trăng treo” (đồng dao Việt Nam). Câu đồng dao trên thể hiện cách tính thời gian dựa trên yếu tố nào?",
+      "options": [
+        "Âm lịch.",
+        "Dương lịch.",
+        "Công lịch.",
+        "Thiên nhiên."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Vượn người xuất hiện vào khoảng thời gian nào?",
+      "options": [
+        "Khoảng từ 3 triệu đến 2 triệu năm cách ngày nay.",
+        "Khoảng từ 6 triệu đến 5 triệu năm cách ngày nay.",
+        "Khoảng từ 5 triệu đến 4 triệu năm cách ngày nay.",
+        "Khoảng từ 4 triệu đến 3 triệu năm cách ngày nay."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Tại Đông Nam Á, hóa thạch đầu tiên của Người tối cổ tìm thấy ở đâu?",
+      "options": [
+        "Đảo Gia-va (In-đô-nê-xi-a).",
+        "Hang Thẩm Hai (Việt Nam).",
+        "Đảo Su-ma-tra (In-đô-nê-xi-a).",
+        "Hang Thẩm Khuyên (Việt Nam)."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Người tối cổ xuất hiện cách đây khoảng",
+      "options": [
+        "5–6 triệu năm.",
+        "4 triệu năm.",
+        "150.000 năm.",
+        "2000 năm."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Người tối cổ có đặc điểm nổi bật là",
+      "options": [
+        "Sống theo bầy đàn, biết dùng lửa.",
+        "Đứng thẳng, đi bằng hai chân, ghè đẽo đá làm công cụ.",
+        "Có cấu tạo cơ thể giống người ngày nay.",
+        "Biết trồng trọt và chăn nuôi."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Các đường nối liền hai điểm cực Bắc và cực Nam trên bề mặt quả Địa Cầu là những đường",
+      "options": [
+        "Kinh tuyến.",
+        "Kinh tuyến gốc.",
+        "Vĩ tuyến.",
+        "Vĩ tuyến gốc."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Trên quả Địa Cầu có mấy điểm cực?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Những vĩ tuyến nằm từ Xích đạo đến cực Bắc là những vĩ tuyến",
+      "options": [
+        "Trên.",
+        "Dưới.",
+        "Bắc.",
+        "Nam."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Đường kinh tuyến gốc 0^0$ đi qua đài thiên văn Grin-uýt thuộc quốc gia nào sau đây?",
+      "options": [
+        "Đức.",
+        "Bồ Đào Nha.",
+        "Anh.",
+        "Tây Ban Nha."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Đường Xích đạo chia quả Địa cầu thành",
+      "options": [
+        "Nửa cầu Đông và nửa cầu Tây.",
+        "Nửa cầu Đông và bán cầu Bắc.",
+        "Bán cầu Bắc và bán cầu Nam.",
+        "Bán cầu Bắc và nửa cầu Tây."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Kinh tuyến gốc đi qua đâu?",
+      "options": [
+        "Paris.",
+        "Greenwich.",
+        "Washington D.C.",
+        "Bắc Kinh."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Một địa điểm B nằm trên xích đạo và có kinh độ là 60^0$T. Cách viết tọa độ địa lí của điểm đó là",
+      "options": [
+        "0^0$; 60^0$T.",
+        "60^0$T; 90^0$N.",
+        "0^0$; 60^0$Đ.",
+        "60^0$T; 90^0$B."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Trên quả Địa cầu, nếu cứ cách 10^0$, ta vẽ một kinh tuyến thì có tất cả bao nhiêu kinh tuyến?",
+      "options": [
+        "18",
+        "20",
+        "36",
+        "30"
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Kinh độ là gì?",
+      "options": [
+        "Khoảng cách tính bằng độ từ kinh tuyến gốc đến kinh tuyến đi qua điểm đó.",
+        "Khoảng cách tính bằng độ từ Xích đạo đến một điểm theo hướng Bắc hoặc Nam.",
+        "Khoảng cách từ một điểm đến trung tâm Trái Đất.",
+        "Khoảng cách từ một điểm đến đường chí tuyến Bắc."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Vĩ độ là gì?",
+      "options": [
+        "Khoảng cách theo hướng Bắc hoặc Nam tính từ kinh tuyến gốc.",
+        "Khoảng cách theo hướng Đông hoặc Tây tính từ đường xích đạo.",
+        "Khoảng cách bằng số độ từ Xích đạo đến vĩ tuyến đi qua điểm đó.",
+        "Khoảng cách theo hướng Đông hoặc Tây tính từ kinh tuyến gốc."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Hệ Mặt Trời gồm có Mặt Trời và bao nhiêu hành tinh khác nhau?",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "6"
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Trái Đất có dạng hình gì?",
+      "options": [
+        "Hình tròn.",
+        "Hình vuông.",
+        "Hình cầu.",
+        "Hình bầu dục."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "Vị trí thứ 4 trong Hệ Mặt Trời là hành tinh nào dưới đây?",
+      "options": [
+        "Trái Đất.",
+        "Sao Mộc.",
+        "Sao Hỏa.",
+        "Sao Thổ."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "question": "Trong hệ Mặt Trời, Trái Đất ở vị trí nào theo thứ tự xa dần Mặt Trời?",
+      "options": [
+        "Vị trí thứ 3.",
+        "Vị trí thứ 5.",
+        "Vị trí thứ 9.",
+        "Vị trí thứ 7."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "Các hành tinh trong hệ Mặt Trời được sắp xếp như thế nào từ gần đến xa?",
+      "options": [
+        "Hải Vương - Sao Thủy - Sao Kim - Trái Đất - Sao Hỏa - Sao Mộc - Sao Thổ - Thiên Vương.",
+        "Thiên Vương - Hải Vương - Trái Đất - Sao Kim - Sao Thủy - Sao Hỏa - Sao Mộc - Sao Thổ.",
+        "Sao Mộc - Sao Kim - Trái Đất - Sao Hỏa - Sao Thủy - Sao Thổ - Thiên Vương - Hải Vương.",
+        "Sao Thủy - Sao Kim - Trái Đất - Sao Hỏa - Sao Mộc - Sao Thổ - Thiên Vương - Hải Vương."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "Mặt Trời và 8 hành tinh chuyển động xung quanh nó còn được gọi là gì?",
+      "options": [
+        "Thiên hà.",
+        "Hệ Mặt Trời.",
+        "Trái Đất.",
+        "Dải ngân hà."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "Trái Đất có bán kính ở Xích đạo là bao nhiêu?",
+      "options": [
+        "6387 km.",
+        "6356 km.",
+        "6378 km.",
+        "6365 km."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "L001",
+      "name": "Giua Hoc Ki I"
+    }
+  ]
+}

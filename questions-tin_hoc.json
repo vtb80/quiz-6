@@ -1,0 +1,400 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Khoa xem bản tin dự báo thời tiết, Khoa kết luận: “Hôm nay, trời có mưa” nên khi đi học sẽ mang theo áo mưa. Phát biểu nào sau đây đúng?",
+      "options": [
+        "Số liệu về nhiệt độ trên bản tin dự báo thời tiết là dữ liệu, kết luận của Khoa là thông tin.",
+        "Bản tin dự báo thời tiết là thông tin, kết luận của Khoa là dữ liệu.",
+        "Những con số trong bản tin dự báo thời tiết là thông tin.",
+        "Bản tin dự báo thời tiết và kết luận của Khoa đều là dữ liệu."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Dữ liệu trong máy tính được mã hóa thành dãy bit vì",
+      "options": [
+        "dãy bit được xử lí dễ dàng hơn.",
+        "máy tính chỉ làm việc với hai kí hiệu 0 và 1.",
+        "dãy bit chiếm ít dung lượng nhớ hơn.",
+        "dãy bit đáng tin cậy hơn."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Mạng máy tính không cho phép người dùng chia sẻ",
+      "options": [
+        "dữ liệu",
+        "máy quét",
+        "bàn phím và chuột",
+        "máy in"
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Máy tính sử dụng dãy bit để làm gì?",
+      "options": [
+        "Biểu diễn văn bản.",
+        "Biểu diễn số, văn bản, hình ảnh, âm thanh.",
+        "Biểu diễn các số.",
+        "Biểu diễn hình ảnh, âm thanh."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Máy tính gồm mấy thành phần để có thể thực hiện được các hoạt động xử lí thông tin",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Việc thuyết trình chủ đề tình bạn trước lớp là hoạt động nào trong quá trình xử lí thông tin?",
+      "options": [
+        "Truyền thông tin.",
+        "Xử lí thông tin.",
+        "Lưu trữ thông tin.",
+        "Thu nhận thông tin."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Kết luận nào sau đây không phải là ưu điểm của mạng không dây.",
+      "options": [
+        "Kết nối không dây có thể thực hiện ở mọi địa hình, không gian.",
+        "Không lắp đặt được trên địa hình khó khăn và khó mở rộng mạng.",
+        "Việc lắp đặt và mở rộng mạng dễ dàng.",
+        "Các thiết bị trong mạng có thể linh hoạt thay đổi vị trí mà vẫn duy trì kết nối mạng."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Mạng không dây được kết nối bằng",
+      "options": [
+        "Bluetooth",
+        "Cáp điện",
+        "Cáp quang",
+        "Sóng điện từ, bức xạ hồng ngoại…"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Phát biểu nào sau đây không chính xác?",
+      "options": [
+        "Mạng không dây thuận tiện cho những người di chuyển nhiều.",
+        "Mạng không dây dễ dàng lắp đặt hơn vì không cần khoan đục và lắp đặt đường dây.",
+        "Mạng không dây thường được sử dụng cho thiết bị di động như máy tính bảng, điện thoại,…",
+        "Mạng không dây nhanh hơn và ổn định hơn mạng có dây."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Mạng LAN hay còn được gọi là:",
+      "options": [
+        "Wifi.",
+        "Mạng cục bộ",
+        "Mạng có dây",
+        "Mạng không dây"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Mạng Internet đem lại cho con người nhiều lợi ích ở hầu khắp các lĩnh vực nào?",
+      "options": [
+        "Trong lĩnh vực khoa học, kỹ thuật và y tế, thương mại, tài chính và kinh tế",
+        "Trong văn hóa nghệ thuật, giải trí và thể thao.",
+        "Trong giáo dục đào tạo và đời sống hàng ngày",
+        "Tất cả đều đúng"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "CPU là cụm từ viết tắt để chỉ:",
+      "options": [
+        "Bộ nhớ trong của máy tính.",
+        "Thiết bị trong máy tính.",
+        "Bộ xử lý trung tâm.",
+        "Bộ phận điều khiển hoạt động máy tính và các thiết bị."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Những khả năng to lớn nào đã làm cho máy tính trở thành một công cụ xử lý thông tin hữu hiệu?",
+      "options": [
+        "Làm việc không mệt mỏi.",
+        "Khả năng tính toán nhanh, chính xác.",
+        "Khả năng lưu trữ lớn.",
+        "Tất cả các khả năng trên."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Phát biểu nào sau đây đúng về lợi ích của thông tin?",
+      "options": [
+        "Có độ tin cậy cao, không phụ thuộc vào dữ liệu.",
+        "Đem lại hiểu biết và giúp con người có những lựa chọn tốt.",
+        "Có độ tin cậy cao, đem lại hiểu biết cho con người.",
+        "Đem lại hiểu biết cho con người, không phụ thuộc vào dữ liệu."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Internet là mạng:",
+      "options": [
+        "Kết nối hai máy tính trong một phòng học với nhau",
+        "Kết nối các máy tính trong một nước",
+        "Kết nối các máy tính trong một thành phố.",
+        "Kết nối nhiều mạng máy tính trên toàn cầu"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Khả năng lưu trữ của một thiết bị nhớ được gọi là?",
+      "options": [
+        "Khối lượng",
+        "Dung lượng",
+        "Thể tích",
+        "Dung dịch"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Quá trình xử lí thông tin ba bước đó là:",
+      "options": [
+        "Xử lí thông tin - xuất thông tin ra màn hình - in ra giấy",
+        "Nhập thông tin - xử lí thông tin - xuất thông tin",
+        "Nhập thông tin - xuất thông tin - xử lí thông tin",
+        "Xử lí thông tin - in ra giấy - sửa đổi thông tin"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Phát biểu nào sau đây đúng?",
+      "options": [
+        "Dữ liệu được thể hiện dưới dạng con số, văn bản, hình ảnh, âm thanh.",
+        "Dữ liệu là những giá trị số do con người nghĩ ra.",
+        "Dữ liệu chỉ có ở trong máy tính.",
+        "Dữ liệu chỉ có thể được hiểu bởi những người có trình độ cao."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Bao nhiêu ‘byte’ tạo thành 1 ‘kilobyte'?",
+      "options": [
+        "1024",
+        "210",
+        "410",
+        "2014"
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Khi học bài trên lớp em ghi nhớ kiến thức thầy cô giảng bài. Vậy việc ghi nhớ kiến thức là hoạt động nào của quá trình xử lí thông tin?",
+      "options": [
+        "Lưu trữ thông tin",
+        "Thu nhận thông tin",
+        "Xử lí thông tin",
+        "Truyền thông tin"
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Đơn vị nhỏ nhất để lưu trữ thông tin?",
+      "options": [
+        "Bit",
+        "Mê-ga-byte (MB)",
+        "Byte (B)",
+        "Ki-lô-byte (KB)"
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Dãy bit là gì?",
+      "options": [
+        "Là âm thanh phát ra từ máy tính.",
+        "Là dãy những kí hiệu 0 và 1.",
+        "Là một dãy chỉ gồm chữ số 2.",
+        "Là dãy những chữ số từ 0 đến 9."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Thông tin là…",
+      "options": [
+        "những gì đem lại hiểu biết cho con người về thế giới xung quanh và về chính bản thân mình",
+        "vật mang tin",
+        "các con số",
+        "những gì em thấy"
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Thành phần nào được coi là bộ não của máy tính?",
+      "options": [
+        "Thiết bị vào",
+        "Bộ xử lí (CPU)",
+        "Thiết bị vào",
+        "Bộ nhớ"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Bàn phím, chuột, máy quét và webcam là những ví dụ về loại thiết bị nào của máy tính?",
+      "options": [
+        "Thiết bị vào.",
+        "Thiết bị lưu trữ.",
+        "Bộ nhớ.",
+        "Thiết bị ra."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Vật mang tin là",
+      "options": [
+        "thông tin",
+        "dữ liệu",
+        "hiểu biết của con người",
+        "vật chứa dữ liệu"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Tai người bình thường có thể tiếp nhận thông tin nào dưới đây?",
+      "options": [
+        "Hẹn bạn Hương cùng đi học",
+        "Tiếng chim hót",
+        "Đi học mang theo áo mưa",
+        "Ăn sáng trước khi đến trường"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Các thao tác lập luận, giải thích, phân tích, phán đoán, tưởng tượng,... của con người được xếp vào hoạt động nào trong quá trình xử lí thông tin?",
+      "options": [
+        "Lưu trữ thông tin.",
+        "Truyền thông tin.",
+        "Thu nhận thông tin.",
+        "Xử lý thông tin."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Mắt thường không thể tiếp nhận thông tin nào dưới đây?",
+      "options": [
+        "Bạn Phương quên không đeo khăn quàng đỏ",
+        "Rác bẩn vứt ngoài hành lang lớp học",
+        "Đàn kiến đang “tấn công” lọ đường quên đậy nắp",
+        "Những con vi trùng gây bệnh lị lẫn trong thức ăn bị ôi thiu"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Kết quả của việc nhìn thấy hoặc nghe thấy ở con người được xếp vào hoạt động nào trong quá trình xử lí thông tin?",
+      "options": [
+        "Lưu trữ.",
+        "Xử lí.",
+        "Truyền.",
+        "Thu nhận."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "L001",
+      "name": "Giua Hoc Ki I"
+    }
+  ]
+}
