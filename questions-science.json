@@ -890,12 +890,181 @@
       ],
       "correct": 3,
       "lessonId": "L001"
+    },
+    {
+      "id": 76,
+      "type": "multiple_choice",
+      "question": "What does it mean to recycle a material?",
+      "options": [
+        "Use it again in the same way",
+        "Turn it into a new product after processing",
+        "Throw it away properly",
+        "Store it for future use"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 77,
+      "type": "multiple_choice",
+      "question": "Which of the following materials can be recycled?",
+      "options": [
+        "Paper",
+        "Plastic",
+        "Glass",
+        "All of the above"
+      ],
+      "correct": 3,
+      "lessonId": "L002"
+    },
+    {
+      "id": 78,
+      "type": "multiple_choice",
+      "question": "Which of these is an example of re-using?",
+      "options": [
+        "Turning old paper into new paper",
+        "Melting aluminium cans to make new ones",
+        "Using a glass jar again to store food",
+        "Throwing away old clothes"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 79,
+      "type": "multiple_choice",
+      "question": "What is the correct order of the “3Rs” for waste management?",
+      "options": [
+        "Recycle → Reduce → Reuse",
+        "Reuse → Recycle → Reduce",
+        "Reduce → Reuse → Recycle",
+        "Recycle → Reuse → Reduce"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 80,
+      "type": "multiple_choice",
+      "question": "Why is recycling important?",
+      "options": [
+        "It uses more energy than making new materials",
+        "It helps reduce waste and save resources",
+        "It makes pollution worse",
+        "It only helps factories make more products"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 81,
+      "type": "multiple_choice",
+      "question": "Which of these steps comes first in the recycling process?",
+      "options": [
+        "Melting and shaping",
+        "Sorting and cleaning",
+        "Selling new products",
+        "Packaging"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 82,
+      "type": "multiple_choice",
+      "question": "Which of the following actions helps reduce waste?",
+      "options": [
+        "Buying single-use bottles",
+        "Printing extra paper copies",
+        "Using a refillable water bottle",
+        "Throwing away food"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 83,
+      "type": "multiple_choice",
+      "question": "What happens when materials are not recycled or re-used?",
+      "options": [
+        "They become cleaner",
+        "They pollute the environment",
+        "They disappear quickly",
+        "They help plants grow"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 84,
+      "type": "multiple_choice",
+      "question": "Which statement describes a renewable resource?",
+      "options": [
+        "A resource that never runs out",
+        "A resource that can be replaced naturally over time",
+        "A resource that cannot be reused",
+        "A resource that is made only from metal"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 85,
+      "type": "multiple_choice",
+      "question": "Which of the following is not recyclable in most areas?",
+      "options": [
+        "Aluminium cans",
+        "Plastic bottles",
+        "Food waste",
+        "Paper"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 86,
+      "type": "true_false",
+      "question": "Recycling helps save energy compared to making products from new materials.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 87,
+      "type": "true_false",
+      "question": "Glass can be recycled many times without losing quality.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 88,
+      "type": "true_false",
+      "question": "Reusing means breaking a material down into raw form to make a new product.",
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 89,
+      "type": "true_false",
+      "question": "Sorting waste correctly is an important part of recycling.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 90,
+      "type": "true_false",
+      "question": "Throwing all materials together in one bin makes recycling easier.",
+      "correct": 1,
+      "lessonId": "L002"
     }
   ],
   "lessons": [
     {
       "id": "L001",
       "name": "Giua Hoc Ki I"
+    },
+    {
+      "id": "L002",
+      "name": "Caring for the Environment"
     }
   ]
 }

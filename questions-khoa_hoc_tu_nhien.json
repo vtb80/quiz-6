@@ -885,12 +885,181 @@
       ],
       "correct": 2,
       "lessonId": "L001"
+    },
+    {
+      "id": 73,
+      "type": "multiple_choice",
+      "question": "Khi đựng thức ăn nóng, không nên dùng loại vật liệu nào?",
+      "options": [
+        "Nhựa",
+        "Kim loại",
+        "Gốm sứ",
+        "Thủy tinh"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 74,
+      "type": "multiple_choice",
+      "question": "Ký hiệu “Microwave safe” trên hộp nhựa cho biết:",
+      "options": [
+        "Hộp nhựa không được tái chế",
+        "Hộp nhựa có thể sử dụng trong lò vi sóng an toàn",
+        "Hộp nhựa dùng được để chứa thực phẩm béo",
+        "Hộp nhựa không dùng được trong tủ lạnh"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 75,
+      "type": "multiple_choice",
+      "question": "Vật liệu nào dưới đây dễ gây ô nhiễm môi trường nếu không được xử lý đúng cách?",
+      "options": [
+        "Nhựa",
+        "Gỗ",
+        "Kính",
+        "Đá"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 76,
+      "type": "multiple_choice",
+      "question": "Nguyên tắc 3R trong sử dụng vật liệu gồm:",
+      "options": [
+        "Reduce – Reuse – Recycle",
+        "Reduce – Repair – Replace",
+        "Reuse – Restore – Rebuild",
+        "Reduce – Repeat – Recycle"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 77,
+      "type": "true_false",
+      "question": "Gạch không nung là ví dụ về vật liệu xây dựng giúp bảo vệ môi trường.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 78,
+      "type": "true_false",
+      "question": "Không nên đốt các sản phẩm làm từ cao su vì sẽ sinh ra khí độc.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 79,
+      "type": "true_false",
+      "question": "Khi sử dụng vật liệu nhựa, nên tránh dùng trong lò vi sóng trừ khi có ký hiệu an toàn.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 80,
+      "type": "multiple_choice",
+      "question": "“Reduce” trong mô hình 3R nghĩa là:",
+      "options": [
+        "Tái sử dụng",
+        "Tái chế",
+        "Giảm thiểu sử dụng",
+        "Sửa chữa"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 81,
+      "type": "multiple_choice",
+      "question": "Vật liệu nào không dẫn điện, nhẹ, dễ tạo hình nhưng khó phân hủy?",
+      "options": [
+        "Gỗ",
+        "Nhựa",
+        "Cao su",
+        "Thủy tinh"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 82,
+      "type": "true_false",
+      "question": "Sử dụng vật liệu an toàn giúp bảo vệ sức khỏe và tiết kiệm tài nguyên.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 83,
+      "type": "multiple_choice",
+      "question": "Việc sử dụng gạch không nung, kính cách nhiệt là ví dụ của nguyên tắc nào trong 3R?",
+      "options": [
+        "Reduce",
+        "Reuse",
+        "Recycle",
+        "Replace"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 84,
+      "type": "multiple_choice",
+      "question": "Không nên rửa đồ nhựa bằng nước sôi vì:",
+      "options": [
+        "Làm mất màu hộp",
+        "Làm chảy nhựa, sinh ra chất độc",
+        "Làm trầy xước bề mặt",
+        "Làm hộp dễ bị nứt"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 85,
+      "type": "multiple_choice",
+      "question": "Khi tái sử dụng chai nhựa cũ để trồng cây, ta đang thực hiện nguyên tắc nào?",
+      "options": [
+        "Reduce",
+        "Reuse",
+        "Recycle",
+        "Replace"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 86,
+      "type": "multiple_choice",
+      "question": "“Recycle” trong mô hình 3R có nghĩa là:",
+      "options": [
+        "Giảm lượng rác thải",
+        "Tái chế – biến vật liệu cũ thành sản phẩm mới",
+        "Dùng lại sản phẩm",
+        "Tiết kiệm năng lượng"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 87,
+      "type": "true_false",
+      "question": "Việc chọn vật liệu thân thiện với môi trường giúp hướng đến mục tiêu phát triển bền vững.",
+      "correct": 0,
+      "lessonId": "L002"
     }
   ],
   "lessons": [
     {
       "id": "L001",
       "name": "Giua Hoc Ki I"
+    },
+    {
+      "id": "L002",
+      "name": "Mot So Vat Lieu Thong Dung"
     }
   ]
 }

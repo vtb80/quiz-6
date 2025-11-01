@@ -259,12 +259,181 @@
       ],
       "correct": 1,
       "lessonId": "L001"
+    },
+	{
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Tôn trọng sự thật là:",
+      "options": [
+        "Làm theo ý mình cho thoải mái",
+        "Nói dối để tránh bị phê bình",
+        "Suy nghĩ, nói và làm theo đúng sự thật",
+        "Giấu đi sự thật nếu bất lợi cho bản thân"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Người tôn trọng sự thật thường có phẩm chất nào sau đây?",
+      "options": [
+        "Thật thà, trung thực",
+        "Giả tạo, mưu mẹo",
+        "Ích kỉ, vụ lợi",
+        "Khó gần, kín đáo"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Khi nhận ra mình làm sai, người tôn trọng sự thật sẽ:",
+      "options": [
+        "Đổ lỗi cho người khác",
+        "Giả vờ không biết",
+        "Nhận lỗi và sửa sai",
+        "Che giấu để không bị phát hiện"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Việc bóp méo sự thật gây ra hậu quả gì?",
+      "options": [
+        "Làm mọi người thêm tin tưởng",
+        "Gây mất lòng tin, ảnh hưởng đến danh dự",
+        "Giúp đạt được mục tiêu nhanh hơn",
+        "Không có ảnh hưởng gì"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Tôn trọng sự thật giúp con người:",
+      "options": [
+        "Được mọi người yêu quý, tin cậy",
+        "Khó hòa đồng với người khác",
+        "Trở nên khép kín",
+        "Hay bị người khác lợi dụng"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Khi nghe bạn nói sai sự thật về người khác, em nên:",
+      "options": [
+        "Im lặng cho qua",
+        "Đồng ý để không mất lòng",
+        "Nhắc bạn nói đúng sự thật",
+        "Kể lại cho nhiều người biết"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Trong các hành vi sau, hành vi nào thể hiện tôn trọng sự thật?",
+      "options": [
+        "Che giấu lỗi của bạn thân",
+        "Báo cáo trung thực sự việc cho cô giáo",
+        "Khoe khoang điều mình không làm được",
+        "Bịa chuyện để gây chú ý"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Người không tôn trọng sự thật dễ bị:",
+      "options": [
+        "Mọi người xa lánh",
+        "Mọi người tin tưởng",
+        "Được khen ngợi",
+        "Giao nhiệm vụ quan trọng"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Tôn trọng sự thật góp phần xây dựng:",
+      "options": [
+        "Mối quan hệ xã hội tốt đẹp",
+        "Cạnh tranh, chia rẽ",
+        "Sự nghi ngờ lẫn nhau",
+        "Lối sống ích kỉ"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Khi ai đó xuyên tạc sự thật, chúng ta cần:",
+      "options": [
+        "Im lặng để tránh rắc rối",
+        "Ủng hộ người đó",
+        "Phản ứng, bảo vệ sự thật",
+        "Cười cho qua chuyện"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 31,
+      "type": "true_false",
+      "question": "Tôn trọng sự thật chỉ cần nói thật, không cần hành động đúng.",
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 32,
+      "type": "true_false",
+      "question": "Người biết nhận lỗi khi mắc sai lầm là người tôn trọng sự thật.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 33,
+      "type": "true_false",
+      "question": "Che giấu sự thật để tránh bị trách phạt là hành vi thiếu tôn trọng sự thật.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 34,
+      "type": "true_false",
+      "question": "Tôn trọng sự thật giúp con người được mọi người tin yêu, quý trọng.",
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 35,
+      "type": "true_false",
+      "question": "Khi bạn làm sai mà không ai biết, không cần phải nói ra là được.",
+      "correct": 1,
+      "lessonId": "L002"
     }
   ],
   "lessons": [
     {
       "id": "L001",
       "name": "Giua Hoc Ki I"
+    },
+    {
+      "id": "L002",
+      "name": "Ton Trong Su That"
     }
   ]
 }

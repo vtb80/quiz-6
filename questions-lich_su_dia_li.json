@@ -454,12 +454,380 @@
       ],
       "correct": 2,
       "lessonId": "L001"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "Ai Cập cổ đại nằm ở khu vực nào của châu Phi?",
+      "options": [
+        "Đông Phi",
+        "Tây Phi",
+        "Nam Phi",
+        "Đông Bắc châu Phi"
+      ],
+      "correct": 3,
+      "lessonId": "L002"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "Con sông gắn liền với nền văn minh Ai Cập cổ đại là:",
+      "options": [
+        "Sông Hằng",
+        "Sông Nin",
+        "Sông Ơ-phrát",
+        "Sông Ti-grơ"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "Vì sao người Ai Cập cổ đại gọi sông Nin là “món quà của Ai Cập”?",
+      "options": [
+        "Vì sông cung cấp nhiều cá",
+        "Vì giúp giao thông thuận tiện",
+        "Vì sông mang phù sa, giúp trồng trọt",
+        "Vì sông nằm giữa sa mạc"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "Người đứng đầu nhà nước Ai Cập cổ đại là:",
+      "options": [
+        "Hoàng hậu",
+        "Quan tể tướng",
+        "Pharaon",
+        "Thầy tu"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "Trong xã hội Ai Cập cổ đại, tầng lớp đông đảo nhất là:",
+      "options": [
+        "Nông dân",
+        "Quý tộc",
+        "Thầy tu",
+        "Nô lệ"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "Người Ai Cập cổ đại đã viết bằng loại chữ nào?",
+      "options": [
+        "Chữ tượng hình",
+        "Chữ cái La-tinh",
+        "Chữ số học",
+        "Chữ tượng ý"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "Vật liệu người Ai Cập cổ đại dùng để viết là:",
+      "options": [
+        "Đá và đất sét",
+        "Gỗ",
+        "Giấy papyrus",
+        "Da thú"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "Công trình kiến trúc tiêu biểu nhất của Ai Cập cổ đại là:",
+      "options": [
+        "Vạn lí Trường thành",
+        "Kim tự tháp",
+        "Đền Pác-tê-nông",
+        "Tháp nghiêng Pisa"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "Kim tự tháp được xây dựng chủ yếu để:",
+      "options": [
+        "Làm nơi học tập",
+        "Làm kho lúa",
+        "Làm lăng mộ cho vua",
+        "Làm nơi thờ thần"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "Tượng Nhân sư (Sphinx) có hình dáng như thế nào?",
+      "options": [
+        "Thân người đầu sư tử",
+        "Thân sư tử đầu người",
+        "Thân bò đầu người",
+        "Thân rắn đầu chim"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "question": "Người Ai Cập cổ đại biết dùng loại lịch gì?",
+      "options": [
+        "Lịch Mặt Trăng",
+        "Lịch Mặt Trời",
+        "Lịch Âm Dương",
+        "Lịch Can Chi"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "question": "Số ngày trong một năm theo lịch Ai Cập cổ đại là:",
+      "options": [
+        "360 ngày",
+        "365 ngày",
+        "366 ngày",
+        "370 ngày"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "Lĩnh vực khoa học nào phát triển nhờ đo đất, xây kim tự tháp?",
+      "options": [
+        "Thiên văn học",
+        "Hóa học",
+        "Toán học",
+        "Y học"
+      ],
+      "correct": 2,
+      "lessonId": "L002"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "Thành tựu y học nổi bật của Ai Cập cổ đại là:",
+      "options": [
+        "Biết làm thuốc, giải phẫu, ướp xác",
+        "Biết luyện kim",
+        "Biết trồng lúa",
+        "Biết chế máy móc"
+      ],
+      "correct": 0,
+      "lessonId": "L002"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "question": "Ai Cập cổ đại đã để lại cho nhân loại những di sản gì?",
+      "options": [
+        "Tác phẩm văn học",
+        "Kiến trúc, chữ viết, lịch pháp",
+        "Vũ khí",
+        "Truyện Hy Lạp"
+      ],
+      "correct": 1,
+      "lessonId": "L002"
+    },
+    {
+      "id": 51,
+      "type": "multiple_choice",
+      "question": "Trái Đất tự quay quanh trục theo hướng nào?",
+      "options": [
+        "Đông sang Tây",
+        "Tây sang Đông",
+        "Bắc xuống Nam",
+        "Nam lên Bắc"
+      ],
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 52,
+      "type": "multiple_choice",
+      "question": "Thời gian Trái Đất quay hết một vòng quanh trục là:",
+      "options": [
+        "12 giờ",
+        "24 giờ",
+        "365 ngày",
+        "30 ngày"
+      ],
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 53,
+      "type": "multiple_choice",
+      "question": "Hiện tượng luân phiên ngày và đêm là do:",
+      "options": [
+        "Trái Đất quay quanh Mặt Trời",
+        "Trái Đất tự quay quanh trục",
+        "Trái Đất nghiêng 23,5°",
+        "Ánh sáng Mặt Trời thay đổi"
+      ],
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 54,
+      "type": "multiple_choice",
+      "question": "Ở xích đạo, độ dài ngày và đêm như thế nào?",
+      "options": [
+        "Ngày dài hơn đêm",
+        "Đêm dài hơn ngày",
+        "Ngày và đêm bằng nhau",
+        "Không xác định được"
+      ],
+      "correct": 2,
+      "lessonId": "L003"
+    },
+    {
+      "id": 55,
+      "type": "multiple_choice",
+      "question": "Khi ở Anh (kinh tuyến 0°) là 0 giờ, thì ở Việt Nam (kinh tuyến 105°Đ) là mấy giờ?",
+      "options": [
+        "5 giờ",
+        "6 giờ",
+        "7 giờ",
+        "8 giờ"
+      ],
+      "correct": 2,
+      "lessonId": "L003"
+    },
+    {
+      "id": 56,
+      "type": "multiple_choice",
+      "question": "Giờ ở nơi nào sẽ muộn hơn?",
+      "options": [
+        "Nơi ở phía Đông",
+        "Nơi ở phía Tây",
+        "Nơi ở xích đạo",
+        "Cả hai như nhau"
+      ],
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 57,
+      "type": "multiple_choice",
+      "question": "Sự lệch hướng của gió và dòng biển là do:",
+      "options": [
+        "Trái Đất quay quanh Mặt Trời",
+        "Trái Đất tự quay quanh trục",
+        "Trái Đất có từ trường",
+        "Sức hút Mặt Trăng"
+      ],
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 58,
+      "type": "multiple_choice",
+      "question": "Ở bán cầu Bắc, vật chuyển động bị lệch về phía nào?",
+      "options": [
+        "Bên trái",
+        "Bên phải",
+        "Phía Đông",
+        "Phía Tây"
+      ],
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 59,
+      "type": "multiple_choice",
+      "question": "Ở bán cầu Nam, vật chuyển động bị lệch hướng:",
+      "options": [
+        "Sang phải",
+        "Sang trái",
+        "Không bị lệch",
+        "Ngược chiều kim đồng hồ"
+      ],
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 60,
+      "type": "multiple_choice",
+      "question": "Múi giờ gốc được tính từ kinh tuyến nào?",
+      "options": [
+        "90°T",
+        "180°",
+        "0° (Greenwich)",
+        "15°Đ"
+      ],
+      "correct": 2,
+      "lessonId": "L003"
+    },
+    {
+      "id": 61,
+      "type": "true_false",
+      "question": "Trái Đất quay quanh trục một vòng trong 12 giờ.",
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 62,
+      "type": "true_false",
+      "question": "Nhờ Trái Đất tự quay quanh trục nên có hiện tượng ngày và đêm luân phiên.",
+      "correct": 0,
+      "lessonId": "L003"
+    },
+    {
+      "id": 63,
+      "type": "true_false",
+      "question": "Việt Nam nằm ở múi giờ số 7, muộn hơn giờ GMT 7 tiếng.",
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 64,
+      "type": "true_false",
+      "question": "Lực Côriôlit chỉ xuất hiện khi Trái Đất quay quanh Mặt Trời.",
+      "correct": 1,
+      "lessonId": "L003"
+    },
+    {
+      "id": 65,
+      "type": "true_false",
+      "question": "“Đông sớm – Tây muộn” là quy tắc giúp xác định nơi nào có giờ sớm, nơi nào có giờ muộn.",
+      "correct": 0,
+      "lessonId": "L003"
     }
   ],
   "lessons": [
     {
       "id": "L001",
       "name": "Giua Hoc Ki I"
+    },
+    {
+      "id": "L002",
+      "name": "Ai Cap Co Dai"
+    },
+    {
+      "id": "L003",
+      "name": "Chuyen Dong Trai Dat"
     }
   ]
 }
