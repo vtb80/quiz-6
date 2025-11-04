@@ -1055,6 +1055,226 @@
       "question": "Throwing all materials together in one bin makes recycling easier.",
       "correct": 1,
       "lessonId": "L002"
+    },
+    {
+      "id": 91,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "What is a fuel?",
+      "options": [
+        "A substance that produces heat on burning",
+        "A liquid used for cleaning",
+        "A type of metal",
+        "A gas used for breathing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 92,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Which of the following is a fossil fuel?",
+      "options": [
+        "Wood",
+        "Coal",
+        "Biogas",
+        "Charcoal"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 93,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Which gas is necessary for a fuel to burn?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 94,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Which of these fuels is renewable?",
+      "options": [
+        "Petrol",
+        "Diesel",
+        "Biogas",
+        "Coal"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 95,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "What is the main component of natural gas?",
+      "options": [
+        "Ethane",
+        "Methane",
+        "Propane",
+        "Butane"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 96,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Which of the following fuels is solid?",
+      "options": [
+        "LPG",
+        "Coal",
+        "Petrol",
+        "Kerosene"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Which fuel is commonly used in vehicles?",
+      "options": [
+        "Charcoal",
+        "Diesel",
+        "Firewood",
+        "Biogas"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Which fuel is commonly used for cooking in rural areas?",
+      "options": [
+        "Biogas",
+        "Petrol",
+        "Diesel",
+        "Coal"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 99,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Which type of energy is released when fuel burns?",
+      "options": [
+        "Chemical energy",
+        "Light and heat energy",
+        "Kinetic energy",
+        "Sound energy"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "What is the process of burning fuel called?",
+      "options": [
+        "Filtration",
+        "Combustion",
+        "Evaporation",
+        "Condensation"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 101,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "Fossil fuels are formed in a few years.",
+      "correct": 1
+    },
+    {
+      "id": 102,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "Burning fuels can cause air pollution.",
+      "correct": 0
+    },
+    {
+      "id": 103,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "Hydrogen gas can be used as a clean fuel.",
+      "correct": 0
+    },
+    {
+      "id": 104,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "CNG stands for Compressed Natural Gas.",
+      "correct": 0
+    },
+    {
+      "id": 105,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "All fuels are safe to store and use without precautions.",
+      "correct": 1
+    },
+    {
+      "id": 106,
+      "type": "fill_in_blank",
+      "lessonId": "L003",
+      "question": "The energy stored in fuels comes from their...........energy.",
+      "correct": [
+        "chemical",
+        "CHEMICAL",
+        "Chemical"
+      ]
+    },
+    {
+      "id": 107,
+      "type": "fill_in_blank",
+      "lessonId": "L003",
+      "question": "Coal is a type of.......fuel.",
+      "correct": [
+        "fossil",
+        "FOSSIL",
+        "Fossil"
+      ]
+    },
+    {
+      "id": 108,
+      "type": "fill_in_blank",
+      "lessonId": "L003",
+      "question": "The black smoke from burning fuels contains.........dioxide.",
+      "correct": [
+        "carbon",
+        "CARBON",
+        "Carbon"
+      ]
+    },
+    {
+      "id": 109,
+      "type": "fill_in_blank",
+      "lessonId": "L003",
+      "question": "The efficiency of a fuel is measured by the amount of..........it produces.",
+      "correct": [
+        "heat",
+        "HEAT",
+        "Heat"
+      ]
+    },
+    {
+      "id": 110,
+      "type": "fill_in_blank",
+      "lessonId": "L003",
+      "question": ".........is a renewable fuel produced by the decomposition of organic waste.",
+      "correct": [
+        "Biogas",
+        "BIOGAS",
+        "biogas"
+      ]
     }
   ],
   "lessons": [
@@ -1065,6 +1285,10 @@
     {
       "id": "L002",
       "name": "Caring for the Environment"
+    },
+    {
+      "id": "L003",
+      "name": "Fuel"
     }
   ]
 }
