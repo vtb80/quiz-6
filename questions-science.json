@@ -1275,6 +1275,171 @@
         "BIOGAS",
         "biogas"
       ]
+    },
+    {
+      "id": 111,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Which of the following is a natural material?",
+      "options": [
+        "Plastic",
+        "Glass",
+        "Cotton",
+        "Steel"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 112,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "A material that allows light to pass through but you can’t see objects clearly behind it is called:",
+      "options": [
+        "Transparent",
+        "Translucent",
+        "Opaque",
+        "Reflective"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 113,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Which material is magnetic?",
+      "options": [
+        "Wood",
+        "Copper",
+        "Iron",
+        "Glass"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 114,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Which property makes rubber suitable for covering electrical wires?",
+      "options": [
+        "It conducts electricity",
+        "It is flexible and an insulator",
+        "It is transparent",
+        "It is magnetic"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 115,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Metals are good insulators of heat.",
+      "correct": 1
+    },
+    {
+      "id": 116,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Which material is the best conductor of heat?",
+      "options": [
+        "Plastic",
+        "Metal",
+        "Rubber",
+        "Wood"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 117,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Which material is waterproof?",
+      "options": [
+        "Cotton",
+        "Paper",
+        "Plastic",
+        "Sponge"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 118,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Glass is a transparent material.",
+      "correct": 0
+    },
+    {
+      "id": 119,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Which statement about recycling is correct?",
+      "options": [
+        "Using a plastic bottle again to store water is recycling",
+        "Melting old metal to make new cans is recycling",
+        "Using both sides of paper is recycling",
+        "Throwing waste in bins is recycling"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 120,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Reusing means making new products from old materials.",
+      "correct": 1
+    },
+    {
+      "id": 121,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Which material would be best for making a frying pan handle?",
+      "options": [
+        "Metal",
+        "Wood",
+        "Glass",
+        "Paper"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 122,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Which of the following is a man-made material?",
+      "options": [
+        "Wool",
+        "Leather",
+        "Plastic",
+        "Cotton"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 123,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "“Reduce” means to use materials wisely and create less waste.",
+      "correct": 0
+    },
+    {
+      "id": 124,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "A raincoat is usually made of:",
+      "options": [
+        "Cloth",
+        "Paper",
+        "Plastic",
+        "Glass"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 125,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "All metals are magnetic.",
+      "correct": 1
     }
   ],
   "lessons": [
@@ -1289,6 +1454,10 @@
     {
       "id": "L003",
       "name": "Fuel"
+    },
+    {
+      "id": "L004",
+      "name": "Material"
     }
   ]
 }

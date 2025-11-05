@@ -814,6 +814,191 @@
       "question": "“Đông sớm – Tây muộn” là quy tắc giúp xác định nơi nào có giờ sớm, nơi nào có giờ muộn.",
       "correct": 0,
       "lessonId": "L003"
+    },
+    {
+      "id": 66,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Lưỡng Hà cổ đại nằm giữa hai con sông nào?",
+      "options": [
+        "Sông Nin và sông Hằng",
+        "Sông Ti-grơ và sông Ơ-phơ-rát",
+        "Sông Nin và sông Ơ-phơ-rát",
+        "Sông Hằng và sông Ti-grơ"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 67,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Nền văn minh Lưỡng Hà phát triển chủ yếu dựa vào ngành kinh tế nào?",
+      "options": [
+        "Thương mại",
+        "Thủ công nghiệp",
+        "Nông nghiệp",
+        "Luyện kim"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 68,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Chữ viết của người Lưỡng Hà được gọi là gì?",
+      "options": [
+        "Chữ tượng hình",
+        "Chữ tượng ý",
+        "Chữ hình nêm",
+        "Chữ ghi âm"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 69,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Bộ luật nổi tiếng của vua Ha-mu-ra-bi ra đời ở đâu?",
+      "options": [
+        "Ai Cập",
+        "Lưỡng Hà",
+        "Ấn Độ",
+        "Trung Hoa"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Người Lưỡng Hà viết chữ hình nêm trên vật liệu nào?",
+      "options": [
+        "Giấy da",
+        "Đá",
+        "Bảng đất sét",
+        "Tre nứa"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 71,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Thành bang là gì?",
+      "options": [
+        "Một quốc gia nhỏ gồm một thành phố và vùng đất xung quanh",
+        "Một vùng nông nghiệp",
+        "Một đế chế lớn",
+        "Một bộ lạc du mục"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 72,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Nước Ba-bi-lon (Babylon) là:",
+      "options": [
+        "Một thành bang nhỏ ở Ai Cập",
+        "Một quốc gia hùng mạnh ở Lưỡng Hà",
+        "Một bộ lạc sống ven sông Nin",
+        "Một thành phố ở Hy Lạp"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 73,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Người Lưỡng Hà chia ngày ra bao nhiêu giờ?",
+      "options": [
+        "10",
+        "12",
+        "24",
+        "60"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 74,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Tháp ziggurat được xây dựng chủ yếu để:",
+      "options": [
+        "Làm nơi ở của vua",
+        "Làm kho chứa lương thực",
+        "Làm đền thờ thần linh",
+        "Làm nơi học tập"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 75,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Xã hội Lưỡng Hà được chia thành mấy tầng lớp chính?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 76,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Lưỡng Hà là vùng đất giữa sông Ti-grơ và sông Nin.",
+      "correct": 1
+    },
+    {
+      "id": 77,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Người Lưỡng Hà đã biết dùng chữ hình nêm để ghi chép.",
+      "correct": 0
+    },
+    {
+      "id": 78,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Luật Ha-mu-ra-bi là bộ luật nói về tôn giáo và nghi lễ.",
+      "correct": 1
+    },
+    {
+      "id": 79,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Nông nghiệp ở Lưỡng Hà phát triển nhờ đất phù sa và hệ thống thủy lợi.",
+      "correct": 0
+    },
+    {
+      "id": 80,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Tầng lớp nô lệ trong xã hội Lưỡng Hà thường là tù binh chiến tranh.",
+      "correct": 0
+    },
+    {
+      "id": 81,
+      "type": "reordering",
+      "lessonId": "L004",
+      "question": "Sắp xếp các tầng lớp xã hội Lưỡng Hà cổ đại từ cao đến thấp",
+      "items": [
+        {
+          "text": "Vua, quý tộc, tu sĩ",
+          "order": 1
+        },
+        {
+          "text": "Dân tự do (nông dân, thợ thủ công)",
+          "order": 2
+        },
+        {
+          "text": "Nô lệ",
+          "order": 3
+        }
+      ]
     }
   ],
   "lessons": [
@@ -828,6 +1013,10 @@
     {
       "id": "L003",
       "name": "Chuyen Dong Trai Dat"
+    },
+    {
+      "id": "L004",
+      "name": "Luong Ha Co Dai"
     }
   ]
 }
