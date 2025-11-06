@@ -999,6 +999,171 @@
           "order": 3
         }
       ]
+    },
+    {
+      "id": 82,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Trái Đất chuyển động quanh Mặt Trời theo quỹ đạo có dạng:",
+      "options": [
+        "Hình tròn",
+        "Hình elip gần tròn",
+        "Hình vuông",
+        "Hình ovan"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 83,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Thời gian Trái Đất hoàn thành một vòng quanh Mặt Trời là:",
+      "options": [
+        "24 giờ",
+        "30 ngày",
+        "365 ngày 6 giờ",
+        "366 ngày"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 84,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Hiện tượng các mùa trong năm là do:",
+      "options": [
+        "Trái Đất hình cầu",
+        "Trái Đất nghiêng và giữ nguyên hướng nghiêng khi quay quanh Mặt Trời",
+        "Trái Đất tự quay quanh trục",
+        "Mặt Trời di chuyển quanh Trái Đất"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 85,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Ở Bắc bán cầu, ngày dài nhất trong năm rơi vào khoảng:",
+      "options": [
+        "21/3",
+        "22/6",
+        "23/9",
+        "22/12"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 86,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Khi Bắc bán cầu là mùa hạ, Nam bán cầu sẽ là:",
+      "options": [
+        "Mùa xuân",
+        "Mùa thu",
+        "Mùa đông",
+        "Mùa hạ"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 87,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Mặt phẳng quỹ đạo của Trái Đất được gọi là:",
+      "options": [
+        "Mặt phẳng chí tuyến",
+        "Mặt phẳng hoàng đạo",
+        "Mặt phẳng xích đạo",
+        "Mặt phẳng địa cực"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 88,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Ngày và đêm có độ dài bằng nhau trên khắp Trái Đất vào:",
+      "options": [
+        "21/3 và 23/9",
+        "22/6 và 22/12",
+        "1/1 và 31/12",
+        "30/6 và 30/12"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 89,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Vì sao ở xích đạo ngày và đêm dài gần bằng nhau quanh năm?",
+      "options": [
+        "Vì ánh sáng Mặt Trời chiếu thẳng quanh năm",
+        "Vì xích đạo nằm xa Mặt Trời",
+        "Vì Trái Đất không nghiêng",
+        "Vì có nhiều mây"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 90,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Sự thay đổi biểu kiến của Mặt Trời giữa hai chí tuyến là do:",
+      "options": [
+        "Mặt Trời chuyển động quanh Trái Đất",
+        "Trái Đất quay quanh Mặt Trời",
+        "Trái Đất quay quanh trục",
+        "Cả A và C đúng"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "question": "Khi Trái Đất ở vị trí ngày 22/12, Mặt Trời chiếu thẳng góc ở:",
+      "options": [
+        "Xích đạo",
+        "Chí tuyến Bắc",
+        "Chí tuyến Nam",
+        "Cực Bắc"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 92,
+      "type": "true_false",
+      "lessonId": "L005",
+      "question": "Trái Đất quay quanh Mặt Trời theo hướng từ Đông sang Tây.",
+      "correct": 1
+    },
+    {
+      "id": 93,
+      "type": "true_false",
+      "lessonId": "L005",
+      "question": "Trái Đất nghiêng 23°27’ so với mặt phẳng hoàng đạo.",
+      "correct": 0
+    },
+    {
+      "id": 94,
+      "type": "true_false",
+      "lessonId": "L005",
+      "question": "Hiện tượng mùa ngược nhau giữa hai bán cầu là do trục nghiêng.",
+      "correct": 0
+    },
+    {
+      "id": 95,
+      "type": "true_false",
+      "lessonId": "L005",
+      "question": "Ở cực Bắc, có thời gian 6 tháng ngày và 6 tháng đêm.",
+      "correct": 0
+    },
+    {
+      "id": 96,
+      "type": "true_false",
+      "lessonId": "L005",
+      "question": "Ngày 21/3 và 23/9, Mặt Trời chiếu thẳng góc vào chí tuyến Bắc.",
+      "correct": 1
     }
   ],
   "lessons": [
@@ -1011,12 +1176,16 @@
       "name": "Ai Cap Co Dai"
     },
     {
+      "id": "L004",
+      "name": "Luong Ha Co Dai"
+    },
+    {
       "id": "L003",
       "name": "Chuyen Dong Trai Dat"
     },
     {
-      "id": "L004",
-      "name": "Luong Ha Co Dai"
+      "id": "L005",
+      "name": "Chuyen dong quanh Mat Troi cua Trai Dat"
     }
   ]
 }
