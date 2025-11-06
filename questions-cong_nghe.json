@@ -246,12 +246,123 @@
       ],
       "correct": 0,
       "lessonId": "L001"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "lessonId": "L002",
+      "question": "Chọn nhóm thực phẩm với chức năng chính của nhóm",
+      "pairs": [
+        {
+          "country": "Nhóm giàu chất bột đường",
+          "capital": "Cung cấp năng lượng, giúp cơ thể hoạt động",
+          "id": "a"
+        },
+        {
+          "country": "Nhóm giàu chất đạm",
+          "capital": "Xây dựng và sửa chữa các tế bào, cơ bắp",
+          "id": "b"
+        },
+        {
+          "country": "Nhóm giàu chất béo",
+          "capital": "Dự trữ năng lượng, giữ ấm và hỗ trợ hấp thụ vitamin",
+          "id": "c"
+        },
+        {
+          "country": "Nhóm giàu vitamin và khoáng chất",
+          "capital": "Bảo vệ cơ thể, tăng sức đề kháng",
+          "id": "d"
+        }
+      ],
+      "correct": {
+        "a": "Cung cấp năng lượng, giúp cơ thể hoạt động",
+        "b": "Xây dựng và sửa chữa các tế bào, cơ bắp",
+        "c": "Dự trữ năng lượng, giữ ấm và hỗ trợ hấp thụ vitamin",
+        "d": "Bảo vệ cơ thể, tăng sức đề kháng"
+      }
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Trứng và thịt thuộc nhóm thực phẩm chính nào?",
+      "options": [
+        "Nhóm giàu đạm",
+        "Nhóm giàu tinh bột",
+        "Nhóm giàu vitamin và khoáng",
+        "Nhóm cung cấp chất béo"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Gạo, mì và khoai thuộc nhóm thực phẩm:",
+      "options": [
+        "Cung cấp đạm",
+        "Cung cấp chất xơ",
+        "Cung cấp bột đường",
+        "Cung cấp vitamin"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Rau xanh và trái cây chủ yếu cung cấp chất gì?",
+      "options": [
+        "Vitamin, khoáng chất và chất xơ",
+        "Chất béo",
+        "Chất đạm",
+        "Tinh bột"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Dầu ăn, bơ và mỡ động vật thuộc nhóm nào?",
+      "options": [
+        "Nhóm giàu đạm",
+        "Nhóm giàu vitamin",
+        "Nhóm giàu chất béo",
+        "Nhóm giàu khoáng"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 25,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Chất đạm chỉ có trong thịt và cá, không có trong thực vật.",
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Nhóm chất béo chỉ gây tăng cân, không có lợi cho sức khỏe.",
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Một bữa ăn đủ chất cần kết hợp đầy đủ cả bốn nhóm thực phẩm chính.",
+      "correct": 0
     }
   ],
   "lessons": [
     {
       "id": "L001",
       "name": "Giua Hoc Ki I"
+    },
+    {
+      "id": "L002",
+      "name": "Thuc Pham va Dinh Duong"
     }
   ]
 }
