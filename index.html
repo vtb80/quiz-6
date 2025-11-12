@@ -1,431 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz App</title>
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
-
-      body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        min-height: 100vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 20px;
-      }
-
-      .container {
-        background: white;
-        border-radius: 10px;
-        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
-        padding: 40px;
-        max-width: 700px;
-        width: 100%;
-      }
-
-      h1 {
-        text-align: center;
-        color: #333;
-        margin-bottom: 30px;
-      }
-
-      .setup,
-      .quiz,
-      .results {
-        display: none;
-      }
-
-      .setup.active,
-      .quiz.active,
-      .results.active {
-        display: block;
-      }
-
-      .setup {
-        text-align: center;
-      }
-
-      .setup-group {
-        margin-bottom: 20px;
-      }
-
-      .setup-group label {
-        display: block;
-        margin-bottom: 8px;
-        font-weight: bold;
-        color: #333;
-      }
-
-      .setup-group select,
-      .setup-group input {
-        padding: 10px;
-        font-size: 16px;
-        border: 2px solid #ddd;
-        border-radius: 5px;
-        width: 100%;
-        max-width: 300px;
-        margin: 0 auto;
-      }
-
-      .setup-group select:focus,
-      .setup-group input:focus {
-        outline: none;
-        border-color: #667eea;
-      }
-
-      button {
-        background: #667eea;
-        color: white;
-        padding: 12px 30px;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-        font-size: 16px;
-        transition: background 0.3s;
-        margin-top: 10px;
-      }
-
-      button:hover {
-        background: #764ba2;
-      }
-
-      button:disabled {
-        background: #ccc;
-        cursor: not-allowed;
-      }
-
-      .progress {
-        margin-bottom: 20px;
-        text-align: center;
-        color: #666;
-        font-size: 18px;
-      }
-
-      .question-type-badge {
-        display: inline-block;
-        background: #667eea;
-        color: white;
-        padding: 4px 12px;
-        border-radius: 20px;
-        font-size: 12px;
-        margin-bottom: 15px;
-      }
-
-      .lesson-badge {
-        display: inline-block;
-        background: #28a745;
-        color: white;
-        padding: 4px 12px;
-        border-radius: 20px;
-        font-size: 12px;
-        margin-bottom: 15px;
-        margin-left: 5px;
-      }
-
-      .question {
-        margin-bottom: 20px;
-      }
-
-      .question h3 {
-        margin-bottom: 15px;
-        color: #333;
-        font-size: 18px;
-        line-height: 1.4;
-      }
-
-      .passage {
-        background: #f5f5f5;
-        padding: 15px;
-        border-left: 4px solid #667eea;
-        margin-bottom: 15px;
-        border-radius: 5px;
-        line-height: 1.6;
-        color: #555;
-      }
-
-      .options,
-      .true-false {
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-        margin-bottom: 20px;
-      }
-
-      .option {
-        padding: 12px;
-        border: 2px solid #ddd;
-        border-radius: 5px;
-        cursor: pointer;
-        transition: all 0.3s;
-        display: flex;
-        align-items: center;
-      }
-
-      .option:hover {
-        background: #f0f0f0;
-        border-color: #667eea;
-      }
-
-      .option input[type="radio"],
-      .true-false input[type="radio"] {
-        margin-right: 12px;
-        cursor: pointer;
-      }
-
-      .fill-blank-input {
-        padding: 12px;
-        font-size: 16px;
-        border: 2px solid #ddd;
-        border-radius: 5px;
-        width: 100%;
-        margin-bottom: 20px;
-      }
-
-      .fill-blank-input:focus {
-        outline: none;
-        border-color: #667eea;
-      }
-
-      .matching-container {
-        display: flex;
-        flex-direction: column;
-        gap: 12px;
-        margin-bottom: 20px;
-      }
-
-      .pair-item {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 12px;
-        background: #f9f9f9;
-        border: 2px solid #ddd;
-        border-radius: 5px;
-      }
-
-      .pair-label {
-        font-weight: bold;
-        min-width: 150px;
-      }
-
-      .pair-select {
-        padding: 8px 12px;
-        border: 2px solid #ddd;
-        border-radius: 5px;
-        font-size: 14px;
-      }
-
-      .reordering-container {
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-        margin-bottom: 20px;
-      }
-
-      .reordering-item {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        padding: 12px;
-        background: #f9f9f9;
-        border: 2px solid #ddd;
-        border-radius: 5px;
-        cursor: move;
-        user-select: none;
-        transition: opacity 0.2s;
-        position: relative;
-      }
-
-      .reordering-item:active {
-        cursor: grabbing;
-      }
-
-      .drag-handle {
-        cursor: grab;
-        font-weight: bold;
-        color: #667eea;
-        font-size: 18px;
-        user-select: none;
-      }
-
-      .button-container {
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-        margin-top: 20px;
-      }
-
-      .button-container button {
-        flex: 1;
-        margin: 0;
-      }
-
-      .feedback {
-        margin-top: 15px;
-        padding: 15px;
-        border-radius: 5px;
-        font-size: 16px;
-        font-weight: bold;
-        text-align: center;
-        display: none;
-        margin-bottom: 20px;
-      }
-
-      .feedback.show {
-        display: block;
-      }
-
-      .feedback-correct {
-        background: #d4edda;
-        color: #155724;
-        border: 2px solid #28a745;
-      }
-
-      .feedback-incorrect {
-        background: #f8d7da;
-        color: #721c24;
-        border: 2px solid #f5c6cb;
-      }
-
-      .results {
-        text-align: center;
-      }
-
-      .score {
-        font-size: 48px;
-        color: #667eea;
-        margin: 20px 0;
-        font-weight: bold;
-      }
-
-      .results p {
-        font-size: 18px;
-        color: #666;
-        margin: 10px 0;
-      }
-
-      .incorrect-questions {
-        text-align: left;
-        margin-top: 30px;
-        max-height: 400px;
-        overflow-y: auto;
-      }
-
-      .incorrect-item {
-        background: #fff3cd;
-        border: 2px solid #ffc107;
-        border-radius: 5px;
-        padding: 15px;
-        margin-bottom: 15px;
-      }
-
-      .incorrect-item h4 {
-        color: #856404;
-        margin-bottom: 10px;
-        font-size: 16px;
-      }
-
-      .incorrect-item p {
-        color: #856404;
-        margin: 5px 0;
-        text-align: left;
-      }
-
-      .correct-answer {
-        background: #d4edda;
-        padding: 8px;
-        border-radius: 3px;
-        margin-top: 8px;
-        color: #155724;
-        font-weight: bold;
-      }
-
-      .info-text {
-        font-size: 14px;
-        color: #666;
-        margin-top: 5px;
-        font-style: italic;
-      }
-    </style>  
-  </head>
-  <body>
-    <div class="container">
-      <h1>Quiz Application</h1>  
-      <!-- Subject Selection -->
-      <div class="setup active" id="subjectSetup">
-        <div class="setup-group">
-          <label for="subject">Select Subject:</label>
-          <select id="subject">
-            <option value="">-- Choose a Subject --</option>
-          </select>
-        </div>
-        <button onclick="selectSubject()">Continue</button>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Application</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Quiz Application</h1>
+    
+    <!-- Subject Selection -->
+    <div class="setup active" id="subjectSetup">
+      <div class="setup-group">
+        <label for="subject">Select Subject:</label>
+        <select id="subject">
+          <option value="">-- Choose a Subject --</option>
+        </select>
       </div>
-      <!-- Quiz Configuration -->
-      <div class="setup" id="quizSetup">
-        <div class="setup-group">
-          <label for="lessonFilter">Select Lesson:</label>
-          <select id="lessonFilter">
-            <option value="">All Lessons</option>
-          </select>
-          <div class="info-text" id="lessonInfo">Loading lessons...</div>
-        </div>
-        <div class="setup-group">
-          <label for="typeFilter">Question type:</label>
-          <select id="typeFilter">
-            <option value="">All Types</option>
-            <option value="multiple_choice">Multiple Choice</option>
-            <option value="true_false">True/False</option>
-            <option value="fill_in_blank">Fill in the Blank</option>
-            <option value="matching">Matching</option>
-            <option value="reordering">Reordering</option>
-            <option value="reading_comprehension">Reading Comprehension</option>
-          </select>
-        </div>
-        <div class="setup-group">
-          <label for="numQuestions">Number of questions:</label>
-          <input type="number" id="numQuestions" min="1" max="100" value="5">
-        </div>
-        <div style="display: flex; gap: 10px; justify-content: center; margin-top: 20px;">
-          <button onclick="goBackToSubjects()" style="background: #6c757d;">← Back to Subjects</button>
-          <button onclick="startQuiz()">Start Quiz</button>
-        </div>
+      <button id="selectSubjectBtn">Continue</button>
+    </div>
+
+    <!-- Quiz Configuration -->
+    <div class="setup" id="quizSetup">
+      <div class="setup-group">
+        <label for="lessonFilter">Select Lesson:</label>
+        <select id="lessonFilter">
+          <option value="">All Lessons</option>
+        </select>
+        <div class="info-text" id="lessonInfo">Loading lessons...</div>
       </div>
-      <!-- Quiz -->
-      <div class="quiz" id="quiz">
-        <div style="text-align: right; margin-bottom: 10px;">
-          <button onclick="exitQuiz()" style="background: #dc3545; padding: 8px 20px; font-size: 14px;">✕ Exit Quiz</button>
-        </div>
-        <div class="progress">
-          <span id="current">1</span> / <span id="total">10</span>
-        </div>
-        <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 20px; min-height: 28px; flex-wrap: wrap;">
-          <div class="question-type-badge" id="typeBadge"></div>
-          <div class="lesson-badge" id="lessonBadge" style="display: none;"></div>
-          <div class="question-type-badge" id="feedback"></div>
-        </div>
-        <div class="question" id="questionContainer"></div>
-        <div class="button-container">
-          <button id="submitBtn" onclick="submitAnswer()">Submit</button>
-          <button id="continueBtn" onclick="nextQuestion()" style="display: none;">Continue</button>
-        </div>
+      <div class="setup-group">
+        <label for="typeFilter">Question type:</label>
+        <select id="typeFilter">
+          <option value="">All Types</option>
+        </select>
       </div>
-      <!-- Results -->
-      <div class="results" id="results">
-        <h2>Quiz Complete!</h2>
-        <div class="score" id="scoreDisplay"></div>
-        <p id="resultText"></p>
-        <div class="incorrect-questions" id="incorrectQuestions"></div>
-        <button onclick="retakeQuiz()">Take Another Quiz</button>
+      <div class="setup-group">
+        <label for="numQuestions">Number of questions:</label>
+        <input type="number" id="numQuestions" min="1" max="100" value="5">
+      </div>
+      <div style="display: flex; gap: 10px; justify-content: center; margin-top: 20px;">
+        <button id="backToSubjectsBtn" style="background: #6c757d;">← Back to Subjects</button>
+        <button id="startQuizBtn">Start Quiz</button>
       </div>
     </div>
-    <script src="quiz.js"></script>  
-  </body>
+
+    <!-- Quiz -->
+    <div class="quiz" id="quiz">
+      <div style="text-align: right; margin-bottom: 10px;">
+        <button id="exitQuizBtn" style="background: #dc3545; padding: 8px 20px; font-size: 14px;">✕ Exit Quiz</button>
+      </div>
+      <div class="progress">
+        <span id="current">1</span> / <span id="total">10</span>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 20px; min-height: 28px; flex-wrap: wrap;">
+        <div class="question-type-badge" id="typeBadge"></div>
+        <div class="lesson-badge" id="lessonBadge" style="display: none;"></div>
+        <div class="question-type-badge" id="feedback"></div>
+      </div>
+      <div class="question" id="questionContainer"></div>
+      <div class="button-container">
+        <button id="submitBtn">Submit</button>
+        <button id="continueBtn" style="display: none;">Continue</button>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div class="results" id="results">
+      <h2>Quiz Complete!</h2>
+      <div class="score" id="scoreDisplay"></div>
+      <p id="resultText"></p>
+      <div class="incorrect-questions" id="incorrectQuestions"></div>
+      <button id="retakeQuizBtn">Take Another Quiz</button>
+    </div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
 </html>

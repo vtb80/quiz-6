@@ -1,0 +1,907 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Khoa xem bản tin dự báo thời tiết, Khoa kết luận: “Hôm nay, trời có mưa” nên khi đi học sẽ mang theo áo mưa. Phát biểu nào sau đây đúng?",
+      "options": [
+        "Số liệu về nhiệt độ trên bản tin dự báo thời tiết là dữ liệu, kết luận của Khoa là thông tin.",
+        "Bản tin dự báo thời tiết là thông tin, kết luận của Khoa là dữ liệu.",
+        "Những con số trong bản tin dự báo thời tiết là thông tin.",
+        "Bản tin dự báo thời tiết và kết luận của Khoa đều là dữ liệu."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Dữ liệu trong máy tính được mã hóa thành dãy bit vì",
+      "options": [
+        "dãy bit được xử lí dễ dàng hơn.",
+        "máy tính chỉ làm việc với hai kí hiệu 0 và 1.",
+        "dãy bit chiếm ít dung lượng nhớ hơn.",
+        "dãy bit đáng tin cậy hơn."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Mạng máy tính không cho phép người dùng chia sẻ",
+      "options": [
+        "dữ liệu",
+        "máy quét",
+        "bàn phím và chuột",
+        "máy in"
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Máy tính sử dụng dãy bit để làm gì?",
+      "options": [
+        "Biểu diễn văn bản.",
+        "Biểu diễn số, văn bản, hình ảnh, âm thanh.",
+        "Biểu diễn các số.",
+        "Biểu diễn hình ảnh, âm thanh."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Máy tính gồm mấy thành phần để có thể thực hiện được các hoạt động xử lí thông tin",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Việc thuyết trình chủ đề tình bạn trước lớp là hoạt động nào trong quá trình xử lí thông tin?",
+      "options": [
+        "Truyền thông tin.",
+        "Xử lí thông tin.",
+        "Lưu trữ thông tin.",
+        "Thu nhận thông tin."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Kết luận nào sau đây không phải là ưu điểm của mạng không dây.",
+      "options": [
+        "Kết nối không dây có thể thực hiện ở mọi địa hình, không gian.",
+        "Không lắp đặt được trên địa hình khó khăn và khó mở rộng mạng.",
+        "Việc lắp đặt và mở rộng mạng dễ dàng.",
+        "Các thiết bị trong mạng có thể linh hoạt thay đổi vị trí mà vẫn duy trì kết nối mạng."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Mạng không dây được kết nối bằng",
+      "options": [
+        "Bluetooth",
+        "Cáp điện",
+        "Cáp quang",
+        "Sóng điện từ, bức xạ hồng ngoại…"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Phát biểu nào sau đây không chính xác?",
+      "options": [
+        "Mạng không dây thuận tiện cho những người di chuyển nhiều.",
+        "Mạng không dây dễ dàng lắp đặt hơn vì không cần khoan đục và lắp đặt đường dây.",
+        "Mạng không dây thường được sử dụng cho thiết bị di động như máy tính bảng, điện thoại,…",
+        "Mạng không dây nhanh hơn và ổn định hơn mạng có dây."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Mạng LAN hay còn được gọi là:",
+      "options": [
+        "Wifi.",
+        "Mạng cục bộ",
+        "Mạng có dây",
+        "Mạng không dây"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Mạng Internet đem lại cho con người nhiều lợi ích ở hầu khắp các lĩnh vực nào?",
+      "options": [
+        "Trong lĩnh vực khoa học, kỹ thuật và y tế, thương mại, tài chính và kinh tế",
+        "Trong văn hóa nghệ thuật, giải trí và thể thao.",
+        "Trong giáo dục đào tạo và đời sống hàng ngày",
+        "Tất cả đều đúng"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "CPU là cụm từ viết tắt để chỉ:",
+      "options": [
+        "Bộ nhớ trong của máy tính.",
+        "Thiết bị trong máy tính.",
+        "Bộ xử lý trung tâm.",
+        "Bộ phận điều khiển hoạt động máy tính và các thiết bị."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Những khả năng to lớn nào đã làm cho máy tính trở thành một công cụ xử lý thông tin hữu hiệu?",
+      "options": [
+        "Làm việc không mệt mỏi.",
+        "Khả năng tính toán nhanh, chính xác.",
+        "Khả năng lưu trữ lớn.",
+        "Tất cả các khả năng trên."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Phát biểu nào sau đây đúng về lợi ích của thông tin?",
+      "options": [
+        "Có độ tin cậy cao, không phụ thuộc vào dữ liệu.",
+        "Đem lại hiểu biết và giúp con người có những lựa chọn tốt.",
+        "Có độ tin cậy cao, đem lại hiểu biết cho con người.",
+        "Đem lại hiểu biết cho con người, không phụ thuộc vào dữ liệu."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Internet là mạng:",
+      "options": [
+        "Kết nối hai máy tính trong một phòng học với nhau",
+        "Kết nối các máy tính trong một nước",
+        "Kết nối các máy tính trong một thành phố.",
+        "Kết nối nhiều mạng máy tính trên toàn cầu"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Khả năng lưu trữ của một thiết bị nhớ được gọi là?",
+      "options": [
+        "Khối lượng",
+        "Dung lượng",
+        "Thể tích",
+        "Dung dịch"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Quá trình xử lí thông tin ba bước đó là:",
+      "options": [
+        "Xử lí thông tin - xuất thông tin ra màn hình - in ra giấy",
+        "Nhập thông tin - xử lí thông tin - xuất thông tin",
+        "Nhập thông tin - xuất thông tin - xử lí thông tin",
+        "Xử lí thông tin - in ra giấy - sửa đổi thông tin"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Phát biểu nào sau đây đúng?",
+      "options": [
+        "Dữ liệu được thể hiện dưới dạng con số, văn bản, hình ảnh, âm thanh.",
+        "Dữ liệu là những giá trị số do con người nghĩ ra.",
+        "Dữ liệu chỉ có ở trong máy tính.",
+        "Dữ liệu chỉ có thể được hiểu bởi những người có trình độ cao."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Bao nhiêu ‘byte’ tạo thành 1 ‘kilobyte'?",
+      "options": [
+        "1024",
+        "210",
+        "410",
+        "2014"
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Khi học bài trên lớp em ghi nhớ kiến thức thầy cô giảng bài. Vậy việc ghi nhớ kiến thức là hoạt động nào của quá trình xử lí thông tin?",
+      "options": [
+        "Lưu trữ thông tin",
+        "Thu nhận thông tin",
+        "Xử lí thông tin",
+        "Truyền thông tin"
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Đơn vị nhỏ nhất để lưu trữ thông tin?",
+      "options": [
+        "Bit",
+        "Mê-ga-byte (MB)",
+        "Byte (B)",
+        "Ki-lô-byte (KB)"
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Dãy bit là gì?",
+      "options": [
+        "Là âm thanh phát ra từ máy tính.",
+        "Là dãy những kí hiệu 0 và 1.",
+        "Là một dãy chỉ gồm chữ số 2.",
+        "Là dãy những chữ số từ 0 đến 9."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Thông tin là…",
+      "options": [
+        "những gì đem lại hiểu biết cho con người về thế giới xung quanh và về chính bản thân mình",
+        "vật mang tin",
+        "các con số",
+        "những gì em thấy"
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Thành phần nào được coi là bộ não của máy tính?",
+      "options": [
+        "Thiết bị vào",
+        "Bộ xử lí (CPU)",
+        "Thiết bị vào",
+        "Bộ nhớ"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Bàn phím, chuột, máy quét và webcam là những ví dụ về loại thiết bị nào của máy tính?",
+      "options": [
+        "Thiết bị vào.",
+        "Thiết bị lưu trữ.",
+        "Bộ nhớ.",
+        "Thiết bị ra."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Vật mang tin là",
+      "options": [
+        "thông tin",
+        "dữ liệu",
+        "hiểu biết của con người",
+        "vật chứa dữ liệu"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Tai người bình thường có thể tiếp nhận thông tin nào dưới đây?",
+      "options": [
+        "Hẹn bạn Hương cùng đi học",
+        "Tiếng chim hót",
+        "Đi học mang theo áo mưa",
+        "Ăn sáng trước khi đến trường"
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Các thao tác lập luận, giải thích, phân tích, phán đoán, tưởng tượng,... của con người được xếp vào hoạt động nào trong quá trình xử lí thông tin?",
+      "options": [
+        "Lưu trữ thông tin.",
+        "Truyền thông tin.",
+        "Thu nhận thông tin.",
+        "Xử lý thông tin."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Mắt thường không thể tiếp nhận thông tin nào dưới đây?",
+      "options": [
+        "Bạn Phương quên không đeo khăn quàng đỏ",
+        "Rác bẩn vứt ngoài hành lang lớp học",
+        "Đàn kiến đang “tấn công” lọ đường quên đậy nắp",
+        "Những con vi trùng gây bệnh lị lẫn trong thức ăn bị ôi thiu"
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Kết quả của việc nhìn thấy hoặc nghe thấy ở con người được xếp vào hoạt động nào trong quá trình xử lí thông tin?",
+      "options": [
+        "Lưu trữ.",
+        "Xử lí.",
+        "Truyền.",
+        "Thu nhận."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Mạng thông tin toàn cầu là gì?",
+      "options": [
+        "Một máy tính lớn",
+        "Tập hợp các mạng máy tính kết nối với nhau trên toàn thế giới",
+        "Một phần mềm tìm kiếm thông tin",
+        "Một thiết bị lưu trữ dữ liệu"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Ví dụ về máy tìm kiếm:",
+      "options": [
+        "Word",
+        "Excel",
+        "Paint",
+        "Bing"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "WWW là viết tắt của:",
+      "options": [
+        "World Wide Web",
+        "World Web Wide",
+        "Wide World Web",
+        "Web World Wide"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Trang web là:",
+      "options": [
+        "Một tài liệu được tạo bằng phần mềm Word",
+        "Một tài liệu điện tử có thể hiển thị trên trình duyệt web",
+        "Một phần mềm trên máy tính",
+        "Một tệp ảnh"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Tập hợp nhiều trang web có liên quan với nhau tạo thành:",
+      "options": [
+        "Máy chủ",
+        "Ứng dụng",
+        "Liên kết",
+        "Website"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Địa chỉ web được gọi là:",
+      "options": [
+        "Email",
+        "URL",
+        "IP",
+        "WWW"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Trình duyệt web dùng để:",
+      "options": [
+        "Soạn thảo văn bản",
+        "Chơi game",
+        "Truy cập và xem các trang web",
+        "Tạo website"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Ví dụ nào sau đây là trình duyệt web?",
+      "options": [
+        "Word",
+        "Chrome",
+        "Excel",
+        "PowerPoint"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Thông tin trên Internet được lưu trữ ở đâu?",
+      "options": [
+        "Trong ổ đĩa USB",
+        "Trên máy tính cá nhân",
+        "Trên máy chủ (server)",
+        "Trên điện thoại"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Khi truy cập trang web, người dùng nhập gì vào thanh địa chỉ của trình duyệt?",
+      "options": [
+        "Địa chỉ email",
+        "URL của trang web",
+        "Mật khẩu",
+        "Tên người dùng"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Kết nối giữa các trang web được gọi là:",
+      "options": [
+        "Đường dẫn",
+        "Hyperlink (liên kết)",
+        "Ổ đĩa",
+        "Trang chính"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 42,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Mạng Internet chỉ có thể sử dụng ở Việt Nam.",
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Website là một trang web duy nhất.",
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Trình duyệt web có thể dùng để truy cập các trang web.",
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Thông tin trên web có thể chứa văn bản, hình ảnh, âm thanh, video.",
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Chrome là phần mềm xử lý văn bản.",
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Máy tìm kiếm là gì?",
+      "options": [
+        "Một thiết bị phần cứng",
+        "Dịch vụ trực tuyến giúp tìm thông tin trên Internet",
+        "Một trình duyệt web",
+        "Một loại email"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Từ khóa tìm kiếm là:",
+      "options": [
+        "Đoạn văn dài mô tả nội dung",
+        "Các từ hoặc cụm từ mô tả điều cần tìm",
+        "Một trang web",
+        "Một email"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Để tìm thông tin hiệu quả, ta nên chọn từ khóa:",
+      "options": [
+        "Dài, đầy đủ câu",
+        "Ngắn gọn, chính xác",
+        "Viết sai chính tả",
+        "Ngẫu nhiên"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Khi tìm kiếm “hoa hồng”, kết quả có thể gồm:",
+      "options": [
+        "Hình ảnh hoa hồng",
+        "Video hướng dẫn trồng hoa",
+        "Bài viết về ý nghĩa hoa hồng",
+        "Tất cả các đáp án trên"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 51,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Biểu tượng chiếc kính lúp trên trình duyệt dùng để:",
+      "options": [
+        "Đóng trình duyệt",
+        "Tìm kiếm thông tin",
+        "Lưu tệp",
+        "Xóa lịch sử"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 52,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Khi tải tệp từ Internet, cần chú ý:",
+      "options": [
+        "Chỉ tải từ nguồn tin cậy",
+        "Tải bất kỳ tệp nào thấy",
+        "Không cần kiểm tra virus",
+        "Không quan trọng nguồn gốc"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Lưu trang web để xem lại sau gọi là:",
+      "options": [
+        "Bookmark (đánh dấu trang)",
+        "Download",
+        "Upload",
+        "History"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Để lọc kết quả chỉ có hình ảnh, ta chọn:",
+      "options": [
+        "Tab “Hình ảnh” hoặc “Images”",
+        "Tab “Video”",
+        "Tab “Tin tức”",
+        "Tab “Mua sắm"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 55,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "question": "Khi đọc thông tin trên mạng, nên:",
+      "options": [
+        "Tin mọi thứ tìm được",
+        "Kiểm tra nguồn và độ tin cậy",
+        "Chia sẻ ngay cho người khác",
+        "Sao chép mà không cần ghi nguồn"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 56,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "Từ khóa tìm kiếm càng dài càng dễ tìm kết quả chính xác.",
+      "correct": 1
+    },
+    {
+      "id": 57,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "Máy tìm kiếm là phần mềm cài đặt trong máy tính cá nhân.",
+      "correct": 1
+    },
+    {
+      "id": 58,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "Có thể tìm hình ảnh, video bằng công cụ tìm kiếm.",
+      "correct": 0
+    },
+    {
+      "id": 59,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "Không cần kiểm tra nguồn thông tin trên Internet.",
+      "correct": 1
+    },
+    {
+      "id": 60,
+      "type": "true_false",
+      "lessonId": "L003",
+      "question": "Bookmark giúp lưu địa chỉ trang web để xem lại.",
+      "correct": 0
+    },
+    {
+      "id": 61,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Thư điện tử là gì?",
+      "options": [
+        "Thư viết tay",
+        "Thư gửi qua Internet",
+        "Thư gửi bằng bưu điện",
+        "Tin nhắn điện thoại"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Email có thể gửi kèm:",
+      "options": [
+        "Hình ảnh",
+        "Tệp văn bản",
+        "Âm thanh, video",
+        "Tất cả các đáp án"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 63,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Ưu điểm của email là:",
+      "options": [
+        "Gửi chậm, tốn phí cao",
+        "Gửi nhanh, tiện lợi",
+        "Chỉ gửi được trong nước",
+        "Không gửi được tệp kèm"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Địa chỉ email có dạng:",
+      "options": [
+        "tennguoidung@tenmien",
+        "tenmien@tennguoidung",
+        "www.tennguoidung.com",
+        "tennguoidung.website"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 65,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Dấu “@” trong địa chỉ email có ý nghĩa:",
+      "options": [
+        "Phân cách tên người dùng và tên miền",
+        "Trang trí địa chỉ",
+        "Viết cho đẹp",
+        "Ký hiệu bắt buộc không có ý nghĩa"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 66,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Ví dụ nào sau đây là địa chỉ email hợp lệ?",
+      "options": [
+        "an123@gmail.com",
+        "an123gmail.com",
+        "an123@",
+        "gmail@an123"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 67,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Để soạn thư mới, cần nhập:",
+      "options": [
+        "Địa chỉ người nhận",
+        "Tiêu đề",
+        "Nội dung",
+        "Tất cả các đáp án trên"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 68,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Tệp gửi kèm trong email gọi là:",
+      "options": [
+        "Thư mục",
+        "Tệp đính kèm",
+        "Ảnh nền",
+        "Biểu tượng"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 69,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Khi dùng email nơi công cộng, cần:",
+      "options": [
+        "Đăng xuất sau khi sử dụng",
+        "Giữ đăng nhập để dễ dùng lại",
+        "Cho người khác biết mật khẩu",
+        "Không cần kiểm tra hộp thư"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 70,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "question": "Nếu nhận được email lạ có tệp đính kèm, nên:",
+      "options": [
+        "Mở ngay để xem",
+        "Xóa hoặc kiểm tra trước khi mở",
+        "Tải về tất cả",
+        "Chuyển tiếp cho bạn bè"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Email chỉ gửi được văn bản, không gửi được hình ảnh.",
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Có thể dùng email để gửi thư cho nhiều người cùng lúc.",
+      "correct": 0
+    },
+    {
+      "id": 73,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Dấu “@” dùng để kết thúc địa chỉ email.",
+      "correct": 1
+    },
+    {
+      "id": 74,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Nên giữ bí mật mật khẩu tài khoản email.",
+      "correct": 0
+    },
+    {
+      "id": 75,
+      "type": "true_false",
+      "lessonId": "L004",
+      "question": "Không cần đăng xuất sau khi dùng email ở máy công cộng.",
+      "correct": 1
+    }
+  ],
+  "lessons": [
+    {
+      "id": "L001",
+      "name": "Giua Hoc Ki I"
+    },
+    {
+      "id": "L002",
+      "name": "Mạng thông tin toàn cầu"
+    },
+    {
+      "id": "L003",
+      "name": "Tìm kiếm thông tin trên Internet"
+    },
+    {
+      "id": "L004",
+      "name": "Thư điện tử"
+    }
+  ]
+}

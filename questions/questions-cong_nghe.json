@@ -1,0 +1,368 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Nhà ở là nơi trú ngụ, bảo vệ con người tránh khỏi những ảnh hưởng xấu của thiên nhiên như:",
+      "options": [
+        "Động đất.",
+        "Lũ lụt.",
+        "Mưa gió.",
+        "Sạt lở."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Điền từ thích hợp vào chỗ chấm: “Nhà ở là nơi đáp ứng các nhu cầu ……………………………. hằng ngày của các thành viên trong gia đình.”",
+      "options": [
+        "Ăn uống.",
+        "Sinh hoạt.",
+        "Nghỉ ngơi.",
+        "Giải trí."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Nhà ở thường có cấu tạo chung bao gồm mấy phần?",
+      "options": [
+        "6 phần.",
+        "5 phần.",
+        "4 phần.",
+        "3 phần."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Trong cấu tạo của nhà ở, bộ phận móng nhà có vai trò như thế nào?",
+      "options": [
+        "Tạo nên kiến trúc của ngôi nhà.",
+        "Che phủ và bảo vệ các bộ phận bên dưới.",
+        "Chống đỡ các bộ phận bên trên của ngôi nhà.",
+        "Tất cả đều đúng."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "“Nhà ở được xây dựng riêng biệt trong khuôn viên rộng lớn, đầy đủ tiện nghi” đây là mô tả kiến trúc nhà ở nào?",
+      "options": [
+        "Nhà sàn.",
+        "Nhà biệt thự.",
+        "Nhà liền kề.",
+        "Nhà thuyền."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Kiến trúc nhà ở đặc trưng của khu vực nông thôn là:",
+      "options": [
+        "Nhà sàn.",
+        "Nhà biệt thự.",
+        "Nhà liền kề.",
+        "Nhà ba gian."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Các vật liệu xây dựng nhà ở thuộc nhóm vật liệu tự nhiên là:",
+      "options": [
+        "Tre, lá dừa, đất sét.",
+        "Tre, đất sét, gạch.",
+        "Thép, gỗ, lá.",
+        "Thép, xi măng, tôn."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Bê tông thường được dùng để xây dựng bộ phận nào của nhà ở?",
+      "options": [
+        "Tường nhà.",
+        "Móng nhà.",
+        "Mái nhà.",
+        "Cửa nhà."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Quy trình xây dựng nhà ở bao gồm:",
+      "options": [
+        "3 bước.",
+        "4 bước.",
+        "5 bước.",
+        "6 bước."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Chuẩn bị xây dựng nhà ở là thực hiện các công việc:",
+      "options": [
+        "Chọn vật liệu, xây tường, quét vôi.",
+        "Chọn vật liệu, làm móng, xây tường.",
+        "Vẽ thiết kế, làm việc với kiến trúc sư, chọn vật liệu.",
+        "Vẽ thiết kế, chọn vật liệu, xây tường."
+      ],
+      "correct": 2,
+      "lessonId": "L001"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Các nguồn năng lượng sử dụng trong gia đình được chia thành:",
+      "options": [
+        "Năng lượng tự nhiên và năng lượng nhân tạo.",
+        "Năng lượng tái tạo và năng lượng không tái tạo.",
+        "Năng lượng tự nhiên và năng lượng không tái tạo.",
+        "Năng lượng tái tạo và năng lượng nhân tạo."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Năng lượng nào sau đây thuộc nhóm năng lượng tái tạo?",
+      "options": [
+        "Điện.",
+        "Gió.",
+        "Dầu.",
+        "Than."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Nguồn năng lượng được sử dụng phổ biến trong nhà ở là:",
+      "options": [
+        "Mặt trời.",
+        "Gas.",
+        "Điện.",
+        "Tất cả đều đúng."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Số sao trên nhãn năng lượng của đồ dùng điện cho biết điều gì?",
+      "options": [
+        "Khả năng tiết kiệm điện ít hay nhiều của đồ dùng điện.",
+        "Giá trị thị trường cao hay thấp của đồ đùng điện.",
+        "Hiệu suất làm việc của đồ dùng điện.",
+        "Thời gian sử dụng của đồ dùng điện."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Điền từ thích hợp vào chỗ chấm: “ …………….. cung cấp năng lượng cho các loại đồ dùng điện để chiếu sáng.”",
+      "options": [
+        "Điện.",
+        "Gió.",
+        "Dầu.",
+        "Than."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Hoạt động sinh hoạt diễn ra đang sử dụng nguồn năng lượng nào? (Giả định quần áo đang được phơi ngoài trời)",
+      "options": [
+        "Điện.",
+        "Gió.",
+        "Dầu.",
+        "Than."
+      ],
+      "correct": 1,
+      "lessonId": "L001"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Loại đồ dùng nào sau đây sử dụng năng lượng khí đốt để hoạt động?",
+      "options": [
+        "Bếp ga.",
+        "Máy lạnh.",
+        "Tivi.",
+        "Xe máy."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Phát biểu nào sau đây là Sai:",
+      "options": [
+        "Việc khai thác tài nguyên thiên nhiên để sản xuất năng lượng góp phần gây ra nhiều tác hại đối với môi trường.",
+        "Sử dụng tiết kiệm năng lượng để giảm chi phí và bảo vệ tài nguyên thiên nhiên.",
+        "Sử dụng hiệu quả năng lượng góp phần bảo vệ môi trường và sức khoẻ cho gia đình và cộng đồng.",
+        "Thay thế năng lượng chất đốt từ than, dầu bằng củi để giảm tải việc khai thác khoáng sản."
+      ],
+      "correct": 3,
+      "lessonId": "L001"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Để tận dụng các nguồn năng lượng tái tạo ta nên:",
+      "options": [
+        "Mở các cửa lớn, cửa sổ vào ban ngày thay vì mở đèn.",
+        "Sử dụng bếp điện để nấu ăn thay cho bếp ga.",
+        "Sử dụng quạt máy làm mát thay cho máy điều hoà.",
+        "Tất cả đều đúng."
+      ],
+      "correct": 0,
+      "lessonId": "L001"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "lessonId": "L002",
+      "question": "Chọn nhóm thực phẩm với chức năng chính của nhóm",
+      "pairs": [
+        {
+          "country": "Nhóm giàu chất bột đường",
+          "capital": "Cung cấp năng lượng, giúp cơ thể hoạt động",
+          "id": "a"
+        },
+        {
+          "country": "Nhóm giàu chất đạm",
+          "capital": "Xây dựng và sửa chữa các tế bào, cơ bắp",
+          "id": "b"
+        },
+        {
+          "country": "Nhóm giàu chất béo",
+          "capital": "Dự trữ năng lượng, giữ ấm và hỗ trợ hấp thụ vitamin",
+          "id": "c"
+        },
+        {
+          "country": "Nhóm giàu vitamin và khoáng chất",
+          "capital": "Bảo vệ cơ thể, tăng sức đề kháng",
+          "id": "d"
+        }
+      ],
+      "correct": {
+        "a": "Cung cấp năng lượng, giúp cơ thể hoạt động",
+        "b": "Xây dựng và sửa chữa các tế bào, cơ bắp",
+        "c": "Dự trữ năng lượng, giữ ấm và hỗ trợ hấp thụ vitamin",
+        "d": "Bảo vệ cơ thể, tăng sức đề kháng"
+      }
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Trứng và thịt thuộc nhóm thực phẩm chính nào?",
+      "options": [
+        "Nhóm giàu đạm",
+        "Nhóm giàu tinh bột",
+        "Nhóm giàu vitamin và khoáng",
+        "Nhóm cung cấp chất béo"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Gạo, mì và khoai thuộc nhóm thực phẩm:",
+      "options": [
+        "Cung cấp đạm",
+        "Cung cấp chất xơ",
+        "Cung cấp bột đường",
+        "Cung cấp vitamin"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Rau xanh và trái cây chủ yếu cung cấp chất gì?",
+      "options": [
+        "Vitamin, khoáng chất và chất xơ",
+        "Chất béo",
+        "Chất đạm",
+        "Tinh bột"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "question": "Dầu ăn, bơ và mỡ động vật thuộc nhóm nào?",
+      "options": [
+        "Nhóm giàu đạm",
+        "Nhóm giàu vitamin",
+        "Nhóm giàu chất béo",
+        "Nhóm giàu khoáng"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 25,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Chất đạm chỉ có trong thịt và cá, không có trong thực vật.",
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Nhóm chất béo chỉ gây tăng cân, không có lợi cho sức khỏe.",
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "type": "true_false",
+      "lessonId": "L002",
+      "question": "Một bữa ăn đủ chất cần kết hợp đầy đủ cả bốn nhóm thực phẩm chính.",
+      "correct": 0
+    }
+  ],
+  "lessons": [
+    {
+      "id": "L001",
+      "name": "Giua Hoc Ki I"
+    },
+    {
+      "id": "L002",
+      "name": "Thuc Pham va Dinh Duong"
+    }
+  ]
+}

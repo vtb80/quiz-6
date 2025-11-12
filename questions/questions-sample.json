@@ -1,0 +1,184 @@
+{
+  "lessons": [
+    {
+      "id": "L001",
+      "name": "Multiple Choice"
+    },
+    {
+      "id": "L002",
+      "name": "Matching"
+    },
+    {
+      "id": "L003",
+      "name": "Reordering"
+    },
+    {
+      "id": "L004",
+      "name": "Reading"
+    },
+    {
+      "id": "L005",
+      "name": "True False"
+    },
+    {
+      "id": "L006",
+      "name": "Fill in the blank"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImage": "images/sample/q1_main.jpg",
+      "questionImageScale": 50,
+      "question": "What is the capital of France?",
+      "options": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "The Earth is the largest planet in our solar system.",
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "The chemical symbol for gold is ___.",
+      "correct": [
+        "au",
+        "Au",
+        "AU",
+        "aU"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "matching",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Match the countries to their capitals.",
+      "pairs": [
+        {
+          "country": "Italy",
+          "capital": "Rome",
+          "id": "a"
+        },
+        {
+          "country": "Spain",
+          "capital": "Madrid",
+          "id": "b"
+        },
+        {
+          "country": "Greece",
+          "capital": "Athens",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Rome",
+        "b": "Madrid",
+        "c": "Athens"
+      }
+    },
+    {
+      "id": 5,
+      "type": "reordering",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Put these steps in the correct order to make a cup of tea.",
+      "items": [
+        {
+          "text": "Boil water",
+          "order": 1
+        },
+        {
+          "text": "Add tea bag to cup",
+          "order": 2
+        },
+        {
+          "text": "Pour hot water into cup",
+          "order": 3
+        },
+        {
+          "text": "Wait 3-5 minutes",
+          "order": 4
+        },
+        {
+          "text": "Remove tea bag and add milk",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "reading_comprehension",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "passage": "The Amazon Rainforest is often called the 'lungs of the Earth'. It covers approximately 5.5 million square kilometers and is home to about 10% of all species on Earth. The forest plays a crucial role in regulating the global climate by absorbing carbon dioxide and producing oxygen. Despite its importance, the Amazon faces threats from deforestation, cattle ranching, and agricultural expansion.",
+      "passageId": "passage_1",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What percentage of Earth's species live in the Amazon Rainforest?",
+          "options": [
+            "5%",
+            "10%",
+            "15%",
+            "20%"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q2",
+          "question": "What is the Amazon Rainforest often called?",
+          "options": [
+            "The Heart of Earth",
+            "The Lungs of the Earth",
+            "The Brain of Nature",
+            "The Soul of Life"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q3",
+          "question": "Which of the following is NOT mentioned as a threat to the Amazon?",
+          "options": [
+            "Deforestation",
+            "Climate change",
+            "Cattle ranching",
+            "Agricultural expansion"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImage": "images/sample/q7_main.jpg",
+      "questionImageScale": 50,
+      "question": "Test",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    }
+  ]
+}
