@@ -1,0 +1,252 @@
+{
+  "lessons": [
+    {
+      "id": "L001",
+      "name": "Hoc Ki I - Doc Hieu 1"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "reading_comprehension",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "passage": "… Bóng tre trùm lên âu yếm làng, bản, xóm, thôn. Dưới bóng tre của ngàn xưa, thấp thoáng mái đình mái chùa cổ kính. Dưới bóng tre xanh, ta gìn giữ một nền văn hóa lâu đời. Dưới bóng tre xanh, đã từ lâu đời, người dân cày Việt Nam dựng nhà, dựng cửa, vỡ ruộng khai hoang. Tre ăn ở với người đời đời, kiếp kiếp. Tre, nứa, mai, vẫn giúp người trăm nghìn công việc khác nhau.”\n\n(Cây tre Việt Nam, Thép Mới)",
+      "passageId": "passage_1",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Văn bản trên mang đặc trưng của kiểu văn bản nào?",
+          "options": [
+            "Văn bản tự sự",
+            "Văn bản miêu tả",
+            "Văn bản thông tin",
+            "Văn bản biểu cảm"
+          ],
+          "correct": 3
+        },
+        {
+          "id": "q2",
+          "question": "Nghệ thuật đặc sắc được sử dụng trong ngữ liệu trên",
+          "options": [
+            "Nhân hóa, điệp ngữ, so sánh",
+            "So sánh, nhân hóa, hoán dụ",
+            "Nhân hóa, điệp ngữ, ẩn dụ",
+            "Nhân hóa, chơi chữ, ẩn dụ"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q3",
+          "question": "Chi tiết nào không sử dụng biện pháp nhân hóa?",
+          "options": [
+            "Bóng tre trùm lên âu yến làng, bản, xóm, thôn",
+            "Tre ăn ở với người đời đời, kiếp kiếp",
+            "Tre, nứa, mai, vẫn giúp người trăm nghìn công việc khác nhau.",
+            "Dưới bóng tre xanh, đã từ lâu đời, người dân cày Việt Nam dựng nhà, dựng cửa, vỡ ruộng khai hoang."
+          ],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Cụm từ \"một nền văn hóa lâu đời\" là cụm danh từ đúng hay sai?",
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Câu Bóng tre trùm lên âu yếm làng, bản, xóm, thôn là câu mở rộng chủ ngữ đúng hay sai?",
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Tìm trạng ngữ trong câu sau: Duới bóng tre xanh, ta gìn giữ một nền văn hóa lâu đời.",
+      "correct": [
+        "Duới bóng tre xanh",
+        "dưới bóng tre xanh"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Biện pháp tu từ trong câu \"Dưới bóng tre của ngàn xưa, thấp thoáng mái đình mái chùa cổ kính.\" là:",
+      "options": [
+        "Liệt kê",
+        "Đảo ngữ",
+        "Chêm xen",
+        "Phép đối"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Trong các truyện sau truyện nào là truyện cổ tích?",
+      "options": [
+        "Em bé thông minh",
+        "Bánh chưng, bánh giầy",
+        "Sự tích Hồ Gươm",
+        "Con Rồng cháu tiên"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Các từ láy nào thường được dùng để tả tiếng cười?",
+      "options": [
+        "Hả hê",
+        "Héo mòn",
+        "Khanh khách",
+        "Vui cười"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Câu nào sau đây có trạng ngữ chỉ nơi chốn?",
+      "options": [
+        "Lập tức, vua cho gọi cả hai cha con vào ban thưởng rất hậu.",
+        "Thu về, khi lá bàng vẫn còn xanh, gốc bàng là nơi tụ họp của chúng.",
+        "Giữa sân trường, chúng em chơi nô đùa.",
+        "Những cô bé ngày nào nay đã trưởng thành."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Truyện truyền thuyết là?",
+      "options": [
+        "Là thể loại truyện dân gian, thường kể về sự kiện, nhân vật lịch sử hoặc liên quan đến lịch sử.",
+        "Là truyện có nhân vật thường là loài vật hoặc đồ vật được nhân cách hóa. Các nhân vật này mang đặc điểm vốn có của loài vật hoặc đồ vật.",
+        "Là truyện dân gian kể về sự tích các loài vật, đồ vật…",
+        "Vì nó kể lại một câu chuyện với những tình tiết li kì hấp dẫn."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Ý nào dưới đây thể hiện đặc điểm của nhân vật truyền thuyết?",
+      "options": [
+        "Nhân vật là những người bình thường, nghèo khổ.",
+        "Thường gắn với sự kiện lịch sử và có công lớn đối với cộng đồng.",
+        "Là nhân vật bất hạnh.",
+        "Là những người thông minh."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Ý nào sau đây không nói về định hướng khi viết bài văn kể lại một truyện truyền thuyết hoặc cổ tích?",
+      "options": [
+        "Viết y nguyên câu chữ trong truyện.",
+        "Thay đổi từ ngữ, cách đặt câu.",
+        "Thêm các yếu tố miêu tả.",
+        "Thêm một vài chi tiết."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Dòng nào dưới đây không nêu đúng đặc điểm của văn bản du kí?",
+      "options": [
+        "Đây là loại văn bản hư cấu; nội dung chủ yếu là tưởng tượng, không phải ghi chép thực tế.",
+        "Tác giả chính là người kể chuyện.",
+        "Câu chuyện chủ yếu được kể theo trình tự thời gian.",
+        "Những gì được ghi chép gắn với hành trình những chuyến đi."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Dòng nào dưới đây không nêu đúng đặc điểm của văn bản hồi kí?",
+      "options": [
+        "Kể lại sự việc mà người viết từng tham gia, chứng kiến.",
+        "Sự việc được kể đã thuộc về quá khứ.",
+        "Các sự việc thường được kể theo trình tự không gian.",
+        "Sự việc gắn với một hoặc nhiều giai đoạn trong cuộc đời của tác giả."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Trong cặp câu lục bát sau, vì sao Tố Hữu không dùng “ve kêu” mà lại dùng “ve ngân” và không dùng “nắng vàng” mà lại dùng “nắng đào”?\n\nVườn râm dậy tiếng ve ngân\nBắp rây vàng hạt đây sân nắng đào\n(Tố Hữu, Khi con tu hú)",
+      "options": [
+        "Vì “ve ngân” và “nắng đào” gợi âm thanh và màu sắc sinh động",
+        "Vì “ve ngân” và “nắng đào” gợi âm thanh ngân vang và màu sắc tươi thắm đặc trưng của mùa hè",
+        "Vì tác giả muốn câu thơ ngắn gọn, không có quá nhiều từ miêu tả",
+        "Vì “ve ngân” và “nắng đào” là cách nói hiện đại, hợp với phong cách văn xuôi"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 15,
+      "type": "fill_in_blank",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Biện pháp tu từ được sử dụng trong câu “Những quả na nhắm nghiền mắt rồi mở mắt dần.” là:",
+      "correct": [
+        "Nhân hóa",
+        "nhân hóa"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "fill_in_blank",
+      "lessonId": "L001",
+      "questionImageScale": 50,
+      "question": "Biện pháp tu từ được sử dụng trong câu  “Bà hàng ra chọn mua đầy hai rổ sề, còn có vài quả chín nứt nở \"như đe thợ rào\" và những quả còi kĩnh, chúng tôi chia nhau.” là",
+      "correct": [
+        "So sánh",
+        "so sánh"
+      ]
+    }
+  ]
+}

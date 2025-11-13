@@ -12,7 +12,8 @@ export const CONFIG = {
     'lich_su_dia_li',
     'cong_nghe',
     'tin_hoc',
-    'giao_duc_cong_dan'
+    'giao_duc_cong_dan',
+	'ngu_van'
   ],
 
   // Subject display names
@@ -23,7 +24,8 @@ export const CONFIG = {
     'cong_nghe': 'Công Nghệ',
     'giao_duc_cong_dan': 'Giáo Dục Công Dân',
     'lich_su_dia_li': 'Lịch Sử Địa Lí',
-    'tin_hoc': 'Tin Học'
+    'tin_hoc': 'Tin Học',
+	'ngu_van': 'Ngữ Văn'
   },
 
   // Question type display names
