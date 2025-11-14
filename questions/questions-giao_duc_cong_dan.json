@@ -1,8 +1,24 @@
 {
+  "lessons": [
+    {
+      "id": "L001",
+      "name": "Giua Hoc Ki I"
+    },
+    {
+      "id": "L002",
+      "name": "Bai 4"
+    },
+    {
+      "id": "L003",
+      "name": "Bai 5"
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Để giữ gìn truyền thống của gia đình và dòng họ thì chúng ta cần làm gì?",
       "options": [
         "Sống lương thiện hoà nhập với mọi người.",
@@ -11,11 +27,13 @@
         "Tất cả các câu trên"
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 2,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Em đồng ý với ý kiến nào dưới đây?",
       "options": [
         "Truyền thống gia đình là những gì đã lạc hậu, cần phải xoá bỏ.",
@@ -24,11 +42,13 @@
         "Gia đình, dòng họ nào cũng có truyền thống tốt đẹp cần phát huy."
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 3,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Câu ca dao, tục ngữ nào nói về yêu thương con người?",
       "options": [
         "Thương người như thể thương thân.",
@@ -37,11 +57,13 @@
         "Cây ngay không sợ chết đứng."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 4,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Đáp án nào dưới đây không phải là truyền thống tốt đẹp của gia đình dòng họ?",
       "options": [
         "Ham chơi, lười học.",
@@ -50,11 +72,13 @@
         "Đoàn kết, tương trợ."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 5,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Hành vi nào dưới đây không thể hiện sự tự hào về truyền thống gia đình, dòng họ?",
       "options": [
         "Bảo quản gia phả, bàn thờ tổ tiên cẩn thận.",
@@ -63,11 +87,13 @@
         "Xem thường truyền thống gia đình, chỉ chạy theo cái mới."
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 6,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Vì sao chúng ta cần yêu thương con người?",
       "options": [
         "Giúp chúng ta trở thành người nổi tiếng.",
@@ -76,11 +102,13 @@
         "Vì mọi người đều có hoàn cảnh giống nhau."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 7,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Bạn Nam thấy một cụ già muốn qua đường nhưng xe cộ rất đông. Nam nên làm gì để thể hiện tình yêu thương con người?",
       "options": [
         "Đứng nhìn vì sợ nguy hiểm.",
@@ -89,11 +117,13 @@
         "Chỉ trỏ cho người khác đến giúp cụ."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 8,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Lòng yêu thương xuất phát từ đâu?",
       "options": [
         "Xuất phát từ lòng thương hại.",
@@ -102,11 +132,13 @@
         "Xuất phát từ sự mong trả ơn."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 9,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Truyền thống của gia đình, dòng họ không bao gồm lĩnh vực nào sau đây?",
       "options": [
         "Văn hóa, đạo đức.",
@@ -115,11 +147,13 @@
         "Học tập, hiếu học."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 10,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Thái độ nào thể hiện sự tự hào về truyền thống gia đình, dòng họ?",
       "options": [
         "Thờ ơ, vô trách nhiệm.",
@@ -128,11 +162,13 @@
         "Che giấu những thông tin về gia phả, tổ tiên."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 11,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Truyền thống của gia đình, dòng họ mang lại ý nghĩa nào sau đây?",
       "options": [
         "Giúp chúng ta có thêm động lực, kinh nghiệm, vượt qua khó khăn.",
@@ -141,11 +177,13 @@
         "Làm cho ta luôn tự mãn với những gì đã có."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 12,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Việc giữ gìn và phát huy truyền thống tốt đẹp của gia đình, dòng họ có tác dụng gì đối với xã hội?",
       "options": [
         "Làm giảm bớt bản sắc văn hóa dân tộc.",
@@ -154,11 +192,13 @@
         "Làm cho xã hội phát triển chậm lại."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 13,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Để giữ gìn và phát huy truyền thống gia đình, dòng họ, chúng ta cần có những hành động nào?",
       "options": [
         "Tự hào, trân trọng, nối tiếp và gìn giữ truyền thống bằng hành động và thái độ phù hợp.",
@@ -167,11 +207,13 @@
         "Chỉ kể lại cho người khác nghe về truyền thống gia đình mình."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 14,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Hành vi nào dưới đây thể hiện sự **yêu thương con người**?",
       "options": [
         "Chỉ quan tâm đến lợi ích của bản thân.",
@@ -180,11 +222,13 @@
         "Bao che cho những hành vi sai trái của người thân."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 15,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Hành vi nào không phải là biểu hiện của lòng yêu thương con người?",
       "options": [
         "Cảm thông, chia sẻ nỗi đau với người khác.",
@@ -193,11 +237,13 @@
         "Hi sinh lợi ích cá nhân vì cộng đồng."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 16,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Khi thấy bạn mình bị bắt nạt, em nên làm gì để thể hiện tình yêu thương con người?",
       "options": [
         "Lảng tránh, giả vờ không nhìn thấy.",
@@ -206,11 +252,13 @@
         "Mặc kệ vì đó không phải chuyện của mình."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 17,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Biểu hiện nào dưới đây được coi là trái với yêu thương con người?",
       "options": [
         "Bao che điều xấu, ngược đãi người khác.",
@@ -219,11 +267,13 @@
         "Sẵn sàng chia sẻ đồ dùng cá nhân với người nghèo."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 18,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Lòng yêu thương con người mang lại ý nghĩa nào cho cá nhân?",
       "options": [
         "Giúp bản thân chỉ tập trung vào lợi ích vật chất.",
@@ -232,11 +282,13 @@
         "Khiến bản thân bị người khác lợi dụng."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 19,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Lòng yêu thương con người được đánh giá là gì của dân tộc Việt Nam?",
       "options": [
         "Một thói quen nhất thời.",
@@ -245,11 +297,13 @@
         "Một đức tính chỉ cần có khi rảnh rỗi."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 20,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Tình huống nào thể hiện sự *thiếu* yêu thương con người?",
       "options": [
         "Chia sẻ quần áo ấm cho người dân vùng lũ.",
@@ -258,11 +312,13 @@
         "Đồng cảm với nỗi buồn của người thân."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
-	{
+    {
       "id": 21,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Tôn trọng sự thật là:",
       "options": [
         "Làm theo ý mình cho thoải mái",
@@ -271,11 +327,13 @@
         "Giấu đi sự thật nếu bất lợi cho bản thân"
       ],
       "correct": 2,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 22,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Người tôn trọng sự thật thường có phẩm chất nào sau đây?",
       "options": [
         "Thật thà, trung thực",
@@ -284,11 +342,13 @@
         "Khó gần, kín đáo"
       ],
       "correct": 0,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 23,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Khi nhận ra mình làm sai, người tôn trọng sự thật sẽ:",
       "options": [
         "Đổ lỗi cho người khác",
@@ -297,11 +357,13 @@
         "Che giấu để không bị phát hiện"
       ],
       "correct": 2,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 24,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Việc bóp méo sự thật gây ra hậu quả gì?",
       "options": [
         "Làm mọi người thêm tin tưởng",
@@ -310,11 +372,13 @@
         "Không có ảnh hưởng gì"
       ],
       "correct": 1,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 25,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Tôn trọng sự thật giúp con người:",
       "options": [
         "Được mọi người yêu quý, tin cậy",
@@ -323,11 +387,13 @@
         "Hay bị người khác lợi dụng"
       ],
       "correct": 0,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 26,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Khi nghe bạn nói sai sự thật về người khác, em nên:",
       "options": [
         "Im lặng cho qua",
@@ -336,11 +402,13 @@
         "Kể lại cho nhiều người biết"
       ],
       "correct": 2,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 27,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Trong các hành vi sau, hành vi nào thể hiện tôn trọng sự thật?",
       "options": [
         "Che giấu lỗi của bạn thân",
@@ -349,11 +417,13 @@
         "Bịa chuyện để gây chú ý"
       ],
       "correct": 1,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 28,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Người không tôn trọng sự thật dễ bị:",
       "options": [
         "Mọi người xa lánh",
@@ -362,11 +432,13 @@
         "Giao nhiệm vụ quan trọng"
       ],
       "correct": 0,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 29,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Tôn trọng sự thật góp phần xây dựng:",
       "options": [
         "Mối quan hệ xã hội tốt đẹp",
@@ -375,11 +447,13 @@
         "Lối sống ích kỉ"
       ],
       "correct": 0,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 30,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Khi ai đó xuyên tạc sự thật, chúng ta cần:",
       "options": [
         "Im lặng để tránh rắc rối",
@@ -388,52 +462,194 @@
         "Cười cho qua chuyện"
       ],
       "correct": 2,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 31,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Tôn trọng sự thật chỉ cần nói thật, không cần hành động đúng.",
-      "correct": 1,
-      "lessonId": "L002"
+      "correct": 1
     },
     {
       "id": 32,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Người biết nhận lỗi khi mắc sai lầm là người tôn trọng sự thật.",
-      "correct": 0,
-      "lessonId": "L002"
+      "correct": 0
     },
     {
       "id": 33,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Che giấu sự thật để tránh bị trách phạt là hành vi thiếu tôn trọng sự thật.",
-      "correct": 0,
-      "lessonId": "L002"
+      "correct": 0
     },
     {
       "id": 34,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Tôn trọng sự thật giúp con người được mọi người tin yêu, quý trọng.",
-      "correct": 0,
-      "lessonId": "L002"
+      "correct": 0
     },
     {
       "id": 35,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Khi bạn làm sai mà không ai biết, không cần phải nói ra là được.",
-      "correct": 1,
-      "lessonId": "L002"
-    }
-  ],
-  "lessons": [
-    {
-      "id": "L001",
-      "name": "Giua Hoc Ki I"
+      "correct": 1
     },
     {
-      "id": "L002",
-      "name": "Ton Trong Su That"
+      "id": 36,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Tự lập là gì?",
+      "options": [
+        "Không cần ai giúp đỡ và làm mọi việc một mình",
+        "Có khả năng chủ động trong học tập, sinh hoạt và giải quyết vấn đề, biết chịu trách nhiệm về hành động của mình",
+        "Luôn nghe theo người khác để tránh rủi ro",
+        "Biết nói “không” với mọi yêu cầu từ bạn bè"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Hành vi nào thể hiện sự tự lập?",
+      "options": [
+        "Nhờ người khác làm bài tập thay mình",
+        "Lập kế hoạch học tập và hoàn thành đúng hạn",
+        "Luôn trông chờ cha mẹ giải quyết mọi việc",
+        "Sao chép bài bạn cùng lớp để đạt điểm cao"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Lợi ích của việc tự lập là gì?",
+      "options": [
+        "Giúp bạn được mọi người khen ngợi nhưng không học được kỹ năng",
+        "Phát triển khả năng tự quản lý, tự tin, và chịu trách nhiệm về bản thân",
+        "Tránh phải làm việc nhóm",
+        "Chỉ để chứng minh mình giỏi hơn người khác"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Nguyên tắc để rèn luyện tính tự lập là:",
+      "options": [
+        "Phụ thuộc vào người khác trong mọi quyết định",
+        "Biết lập kế hoạch, tự quản lý bản thân và chịu trách nhiệm về hành động",
+        "Làm mọi việc theo cảm hứng mà không cần kế hoạch",
+        "Chỉ làm việc khi được nhắc nhở"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Hành động nào sau đây không giúp rèn luyện tính tự lập?",
+      "options": [
+        "Tự chuẩn bị sách vở, đồ dùng học tập",
+        "Hoàn thành bài tập mà không nhờ ai",
+        "Thường xuyên ỷ lại vào người khác để làm thay việc của mình",
+        "Tự sắp xếp thời gian học và chơi"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Người tự lập thường có đặc điểm nào?",
+      "options": [
+        "Sợ thử thách và tránh trách nhiệm",
+        "Chủ động giải quyết vấn đề, tự tin và trách nhiệm",
+        "Luôn cần nhắc nhở mới làm việc",
+        "Không quan tâm đến kết quả của bản thân"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 42,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Tự lập có nghĩa là không bao giờ nhờ người khác giúp đỡ.",
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Tự lập chỉ cần trong học tập, không cần trong sinh hoạt hằng ngày.",
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Người tự lập sẽ luôn tránh những thử thách mới.",
+      "correct": 1
+    },
+    {
+      "id": 45,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Khi rèn luyện tính tự lập, việc lập kế hoạch là một bước cần thiết.",
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "type": "reordering",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Sắp xếp các bước rèn luyện tính tự lập theo thứ tự hợp lý:",
+      "items": [
+        {
+          "text": "Nhận thức được tầm quan trọng của tự lập",
+          "order": 1
+        },
+        {
+          "text": "Lập kế hoạch và phân công thời gian hợp lý",
+          "order": 2
+        },
+        {
+          "text": "Tự thực hiện và kiểm soát quá trình",
+          "order": 3
+        },
+        {
+          "text": "Đánh giá kết quả và rút kinh nghiệm",
+          "order": 4
+        }
+      ]
     }
   ]
 }

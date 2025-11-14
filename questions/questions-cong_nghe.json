@@ -1,8 +1,20 @@
 {
+  "lessons": [
+    {
+      "id": "L001",
+      "name": "Giua Hoc Ki I"
+    },
+    {
+      "id": "L002",
+      "name": "Bai 4"
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Nhà ở là nơi trú ngụ, bảo vệ con người tránh khỏi những ảnh hưởng xấu của thiên nhiên như:",
       "options": [
         "Động đất.",
@@ -11,11 +23,13 @@
         "Sạt lở."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 2,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Điền từ thích hợp vào chỗ chấm: “Nhà ở là nơi đáp ứng các nhu cầu ……………………………. hằng ngày của các thành viên trong gia đình.”",
       "options": [
         "Ăn uống.",
@@ -24,11 +38,13 @@
         "Giải trí."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 3,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Nhà ở thường có cấu tạo chung bao gồm mấy phần?",
       "options": [
         "6 phần.",
@@ -37,11 +53,13 @@
         "3 phần."
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 4,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Trong cấu tạo của nhà ở, bộ phận móng nhà có vai trò như thế nào?",
       "options": [
         "Tạo nên kiến trúc của ngôi nhà.",
@@ -50,11 +68,13 @@
         "Tất cả đều đúng."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 5,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "“Nhà ở được xây dựng riêng biệt trong khuôn viên rộng lớn, đầy đủ tiện nghi” đây là mô tả kiến trúc nhà ở nào?",
       "options": [
         "Nhà sàn.",
@@ -63,11 +83,13 @@
         "Nhà thuyền."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 6,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Kiến trúc nhà ở đặc trưng của khu vực nông thôn là:",
       "options": [
         "Nhà sàn.",
@@ -76,11 +98,13 @@
         "Nhà ba gian."
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 7,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Các vật liệu xây dựng nhà ở thuộc nhóm vật liệu tự nhiên là:",
       "options": [
         "Tre, lá dừa, đất sét.",
@@ -89,11 +113,13 @@
         "Thép, xi măng, tôn."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 8,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Bê tông thường được dùng để xây dựng bộ phận nào của nhà ở?",
       "options": [
         "Tường nhà.",
@@ -102,11 +128,13 @@
         "Cửa nhà."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 9,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Quy trình xây dựng nhà ở bao gồm:",
       "options": [
         "3 bước.",
@@ -115,11 +143,13 @@
         "6 bước."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 10,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Chuẩn bị xây dựng nhà ở là thực hiện các công việc:",
       "options": [
         "Chọn vật liệu, xây tường, quét vôi.",
@@ -128,11 +158,13 @@
         "Vẽ thiết kế, chọn vật liệu, xây tường."
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 11,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Các nguồn năng lượng sử dụng trong gia đình được chia thành:",
       "options": [
         "Năng lượng tự nhiên và năng lượng nhân tạo.",
@@ -141,11 +173,13 @@
         "Năng lượng tái tạo và năng lượng nhân tạo."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 12,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Năng lượng nào sau đây thuộc nhóm năng lượng tái tạo?",
       "options": [
         "Điện.",
@@ -154,11 +188,13 @@
         "Than."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 13,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Nguồn năng lượng được sử dụng phổ biến trong nhà ở là:",
       "options": [
         "Mặt trời.",
@@ -167,11 +203,13 @@
         "Tất cả đều đúng."
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 14,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Số sao trên nhãn năng lượng của đồ dùng điện cho biết điều gì?",
       "options": [
         "Khả năng tiết kiệm điện ít hay nhiều của đồ dùng điện.",
@@ -180,11 +218,13 @@
         "Thời gian sử dụng của đồ dùng điện."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 15,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Điền từ thích hợp vào chỗ chấm: “ …………….. cung cấp năng lượng cho các loại đồ dùng điện để chiếu sáng.”",
       "options": [
         "Điện.",
@@ -193,11 +233,13 @@
         "Than."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 16,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Hoạt động sinh hoạt diễn ra đang sử dụng nguồn năng lượng nào? (Giả định quần áo đang được phơi ngoài trời)",
       "options": [
         "Điện.",
@@ -206,11 +248,13 @@
         "Than."
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 17,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Loại đồ dùng nào sau đây sử dụng năng lượng khí đốt để hoạt động?",
       "options": [
         "Bếp ga.",
@@ -219,11 +263,13 @@
         "Xe máy."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 18,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Phát biểu nào sau đây là Sai:",
       "options": [
         "Việc khai thác tài nguyên thiên nhiên để sản xuất năng lượng góp phần gây ra nhiều tác hại đối với môi trường.",
@@ -232,11 +278,13 @@
         "Thay thế năng lượng chất đốt từ than, dầu bằng củi để giảm tải việc khai thác khoáng sản."
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 19,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Để tận dụng các nguồn năng lượng tái tạo ta nên:",
       "options": [
         "Mở các cửa lớn, cửa sổ vào ban ngày thay vì mở đèn.",
@@ -245,12 +293,13 @@
         "Tất cả đều đúng."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 20,
       "type": "matching",
       "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Chọn nhóm thực phẩm với chức năng chính của nhóm",
       "pairs": [
         {
@@ -285,6 +334,7 @@
       "id": 21,
       "type": "multiple_choice",
       "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Trứng và thịt thuộc nhóm thực phẩm chính nào?",
       "options": [
         "Nhóm giàu đạm",
@@ -292,12 +342,14 @@
         "Nhóm giàu vitamin và khoáng",
         "Nhóm cung cấp chất béo"
       ],
-      "correct": 0
+      "correct": 0,
+      "optionImageScale": 50
     },
     {
       "id": 22,
       "type": "multiple_choice",
       "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Gạo, mì và khoai thuộc nhóm thực phẩm:",
       "options": [
         "Cung cấp đạm",
@@ -305,12 +357,14 @@
         "Cung cấp bột đường",
         "Cung cấp vitamin"
       ],
-      "correct": 2
+      "correct": 2,
+      "optionImageScale": 50
     },
     {
       "id": 23,
       "type": "multiple_choice",
       "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Rau xanh và trái cây chủ yếu cung cấp chất gì?",
       "options": [
         "Vitamin, khoáng chất và chất xơ",
@@ -318,12 +372,14 @@
         "Chất đạm",
         "Tinh bột"
       ],
-      "correct": 0
+      "correct": 0,
+      "optionImageScale": 50
     },
     {
       "id": 24,
       "type": "multiple_choice",
       "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Dầu ăn, bơ và mỡ động vật thuộc nhóm nào?",
       "options": [
         "Nhóm giàu đạm",
@@ -331,12 +387,14 @@
         "Nhóm giàu chất béo",
         "Nhóm giàu khoáng"
       ],
-      "correct": 2
+      "correct": 2,
+      "optionImageScale": 50
     },
     {
       "id": 25,
       "type": "true_false",
       "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Chất đạm chỉ có trong thịt và cá, không có trong thực vật.",
       "correct": 1
     },
@@ -344,6 +402,7 @@
       "id": 26,
       "type": "true_false",
       "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Nhóm chất béo chỉ gây tăng cân, không có lợi cho sức khỏe.",
       "correct": 1
     },
@@ -351,18 +410,171 @@
       "id": 27,
       "type": "true_false",
       "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Một bữa ăn đủ chất cần kết hợp đầy đủ cả bốn nhóm thực phẩm chính.",
       "correct": 0
-    }
-  ],
-  "lessons": [
-    {
-      "id": "L001",
-      "name": "Giua Hoc Ki I"
     },
     {
-      "id": "L002",
-      "name": "Thuc Pham va Dinh Duong"
+      "id": 28,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Yếu tố nào sau đây không thuộc về một bữa ăn dinh dưỡng hợp lý?",
+      "options": [
+        "Đủ năng lượng và chất dinh dưỡng",
+        "Đa dạng thực phẩm",
+        "Chỉ ăn một loại thực phẩm chính",
+        "Phù hợp với lứa tuổi và sức khỏe"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Khi xây dựng bữa ăn, chi phí được tính dựa vào yếu tố nào?",
+      "options": [
+        "Giá thành thực phẩm",
+        "Thời gian chế biến",
+        "Mức độ ngon miệng",
+        "Số lượng gia vị"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Các bước xây dựng bữa ăn dinh dưỡng hợp lý gồm:",
+      "options": [
+        "Lập thực đơn → Tính lượng thực phẩm → Chuẩn bị nấu → Ăn",
+        "Mua thực phẩm → Nấu ăn → Ăn → Dọn dẹp",
+        "Tính lượng thực phẩm → Ăn → Lập thực đơn",
+        "Ăn → Lập thực đơn → Tính lượng thực phẩm"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 31,
+      "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Bữa ăn dinh dưỡng hợp lý chỉ cần nhiều chất đạm là đủ.",
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Khi tính chi phí bữa ăn, cần cân nhắc cả giá thành và lượng thực phẩm sử dụng.",
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Một bữa ăn hợp lý cần đảm bảo đủ 4 nhóm thực phẩm: chất bột đường, chất đạm, chất béo, vitamin và khoáng chất.",
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "type": "reordering",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Hãy sắp xếp các bước xây dựng bữa ăn dinh dưỡng hợp lý theo đúng trình tự:",
+      "items": [
+        {
+          "text": "Lập thực đơn",
+          "order": 1
+        },
+        {
+          "text": "Tính lượng thực phẩm cần dùng",
+          "order": 2
+        },
+        {
+          "text": "Chuẩn bị và chế biến thực phẩm",
+          "order": 3
+        },
+        {
+          "text": "Ăn và đánh giá bữa ăn",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "type": "matching",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Nối các yếu tố của bữa ăn dinh dưỡng hợp lý với ví dụ tương ứng:",
+      "pairs": [
+        {
+          "country": "Đa dạng thực phẩm",
+          "capital": "Ăn cơm, cá, rau, trứng trong một bữa",
+          "id": "a"
+        },
+        {
+          "country": "Đủ năng lượng",
+          "capital": "Ăn đúng khẩu phần để không bị đói hoặc thừa năng lượng",
+          "id": "b"
+        },
+        {
+          "country": "Phù hợp với lứa tuổi",
+          "capital": "Trẻ em ăn nhiều sữa và thực phẩm giàu canxi",
+          "id": "c"
+        },
+        {
+          "country": "Hợp vệ sinh",
+          "capital": "Rửa rau, nấu chín thực phẩm trước khi ăn",
+          "id": "d"
+        }
+      ],
+      "correct": {
+        "a": "Ăn cơm, cá, rau, trứng trong một bữa",
+        "b": "Ăn đúng khẩu phần để không bị đói hoặc thừa năng lượng",
+        "c": "Trẻ em ăn nhiều sữa và thực phẩm giàu canxi",
+        "d": "Rửa rau, nấu chín thực phẩm trước khi ăn"
+      }
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Một bữa ăn dinh dưỡng hợp lý cần đảm bảo đủ ________ cho cơ thể hoạt động.",
+      "correct": [
+        "năng lượng"
+      ]
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Tại sao việc ăn đúng giờ và phân bố thời gian dùng bữa hợp lý quan trọng?",
+      "options": [
+        "Giúp cơ thể tiêu hóa tốt và hấp thụ đầy đủ dinh dưỡng",
+        "Chỉ để tránh đói bụng",
+        "Giúp giảm chi phí bữa ăn",
+        "Không ảnh hưởng gì đến sức khỏe"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 38,
+      "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Ăn không đúng giờ hoặc bỏ bữa không ảnh hưởng đến hiệu quả dinh dưỡng của bữa ăn.",
+      "correct": 1
     }
   ]
 }
