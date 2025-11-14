@@ -3,6 +3,10 @@
     {
       "id": "L001",
       "name": "Hoc Ki I - Doc Hieu 1"
+    },
+    {
+      "id": "L002",
+      "name": "Hoc Ki I - Doc Hieu 2"
     }
   ],
   "questions": [
@@ -246,6 +250,347 @@
       "correct": [
         "So sánh",
         "so sánh"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Trong câu văn “Đến ngày hẹn, các hoàng tử đều đem đủ thứ của ngon vật lạ bày trên mâm cỗ mình làm để dự thi”, cụm từ “của ngon vật lạ” có phải thành ngữ không?",
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Trong truyện “Thánh Gióng”, Gióng đã yêu cầu nhà vua sắm sửa cho mình những vật dụng gì để đi đánh giặc?",
+      "options": [
+        "Một áo giáp sắt, một đội quân tinh nhuệ và một chiếc roi sắt",
+        "Một con ngựa sắt, một cái roi sắt và một áo giáp sắt",
+        "Một con ngựa sắt, một áo giáp sắt cùng một đội quân tinh nhuệ",
+        "Một áo giáp sắt, một đội quân tinh nhuệ, một cái roi sắt"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "nghĩa hình tượng Thánh Gióng là gì?",
+      "options": [
+        "Tượng trưng cho sức mạnh của tinh thần đoàn kết toàn dân",
+        "Biểu tượng về lòng yêu nước, sức mạnh chống giặc ngoại xâm của nhân dân ta",
+        "Ước mơ của nhân dân ta về hình mẫu lí tưởng của người anh hùng chống giặc ngoại xâm thời kì đầu dựng nước",
+        "Tất cả đều đúng"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Trong truyện “Thánh Gióng”, cậu bé Gióng cất tiếng nói đầu tiên khi nào?",
+      "options": [
+        "Khi Gióng được sáu tuổi và đòi đi chăn trâu",
+        "Khi cha mẹ Gióng bị bệnh và qua đời",
+        "Khi nghe sứ giả của nhà vua thông báo công chúa kén phò mã",
+        "Khi nghe sứ giả của nhà vua đi loan truyền tìm người tài giỏi cứu nước, phá giặc Ân"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Trong truyện “Thánh Gióng”, sau khi roi sắt bị gãy, Thánh Gióng đã dùng vật gì để tiếp tục đánh giặc?",
+      "options": [
+        "Gươm, giáo cướp được của quân giặc",
+        "Dùng tay không",
+        "Nhổ những cụm tre ven đường để quật vào quân giặc",
+        "Cho ngựa phun lửa vào quân giặc"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Để ghi nhớ công ơn của Thánh Gióng, vua Hùng đã phong cho Thánh Gióng danh hiệu gì?",
+      "options": [
+        "Đức Thánh Tản Viên",
+        "Lưỡng quốc Trạng nguyên",
+        "Bố Cái Đại Vương",
+        "Phù Đổng Thiên Vương"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Phát biểu nào sau đây nói đúng nhất về nhân vật Thánh Gióng trong truyền thuyết “Thánh Gióng”?",
+      "options": [
+        "Thánh Gióng là nhân vật được xây dựng từ hình ảnh những người anh hùng có thật thời xưa",
+        "Thánh Gióng là nhân vật được xây dựng dựa trên truyền thống tuổi trẻ anh hùng trong lịch sử và từ trí tưởng tượng bắt nguồn từ tinh thần yêu nước của nhân dân",
+        "Thánh Gióng là một cậu bé kì lạ chỉ có trong thời kì đầu dựng nước",
+        "Thánh Gióng là nhân vật do nhân dân tưởng tượng hư cấu nên để thể thiện khát vọng chinh phục thiên nhiên"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 24,
+      "type": "reading_comprehension",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "passage": "Đọc đoạn văn sau:\n\nMưa rả rích đêm ngày. Mưa tối tăm mặt mũi. Mưa thối đất thối cát. Trận này chưa qua, trận khác đã tới, ráo riết, hung tợn hơn. Tưởng như biển có bao nhiêu nước, trời hút lên đổ xuống đất liền. (Ma Văn Kháng).",
+      "passageId": "passage_24",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Đoạn văn trên có những từ láy nào?",
+          "options": [
+            "rả rích, tối tăm, ráo riết",
+            "mặt mũi, rả rích",
+            "ráo riết",
+            "rả rích, tối tăm, mặt mũi, ráo riết"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q2",
+          "question": "Trong đoạn văn trên có những thành ngữ nào?",
+          "options": [
+            "tối tăm mặt mũi",
+            "thối đất thối cát",
+            "cả hai đều là thành ngữ",
+            "không có thành ngữ"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Tả cảnh sinh hoạt là gì?",
+      "options": [
+        "Dùng khả năng quan sát và lời văn gợi tả, làm sống lại bức tranh sinh hoạt, giúp người đọc hình dung được rõ nét về không khí, đặc điểm nổi bật của cảnh đó",
+        "Dùng khả năng quan sát và lời văn gợi tả, làm sống lại bức tranh thiên nhiên, giúp người đọc hình dung được rõ nét về không khí, đặc điểm nổi bật của cảnh đó",
+        "Dùng khả năng quan sát và lời văn miêu tả ngoại hình của con người, giúp người đọc hình dung rõ nét về con người được miêu tả",
+        "Kể lại những trải nghiệm nào đó mà em đã trải qua"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Trong văn bản Hội thổi cơm thi ở Đồng Vân, lễ dâng hương ở đầu hội thi thể hiện điều gì?",
+      "options": [
+        "Sự mê tín của người dân",
+        "Sự biết ơn của dân làng dành cho các vị thánh thần",
+        "Sự khéo léo của dân làng",
+        "Tình yêu của người dân đối với cuộc sống"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Trong văn bản Sự tích Hồ Gươm, Lê Lợi trả gươm trong hoàn cảnh nào?",
+      "options": [
+        "Đất nước còn nhiều quân giặc mới",
+        "Đức Long Quân đòi lại gươm",
+        "Giặc Minh đã bị đánh đuổi",
+        "Giặc khác sang xâm lược"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Tính từ đúng nhất khi nói về bức tranh thiên nhiên trong bài Việt Nam quê hương ta?",
+      "options": [
+        "Ồn ào, náo nhiệt",
+        "Tươi đẹp, yên bình",
+        "Đông vui, tấp nập",
+        "Rực rỡ, tốt tươi"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 29,
+      "type": "reading_comprehension",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "passage": "Đọc câu văn “Nhìn ong trại đi, tưởng như một mảnh hồn của tôi đã san đi nơi khác”?",
+      "passageId": "passage_29",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Biện pháp tu từ nào được sử dụng trong câu văn trên?",
+          "options": [
+            "Liệt kê",
+            "Nhân hóa",
+            "Điệp từ",
+            "So sánh"
+          ],
+          "correct": 3
+        },
+        {
+          "id": "q2",
+          "question": "Từ “trại” trong câu văn Mấy lần ong trại nghĩa là gì?",
+          "options": [
+            "Một phần đàn ong bỏ tổ nhà, mang theo một ong chúa",
+            "Đàn ong hỗn loạn, mất trật tự",
+            "Đàn ong chết hết",
+            "Cả đàn ong bỏ đi làm tổ nơi khác"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Xác định từ láy trong câu sau: “Mặt mũi nó lúc nào cũng nhăn nhó như bà già đau khổ”.",
+      "correct": [
+        "nhăn nhó"
+      ]
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Từ láy là gì?",
+      "options": [
+        "Từ láy là những từ có các tiếng được ghép lại với nhau tạo thành",
+        "Từ láy là những từ có sự đối xứng âm với nhau",
+        "Từ láy là những từ có các tiếng lặp lại hoàn toàn, một số trường hợp tiếng đứng trước biến đổi thanh điệu, giống nhau phần phụ âm đầu hoặc phần vần",
+        "Tất cả đáp án trên"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 32,
+      "type": "fill_in_blank",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Thành ngữ trong câu: “Mẹ đã phải một nắng hai sương vì chúng con”. là",
+      "correct": [
+        "một nắng hai sương"
+      ]
+    },
+    {
+      "id": 33,
+      "type": "matching",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "question": "Xác định vai trò của trạng ngữ trong các câu dưới đây:\n\na. Ngày cưới, trong nhà Sọ Dừa, cỗ bàn thật linh đình, gia nhân chạy ra chạy vào tấp nập.\nb. Đúng lúc rước dâu, không ai thấy Sọ Dừa đâu.\nc. Lập tức, vua cho gọi cả hai cha con vào ban thưởng rất hậu.\nd. Sau khi nghe sứ thần trình bày mục đích cuộc đi sứ, vua quan đưa mắt nhìn nhau.",
+      "pairs": [
+        {
+          "country": "Câu a",
+          "capital": "xác định thời gian diễn ra sự việc",
+          "id": "a"
+        },
+        {
+          "country": "Câu a",
+          "capital": "xác định nơi chốn diễn ra sự việc",
+          "id": "b"
+        },
+        {
+          "country": "Câu b",
+          "capital": "xác định thời gian diễn ra sự việc",
+          "id": "c"
+        },
+        {
+          "country": "Câu c",
+          "capital": "xác định thời gian diễn ra sự việc",
+          "id": "d"
+        },
+        {
+          "country": "Câu d",
+          "capital": "xác định thời gian diễn ra sự việc",
+          "id": "e"
+        }
+      ],
+      "correct": {
+        "a": "xác định thời gian diễn ra sự việc",
+        "b": "xác định nơi chốn diễn ra sự việc",
+        "c": "xác định thời gian diễn ra sự việc",
+        "d": "xác định thời gian diễn ra sự việc",
+        "e": "xác định thời gian diễn ra sự việc"
+      }
+    },
+    {
+      "id": 34,
+      "type": "reading_comprehension",
+      "lessonId": "L002",
+      "questionImageScale": 50,
+      "passage": "Đọc đoạn thơ sau và trả lời câu hỏi:\n\nViệt Nam đất nước ta ơi\nMênh mông biển lúa đâu trời đẹp hơn\nCánh cò bay lả rập rờn\nMây mờ che đỉnh Trường Sơn sớm chiều",
+      "passageId": "passage_34",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "\"Việt Nam đất nước ta ơi\" là câu",
+          "options": [
+            "cảm thán",
+            "nghi vấn",
+            "trần thuật",
+            "cầu khiến"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q2",
+          "question": "Có bao nhiêu từ láy trong đoạn thơ?",
+          "options": [
+            "1",
+            "2",
+            "0",
+            "3"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q3",
+          "question": "Biện pháp so sánh được sử dụng trong câu thơ nào?",
+          "options": [
+            "Câu 1",
+            "Câu 2",
+            "Câu 3",
+            "Câu 4"
+          ],
+          "correct": 1
+        }
       ]
     }
   ]
