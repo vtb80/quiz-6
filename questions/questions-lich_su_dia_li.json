@@ -2,23 +2,23 @@
   "lessons": [
     {
       "id": "L001",
-      "name": "Giua Hoc Ki I"
+      "name": "Giữa Học Kì I"
     },
     {
       "id": "L002",
-      "name": "Lich Su - Bai 6"
+      "name": "Ai Cập cổ đại"
     },
     {
       "id": "L004",
-      "name": "Lich Su - Bai 7"
+      "name": "Lưỡng Hà cổ đại"
     },
     {
       "id": "L003",
-      "name": "Dia Li - Bai 6"
+      "name": "Chuyển động tự quay quanh trục của Trái Đất và hệ quả"
     },
     {
       "id": "L005",
-      "name": "Dia Li - Bai 7"
+      "name": "Chuyển động quanh Mặt Trời của Trái Đất và hệ quả"
     }
   ],
   "questions": [

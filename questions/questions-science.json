@@ -1,8 +1,28 @@
 {
+  "lessons": [
+    {
+      "id": "L001",
+      "name": "Mid Semester I"
+    },
+    {
+      "id": "L002",
+      "name": "Caring for the Environment"
+    },
+    {
+      "id": "L003",
+      "name": "Fuel"
+    },
+    {
+      "id": "L004",
+      "name": "Material"
+    }
+  ],
   "questions": [
     {
       "id": 1,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What is Natural Science about?",
       "options": [
         "Art and design",
@@ -11,11 +31,13 @@
         "Only animals"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 2,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Which of the following is an example of how science helps in real life?",
       "options": [
         "Making movies",
@@ -24,11 +46,13 @@
         "Playing games"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 3,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What is the first step when doing a science investigation?",
       "options": [
         "Drawing conclusions",
@@ -37,11 +61,13 @@
         "Sharing results"
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 4,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What is a prediction?",
       "options": [
         "A careful guess about what will happen",
@@ -50,11 +76,13 @@
         "A question"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 5,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Which tool helps you see very small objects?",
       "options": [
         "Ruler",
@@ -63,11 +91,13 @@
         "Magnifying glass"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 6,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "When using a microscope, what should you do first?",
       "options": [
         "Use the highest power lens",
@@ -76,11 +106,13 @@
         "Shake the microscope"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 7,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What does a thermometer measure?",
       "options": [
         "Light",
@@ -89,11 +121,13 @@
         "Time"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 8,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What happens to the liquid in a thermometer when it gets warmer?",
       "options": [
         "It goes down",
@@ -102,11 +136,13 @@
         "It freezes"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 9,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Which rule is correct for lab safety?",
       "options": [
         "Eat during experiments",
@@ -115,11 +151,13 @@
         "Follow teacher’s instructions carefully"
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 76,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What unit is used to measure temperature in most countries?",
       "options": [
         "°F",
@@ -128,11 +166,13 @@
         "kg"
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 11,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "A thermometer shows 10°C. Later it shows 25°C. How much did the temperature increase?",
       "options": [
         "5°C",
@@ -141,11 +181,13 @@
         "20°C"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 12,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "If the liquid in a thermometer moves up by 2 cm, what does this show?",
       "options": [
         "Temperature decreased",
@@ -154,11 +196,13 @@
         "The thermometer is broken"
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 13,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "A student measures the temperature of hot water three times: 60°C, 62°C, 58°C. What is the mean temperature?",
       "options": [
         "58°C",
@@ -167,11 +211,13 @@
         "62°C"
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 14,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "If a thermometer is divided into 10 equal parts between 0°C and 100°C, what is the value of each part?",
       "options": [
         "5°C",
@@ -180,11 +226,13 @@
         "20°C"
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 15,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "A student’s thermometer rises from 20°C to 50°C in 10 minutes. What is the rate of temperature change?",
       "options": [
         "2°C per minute",
@@ -193,123 +241,141 @@
         "5°C per minute"
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Natural Science studies art and music.",
-      "correct": 1,
-      "lessonId": "L001"
+      "correct": 1
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Science helps solve problems like climate change.",
-      "correct": 0,
-      "lessonId": "L001"
+      "correct": 0
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Scientists only work in labs.",
-      "correct": 1,
-      "lessonId": "L001"
+      "correct": 1
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "COVID-19 is an example of science in real life.",
-      "correct": 0,
-      "lessonId": "L001"
+      "correct": 0
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "It’s safe to eat in the lab if you are careful.",
-      "correct": 1,
-      "lessonId": "L001"
+      "correct": 1
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Always wear safety goggles during experiments.",
-      "correct": 0,
-      "lessonId": "L001"
+      "correct": 0
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "You should report all accidents.",
-      "correct": 0,
-      "lessonId": "L001"
+      "correct": 0
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "You should guess the results without measuring.",
-      "correct": 1,
-      "lessonId": "L001"
+      "correct": 1
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "We use a microscope to see large objects.",
-      "correct": 1,
-      "lessonId": "L001"
+      "correct": 1
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "A thermometer works because of thermal expansion of liquid.",
-      "correct": 0,
-      "lessonId": "L001"
+      "correct": 0
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Liquids go down when they get hot.",
-      "correct": 1,
-      "lessonId": "L001"
+      "correct": 1
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Scientists record observations carefully.",
-      "correct": 0,
-      "lessonId": "L001"
+      "correct": 0
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Celsius (°C) is used to measure temperature.",
-      "correct": 0,
-      "lessonId": "L001"
+      "correct": 0
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Liquids in thermometers expand when heated.",
-      "correct": 0,
-      "lessonId": "L001"
+      "correct": 0
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "The Celsius scale has freezing at 100°C.",
-      "correct": 1,
-      "lessonId": "L001"
+      "correct": 1
     },
     {
       "id": 76,
       "type": "true_false",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "You can read a thermometer by watching the liquid level.",
-      "correct": 0,
-      "lessonId": "L001"
+      "correct": 0
     },
     {
       "id": 32,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What is Natural Science about?",
       "options": [
         "The study of living things, matter, and energy, Earth, and space. It helps people make medicine, protect the environment, and produce food",
@@ -318,11 +384,13 @@
         "The study of history"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 33,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Which of the following shows how Natural Science helps people in daily life?",
       "options": [
         "Developing vaccines and clean energy",
@@ -331,11 +399,13 @@
         "Playing sports"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 34,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Why is it important for scientists to ask questions before starting an investigation?",
       "options": [
         "Because questions help scientists know what they want to find out and plan their experiments.",
@@ -344,11 +414,13 @@
         "To make results random"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 35,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What is the difference between an observation and a prediction in a science experiment?",
       "options": [
         "An observation is what you actually see or measure. A prediction is what you think will happen before you test.",
@@ -357,11 +429,13 @@
         "Observation is a guess"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 36,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Why do scientists repeat their experiments?",
       "options": [
         "To make sure results are correct and reliable. Repeating helps avoid mistakes.",
@@ -370,11 +444,13 @@
         "To impress others"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 37,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Why do scientists record results carefully in tables or charts?",
       "options": [
         "To compare data clearly and analyze results",
@@ -383,11 +459,13 @@
         "To replace measurements"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 38,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Which of the following is a lab safety rule?",
       "options": [
         "Wear safety goggles and never eat or drink in the lab",
@@ -396,11 +474,13 @@
         "Touch chemicals with bare hands"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 39,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Why is wearing safety goggles important in a science lab?",
       "options": [
         "To protect eyes from chemicals or glass shards",
@@ -409,11 +489,13 @@
         "To see colors better"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 40,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "How does a microscope help scientists study living things?",
       "options": [
         "It makes tiny objects look larger so we can see details.",
@@ -422,11 +504,13 @@
         "It holds liquids"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 41,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Which of the following can be observed using a microscope?",
       "options": [
         "Cells and microorganisms",
@@ -435,11 +519,13 @@
         "Cars and machines"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 42,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What happens to the liquid inside a thermometer when the temperature rises?",
       "options": [
         "The liquid expands and goes up",
@@ -448,11 +534,13 @@
         "The liquid disappears"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 43,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Why does the liquid in a thermometer expand when heated?",
       "options": [
         "Because heat makes it take up more space.",
@@ -461,11 +549,13 @@
         "Because it gains weight"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 44,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "A thermometer shows 15°C. After 5 minutes, it shows 30°C. How much did the temperature increase?",
       "options": [
         "15°C",
@@ -474,11 +564,13 @@
         "20°C"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 45,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What could have caused the temperature to rise from 15°C to 30°C?",
       "options": [
         "The object or environment became hotter",
@@ -487,11 +579,13 @@
         "The air pressure dropped"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 46,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "A student makes three temperature readings: 20°C, 24°C, and 22°C. What is the mean temperature?",
       "options": [
         "22°C",
@@ -500,11 +594,13 @@
         "20°C"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 47,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Why is using the mean temperature better than using just one reading?",
       "options": [
         "It gives a more accurate and reliable result",
@@ -513,11 +609,13 @@
         "It ignores errors completely"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 48,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "How does the idea of thermal expansion make a thermometer work?",
       "options": [
         "The liquid expands when heated and contracts when cooled",
@@ -526,11 +624,13 @@
         "The thermometer melts"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 49,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What happens to the liquid in a thermometer when it gets colder?",
       "options": [
         "It contracts and goes down",
@@ -539,11 +639,13 @@
         "It changes color"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 50,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "During an experiment, two students measure the same water temperature but get slightly different results. What could be one reason?",
       "options": [
         "They read the thermometer from different angles",
@@ -552,11 +654,13 @@
         "They both used electronic devices"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 51,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What could be another reason why two students get different temperature readings?",
       "options": [
         "Their thermometers have different calibration",
@@ -565,11 +669,13 @@
         "Their results are always wrong"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 52,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "How can we make sure that a science investigation is fair and reliable?",
       "options": [
         "By keeping all conditions the same except one variable and repeating the experiment",
@@ -578,11 +684,13 @@
         "By testing without repeating"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 53,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "A scientist is testing how sunlight affects plant growth. What is the independent variable?",
       "options": [
         "Amount of sunlight",
@@ -591,11 +699,13 @@
         "Temperature of the room"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 54,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "A scientist is testing how sunlight affects plant growth. What is the dependent variable?",
       "options": [
         "Growth of the plant",
@@ -604,11 +714,13 @@
         "Air humidity"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 55,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "During a COVID-19 study, scientists used microscopes to look at viruses. Why is this important?",
       "options": [
         "Because microscopes let scientists see and study things too small for the naked eye, helping them find cures",
@@ -617,11 +729,13 @@
         "Because microscopes help scientists guess what viruses look like"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 56,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "A student heats a thermometer and sees the red liquid rise quickly. Explain why.",
       "options": [
         "Heat makes the liquid expand and move up the tube. When it cools, it contracts and goes down.",
@@ -630,11 +744,13 @@
         "Light from the heat source makes the liquid look higher than it is."
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 57,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Which of the following is not one of the three states of matter?",
       "options": [
         "Solid",
@@ -643,11 +759,13 @@
         "Gas"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 58,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "In which state of matter are the particles able to move around most freely?",
       "options": [
         "Solid",
@@ -656,11 +774,13 @@
         "Plasma"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 60,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What is caused by the particles in a gas colliding with the walls of a container?",
       "options": [
         "An increase in mass",
@@ -669,11 +789,13 @@
         "A change of state"
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 76,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What is the equation used to calculate density?",
       "options": [
         "Density = Mass x Volume",
@@ -682,11 +804,13 @@
         "Density = Mass x Volume²"
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 76,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What is the unit for density?",
       "options": [
         "Kilograms (KG)",
@@ -695,11 +819,13 @@
         "Kilograms per meter cubed (KG/M³)"
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 62,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "The volume of an object is decreased while its mass is kept constant. How does this affect the density of the object?",
       "options": [
         "The density increases",
@@ -708,11 +834,13 @@
         "It depends on the material of the object"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 63,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Which of the following statements about change of state is correct?",
       "options": [
         "Mass can either be lost or gained depending on the change of state",
@@ -721,11 +849,13 @@
         "Mass is gained during a change of state"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 64,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What type of change is a change of state?",
       "options": [
         "Physical change",
@@ -734,11 +864,13 @@
         "It depends on the change of state"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 76,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "An object has a mass of 800KG and a density of 1600KG/M³. What is the volume of the object?",
       "options": [
         "2M³",
@@ -747,11 +879,13 @@
         "0.5CM³"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 66,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "How much energy is required to increase the temperatur of 10KG of water by 50°C. The specific heat capacity of water is 4200J/KG°C. Use the equation: Change in thermal energy = Mass x Specific heat capacity x Temperature change",
       "options": [
         "2100J",
@@ -760,11 +894,13 @@
         "21000J"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 67,
       "type": "reordering",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Order the changes of state for water",
       "items": [
         {
@@ -787,22 +923,24 @@
           "text": "Sublimation",
           "order": 5
         }
-      ],
-      "lessonId": "L001"
+      ]
     },
     {
       "id": 68,
       "type": "fill_in_blank",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What type of change is occuring when a substance transforms from one state of matter to another?",
       "correct": [
         "Physical change",
         "physical change"
-      ],
-      "lessonId": "L001"
+      ]
     },
     {
       "id": 69,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Density of solid, liquid and gas?",
       "options": [
         "High, high, low",
@@ -811,11 +949,13 @@
         "High, low, high"
       ],
       "correct": 0,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 70,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Volume of solid, liquid and gas?",
       "options": [
         "Fixed, variable, fixed",
@@ -824,11 +964,13 @@
         "Variable, variable, variable"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 71,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Shape of solid, liquid and gas?",
       "options": [
         "Fixed, fixed, fixed",
@@ -837,11 +979,13 @@
         "Fixed, variable, variable"
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 72,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "Can solid, liquid and gas be squahed easily?",
       "options": [
         "Easy, easy, no",
@@ -850,11 +994,13 @@
         "Easy, difficult, difficult"
       ],
       "correct": 1,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 73,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "How strong are the bonds in Solid, liquid and gas?",
       "options": [
         "Strong, weak, strong",
@@ -863,11 +1009,13 @@
         "Medium, medium, strong"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 74,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "What is the level of energy in solid, liquid and gas?",
       "options": [
         "High, low, low",
@@ -876,11 +1024,13 @@
         "Medium, low, low"
       ],
       "correct": 2,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 75,
       "type": "multiple_choice",
+      "lessonId": "L001",
+      "questionImageScale": 50,
       "question": "How do the particles in solid, liquid and gas move?",
       "options": [
         "Vibrate a little, vibrate at fixed point, vibrate freely",
@@ -889,11 +1039,13 @@
         "Vibrate at fixed point, vibrate a little, vibrate freely"
       ],
       "correct": 3,
-      "lessonId": "L001"
+      "optionImageScale": 50
     },
     {
       "id": 76,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "What does it mean to recycle a material?",
       "options": [
         "Use it again in the same way",
@@ -902,11 +1054,13 @@
         "Store it for future use"
       ],
       "correct": 1,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 77,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Which of the following materials can be recycled?",
       "options": [
         "Paper",
@@ -915,11 +1069,13 @@
         "All of the above"
       ],
       "correct": 3,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 78,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Which of these is an example of re-using?",
       "options": [
         "Turning old paper into new paper",
@@ -928,11 +1084,13 @@
         "Throwing away old clothes"
       ],
       "correct": 2,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 79,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "What is the correct order of the “3Rs” for waste management?",
       "options": [
         "Recycle → Reduce → Reuse",
@@ -941,11 +1099,13 @@
         "Recycle → Reuse → Reduce"
       ],
       "correct": 2,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 80,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Why is recycling important?",
       "options": [
         "It uses more energy than making new materials",
@@ -954,11 +1114,13 @@
         "It only helps factories make more products"
       ],
       "correct": 1,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 81,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Which of these steps comes first in the recycling process?",
       "options": [
         "Melting and shaping",
@@ -967,11 +1129,13 @@
         "Packaging"
       ],
       "correct": 1,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 82,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Which of the following actions helps reduce waste?",
       "options": [
         "Buying single-use bottles",
@@ -980,11 +1144,13 @@
         "Throwing away food"
       ],
       "correct": 2,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 83,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "What happens when materials are not recycled or re-used?",
       "options": [
         "They become cleaner",
@@ -993,11 +1159,13 @@
         "They help plants grow"
       ],
       "correct": 1,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 84,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Which statement describes a renewable resource?",
       "options": [
         "A resource that never runs out",
@@ -1006,11 +1174,13 @@
         "A resource that is made only from metal"
       ],
       "correct": 1,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 85,
       "type": "multiple_choice",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Which of the following is not recyclable in most areas?",
       "options": [
         "Aluminium cans",
@@ -1019,47 +1189,53 @@
         "Paper"
       ],
       "correct": 2,
-      "lessonId": "L002"
+      "optionImageScale": 50
     },
     {
       "id": 86,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Recycling helps save energy compared to making products from new materials.",
-      "correct": 0,
-      "lessonId": "L002"
+      "correct": 0
     },
     {
       "id": 87,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Glass can be recycled many times without losing quality.",
-      "correct": 0,
-      "lessonId": "L002"
+      "correct": 0
     },
     {
       "id": 88,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Reusing means breaking a material down into raw form to make a new product.",
-      "correct": 1,
-      "lessonId": "L002"
+      "correct": 1
     },
     {
       "id": 89,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Sorting waste correctly is an important part of recycling.",
-      "correct": 0,
-      "lessonId": "L002"
+      "correct": 0
     },
     {
       "id": 90,
       "type": "true_false",
+      "lessonId": "L002",
+      "questionImageScale": 50,
       "question": "Throwing all materials together in one bin makes recycling easier.",
-      "correct": 1,
-      "lessonId": "L002"
+      "correct": 1
     },
     {
       "id": 91,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "What is a fuel?",
       "options": [
         "A substance that produces heat on burning",
@@ -1067,12 +1243,14 @@
         "A type of metal",
         "A gas used for breathing"
       ],
-      "correct": 0
+      "correct": 0,
+      "optionImageScale": 50
     },
     {
       "id": 92,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Which of the following is a fossil fuel?",
       "options": [
         "Wood",
@@ -1080,12 +1258,14 @@
         "Biogas",
         "Charcoal"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 93,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Which gas is necessary for a fuel to burn?",
       "options": [
         "Carbon dioxide",
@@ -1093,12 +1273,14 @@
         "Nitrogen",
         "Hydrogen"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 94,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Which of these fuels is renewable?",
       "options": [
         "Petrol",
@@ -1106,12 +1288,14 @@
         "Biogas",
         "Coal"
       ],
-      "correct": 2
+      "correct": 2,
+      "optionImageScale": 50
     },
     {
       "id": 95,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "What is the main component of natural gas?",
       "options": [
         "Ethane",
@@ -1119,12 +1303,14 @@
         "Propane",
         "Butane"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 96,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Which of the following fuels is solid?",
       "options": [
         "LPG",
@@ -1132,12 +1318,14 @@
         "Petrol",
         "Kerosene"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 97,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Which fuel is commonly used in vehicles?",
       "options": [
         "Charcoal",
@@ -1145,12 +1333,14 @@
         "Firewood",
         "Biogas"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 98,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Which fuel is commonly used for cooking in rural areas?",
       "options": [
         "Biogas",
@@ -1158,12 +1348,14 @@
         "Diesel",
         "Coal"
       ],
-      "correct": 0
+      "correct": 0,
+      "optionImageScale": 50
     },
     {
       "id": 99,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Which type of energy is released when fuel burns?",
       "options": [
         "Chemical energy",
@@ -1171,12 +1363,14 @@
         "Kinetic energy",
         "Sound energy"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 100,
       "type": "multiple_choice",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "What is the process of burning fuel called?",
       "options": [
         "Filtration",
@@ -1184,12 +1378,14 @@
         "Evaporation",
         "Condensation"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 101,
       "type": "true_false",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Fossil fuels are formed in a few years.",
       "correct": 1
     },
@@ -1197,6 +1393,7 @@
       "id": 102,
       "type": "true_false",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Burning fuels can cause air pollution.",
       "correct": 0
     },
@@ -1204,6 +1401,7 @@
       "id": 103,
       "type": "true_false",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Hydrogen gas can be used as a clean fuel.",
       "correct": 0
     },
@@ -1211,6 +1409,7 @@
       "id": 104,
       "type": "true_false",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "CNG stands for Compressed Natural Gas.",
       "correct": 0
     },
@@ -1218,6 +1417,7 @@
       "id": 105,
       "type": "true_false",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "All fuels are safe to store and use without precautions.",
       "correct": 1
     },
@@ -1225,6 +1425,7 @@
       "id": 106,
       "type": "fill_in_blank",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "The energy stored in fuels comes from their...........energy.",
       "correct": [
         "chemical",
@@ -1236,6 +1437,7 @@
       "id": 107,
       "type": "fill_in_blank",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "Coal is a type of.......fuel.",
       "correct": [
         "fossil",
@@ -1247,6 +1449,7 @@
       "id": 108,
       "type": "fill_in_blank",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "The black smoke from burning fuels contains.........dioxide.",
       "correct": [
         "carbon",
@@ -1258,6 +1461,7 @@
       "id": 109,
       "type": "fill_in_blank",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": "The efficiency of a fuel is measured by the amount of..........it produces.",
       "correct": [
         "heat",
@@ -1269,6 +1473,7 @@
       "id": 110,
       "type": "fill_in_blank",
       "lessonId": "L003",
+      "questionImageScale": 50,
       "question": ".........is a renewable fuel produced by the decomposition of organic waste.",
       "correct": [
         "Biogas",
@@ -1280,6 +1485,7 @@
       "id": 111,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Which of the following is a natural material?",
       "options": [
         "Plastic",
@@ -1287,12 +1493,14 @@
         "Cotton",
         "Steel"
       ],
-      "correct": 2
+      "correct": 2,
+      "optionImageScale": 50
     },
     {
       "id": 112,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "A material that allows light to pass through but you can’t see objects clearly behind it is called:",
       "options": [
         "Transparent",
@@ -1300,12 +1508,14 @@
         "Opaque",
         "Reflective"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 113,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Which material is magnetic?",
       "options": [
         "Wood",
@@ -1313,12 +1523,14 @@
         "Iron",
         "Glass"
       ],
-      "correct": 2
+      "correct": 2,
+      "optionImageScale": 50
     },
     {
       "id": 114,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Which property makes rubber suitable for covering electrical wires?",
       "options": [
         "It conducts electricity",
@@ -1326,12 +1538,14 @@
         "It is transparent",
         "It is magnetic"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 115,
       "type": "true_false",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Metals are good insulators of heat.",
       "correct": 1
     },
@@ -1339,6 +1553,7 @@
       "id": 116,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Which material is the best conductor of heat?",
       "options": [
         "Plastic",
@@ -1346,12 +1561,14 @@
         "Rubber",
         "Wood"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 117,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Which material is waterproof?",
       "options": [
         "Cotton",
@@ -1359,12 +1576,14 @@
         "Plastic",
         "Sponge"
       ],
-      "correct": 2
+      "correct": 2,
+      "optionImageScale": 50
     },
     {
       "id": 118,
       "type": "true_false",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Glass is a transparent material.",
       "correct": 0
     },
@@ -1372,6 +1591,7 @@
       "id": 119,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Which statement about recycling is correct?",
       "options": [
         "Using a plastic bottle again to store water is recycling",
@@ -1379,12 +1599,14 @@
         "Using both sides of paper is recycling",
         "Throwing waste in bins is recycling"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 120,
       "type": "true_false",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Reusing means making new products from old materials.",
       "correct": 1
     },
@@ -1392,6 +1614,7 @@
       "id": 121,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Which material would be best for making a frying pan handle?",
       "options": [
         "Metal",
@@ -1399,12 +1622,14 @@
         "Glass",
         "Paper"
       ],
-      "correct": 1
+      "correct": 1,
+      "optionImageScale": 50
     },
     {
       "id": 122,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "Which of the following is a man-made material?",
       "options": [
         "Wool",
@@ -1412,12 +1637,14 @@
         "Plastic",
         "Cotton"
       ],
-      "correct": 2
+      "correct": 2,
+      "optionImageScale": 50
     },
     {
       "id": 123,
       "type": "true_false",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "“Reduce” means to use materials wisely and create less waste.",
       "correct": 0
     },
@@ -1425,6 +1652,7 @@
       "id": 124,
       "type": "multiple_choice",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "A raincoat is usually made of:",
       "options": [
         "Cloth",
@@ -1432,32 +1660,16 @@
         "Plastic",
         "Glass"
       ],
-      "correct": 2
+      "correct": 2,
+      "optionImageScale": 50
     },
     {
       "id": 125,
       "type": "true_false",
       "lessonId": "L004",
+      "questionImageScale": 50,
       "question": "All metals are magnetic.",
       "correct": 1
-    }
-  ],
-  "lessons": [
-    {
-      "id": "L001",
-      "name": "Giua Hoc Ki I"
-    },
-    {
-      "id": "L002",
-      "name": "Caring for the Environment"
-    },
-    {
-      "id": "L003",
-      "name": "Fuel"
-    },
-    {
-      "id": "L004",
-      "name": "Material"
     }
   ]
 }

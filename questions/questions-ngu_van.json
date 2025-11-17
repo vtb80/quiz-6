@@ -2,11 +2,15 @@
   "lessons": [
     {
       "id": "L001",
-      "name": "Hoc Ki I - Doc Hieu 1"
+      "name": "Học Kì I - Đọc Hiểu 1"
     },
     {
       "id": "L002",
-      "name": "Hoc Ki I - Doc Hieu 2"
+      "name": "Học Kì I - Đọc Hiểu 2"
+    },
+    {
+      "id": "L003",
+      "name": "Học Kì I - Đọc Hiểu 3"
     }
   ],
   "questions": [
@@ -592,6 +596,362 @@
           "correct": 1
         }
       ]
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Từ phức bao gồm những loại nào dưới đây?",
+      "options": [
+        "Từ đơn và từ ghép",
+        "Từ đơn và từ láy",
+        "Từ đơn",
+        "Từ ghép và từ láy"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Mục đích của thảo luận nhóm là?",
+      "options": [
+        "Bày tỏ ý kiến, lắng nghe và chia sẻ góc nhìn với những người xung quanh",
+        "Lắng nghe ý kiến của mọi người xung quanh",
+        "Bày tỏ ý kiến của bản thân với mọi người xung quan",
+        "Ghi nhận ý kiến đóng góp của mọi người"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Yêu cầu về nội dung khi làm một bài thơ lục bát là gì?",
+      "options": [
+        "Thể hiện cá tính bản thân",
+        "Thể hiện cái nhìn độc đáo",
+        "Thể hiện được cách nhìn, cách cảm nhận mới lạ, sâu sắc, thú vị… về cuộc sống.",
+        "Thể hiện chân thực đời sống"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Câu nào dưới đây không phải thành ngữ?",
+      "options": [
+        "Vắt cổ chày ra nước",
+        "Ai ơi đừng bỏ ruộng hoang / Bao nhiêu tấc đất tấc vàng bấy nhiêu",
+        "Chó ăn đá, gà ăn sỏi",
+        "Lanh chanh như hành không muối"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Đề tài nào dưới đây không phù hợp với yêu cầu bài văn miêu tả cảnh sinh hoạt?",
+      "options": [
+        "Ngôi trường em yêu",
+        "Cảnh chợ cá bên bờ biển",
+        "Ngày tết trung thu ở quê em",
+        "Cảnh thu hoạch lúa"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Trong các đề tài sau, đề tài nào phù hợp với bài văn miêu tả cảnh sinh hoạt?",
+      "options": [
+        "Miêu tả ngôi nhà của em",
+        "Tả khu vườn buổi sớm",
+        "Cảnh sân trường giờ ra chơi",
+        "Cảm nghĩ về người thầy"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Khi trình bày bài nói, em không nên làm gì?",
+      "options": [
+        "Chuẩn bị mở đầu và phần kết sao cho hấp dẫn",
+        "Lựa chọn từ ngữ cho phù hợp với văn nói",
+        "Điều chỉnh giọng nói, tốc độ nói và sử dụng cử chỉ, điệu bộ phù hợp",
+        "Giữ thái độ cực nghiêm túc, tập trung để tránh quên bài hay mắc lỗi"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Bốn câu sau đều có cụm từ mùa xuân. Hãy cho biết trong câu nào cụm từ mùa xuân là trạng ngữ.\n\na. Mùa xuân của tôi – mùa xuân Bắc Việt, mùa xuân của Hà Nội – là mùa xuân có mưa riêu riêu, gió lành lạnh, có tiếng nhạn kêu trong đêm xanh […]\n\nb. Mùa xuân, cây gạo gọi đến bao nhiêu làm chim ríu rít\n\nc. Tự nhiên như thế: ai cũng chuộng mùa xuân\n\nd. Mùa xuân! Mỗi khi họa mi tung ra những tiếng hót vang lừng, mọi vật như có sự đổi thay kì diệu.",
+      "options": [
+        "Câu a",
+        "Câu b",
+        "Câu c",
+        "Câu d"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Thông qua hình tượng em bé trong truyện cổ Em bé thông minh, nhân dân ta muốn bày tỏ tình cảm gì?",
+      "options": [
+        "Gửi gắm ước mơ về hạnh phúc, công bằng xã hội",
+        "Ca ngợi sức mạnh trí tuệ, cơ bắp của người nông dân",
+        "Yêu mến, tự hào về con người có trí tuệ",
+        "Lí tưởng hóa nhân vật theo tiêu chuẩn, nguyện vọng của mình"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Tính từ là gì?",
+      "options": [
+        "Tính từ là từ chỉ đặc điểm, tính chất của sự vật, hoạt động, trạng thái",
+        "Có thể trực tiếp làm vị ngữ",
+        "Có thể kết hợp với các từ đã, sẽ, đang, không, chưa, chẳng…",
+        "Tất cả đáp án trên"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Có thể phân loại trạng ngữ theo cơ sở nào?",
+      "options": [
+        "Theo vị trí của chúng trong câu",
+        "Theo các nội dung mà chúng biểu thị",
+        "Theo mục đích nói của câu",
+        "Theo thành phần chính nào mà chúng đứng liền trước hoặc liền sau"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Nhân vật Sọ Dừa đại diện cho kiểu người nào trong xã hội?",
+      "options": [
+        "Kiểu người bị bóc lột",
+        "Kiểu người gặp nhiều may mắn",
+        "Kiểu người bị hắt hủi, coi thường",
+        "Kiểu người chịu nhiều bất hạnh"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 47,
+      "type": "matching",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Chọn từ phù hợp cho từng câu",
+      "pairs": [
+        {
+          "country": "Để giải quyết vấn đề này, các em nên chủ động......những phương án giải quyết.",
+          "capital": "đề xuất",
+          "id": "a"
+        },
+        {
+          "country": "Bạn Nga......bạn Nam làm lớp trưởng.",
+          "capital": "đề cử",
+          "id": "b"
+        },
+        {
+          "country": "Bà ơi, mẹ cháu bảo đem sang......bà một ít cam ạ!",
+          "capital": "biếu",
+          "id": "c"
+        },
+        {
+          "country": "Ngày chia tay mái trương Tiểu học, tôi đã......cho người bạn thân nhất của mình một món quà nhỏ để làm kỉ niệm.",
+          "capital": "tặng",
+          "id": "d"
+        },
+        {
+          "country": "Một bài văn......cần có ba phần: mở bài, thân bài và kết bài.",
+          "capital": "hoàn chỉnh",
+          "id": "e"
+        },
+        {
+          "country": "Sau buổi học hôm nay, các em về nhà nhớ......những bài tập còn lại nhé!",
+          "capital": "hoàn thành",
+          "id": "f"
+        },
+        {
+          "country": "Người thợ săn bị một......hổ tấn công.",
+          "capital": "con",
+          "id": "g"
+        },
+        {
+          "country": "......mèo ấy là món quà đặc biệt mà bà ngoại đã mang từ quê lên cho tôi vào dịp hè năm ngoái.",
+          "capital": "chú",
+          "id": "h"
+        },
+        {
+          "country": "Đôi mắt nó......như hai hòn bi ve.",
+          "capital": "long lanh",
+          "id": "i"
+        },
+        {
+          "country": "Bóng trăng......trên mặt nước",
+          "capital": "lung linh",
+          "id": "j"
+        }
+      ],
+      "correct": {
+        "a": "đề xuất",
+        "b": "đề cử",
+        "c": "biếu",
+        "d": "tặng",
+        "e": "hoàn chỉnh",
+        "f": "hoàn thành",
+        "g": "con",
+        "h": "chú",
+        "i": "long lanh",
+        "j": "lung linh"
+      }
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Đâu là nhận xét đúng về hoán dụ?",
+      "options": [
+        "Gọi sự vật hiện tượng này bằng tên sự vật hiện tượng khác dựa vào sự tương cận",
+        "Gợi sự vật hiện tượng này bằng tên sự vật hiện tượng khác dựa vào sự tương đồng",
+        "Gợi sự vật hiện tượng này bằng tên sự vật hiện tượng khác dựa vào sự tương đương",
+        "Gợi sự vật hijen tượng này bằng tên sự vật hiện tượng khác dựa vào sự tương quan"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Trình bày về một cảnh sinh hoạt được hiểu là?",
+      "options": [
+        "Đọc lên bài viết về cảnh sinh hoạt mà mình đã viết",
+        "Học thuộc lòng bài văn tả cảnh sinh hoạt",
+        "Dùng ngôn ngữ hình thể để trình bày lại cảnh sinh hoạt",
+        "Dùng ngôn ngữ nói để trình bày lại cảnh sinh hoạt mà mình đã trình bày ở bài viết."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Câu thơ: “Một tiếng chim kêu sáng cả rừng” thuộc kiểu ẩn dụ nào?",
+      "options": [
+        "Ẩn dụ hình thức",
+        "Ẩn dụ cách thức",
+        "Ẩn dụ phẩm chất",
+        "Ẩn dụ chuyển đổi cảm giác"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 51,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Truyện Bánh chưng, bánh giầy thuộc thể loại văn học nào?",
+      "options": [
+        "Truyện ngụ ngôn",
+        "Truyện truyền thuyết",
+        "Truyện cổ tích",
+        "Truyện trung đại"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 52,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Sau khi kết thúc bài trình bày, nếu muốn bạn làm rõ ý kiến mình chưa hiểu, em sẽ nói theo mẫu câu nào dưới đây?",
+      "options": [
+        "Tôi có cái nhìn khác ở phần … Bởi vì …",
+        "Theo tôi, ý … chưa hợp lý. Bởi vì…",
+        "Tôi chưa hiểu rõ lắm ở phần … Bạn có thể giải thích thêm giúp tôi được không?",
+        "Tất cả đáp án trên"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 53,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Đâu là nhận xét đúng về ẩn dụ?",
+      "options": [
+        "Gọi sự vật hiện tượng này bằng tên sự vật hiện tượng khác dựa vào sự tương đồng",
+        "Gợi sự vật hiện tượng này bằng tên sự vật hiện tượng khác dựa vào sự tương đương",
+        "Gợi sự vật hiện tượng này bằng tên sự vật hiện tượng khác dựa vào sự tương cận",
+        "Gợi sự vật hiện tượng này bằng tên sự vật hiện tượng khác dựa vào sự tương quan"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 54,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Điền các từ láy thích hợp vào chỗ trống:\n\nMưa xuống (…), giọt ngã, giọt bay, bụi nước tỏa trắng xóa. Trong nhà bỗng tối sầm, một mùi nồng (…), cái mùi xa lạ, man mác của những trận mưa mới đầu mùa. Mưa (…) trên phiến nứa, đập (…) vào lòng lá chuối.",
+      "options": [
+        "ngai ngái – rào rào – đồm độp – bùng bùng – sầm sập",
+        "đồm độp – bùng bùng - ngai ngái – rào rào – sầm sập",
+        "sầm sập – ngai ngái – rào rào – đồm độp – bùng bùng",
+        "rào rào – đồm độp – bùng bùng – sầm sập – ngai ngái"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
     }
   ]
 }
