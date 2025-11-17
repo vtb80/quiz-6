@@ -1423,6 +1423,620 @@
       "questionImageScale": 50,
       "question": "Tiết kiệm nhiên liệu cũng là góp phần bảo đảm an ninh năng lượng.",
       "correct": 0
+    },
+    {
+      "id": 103,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Nguyên liệu là gì?",
+      "options": [
+        "Chất đã qua chế biến hoàn chỉnh",
+        "Chất được sử dụng để tạo ra sản phẩm khác",
+        "Chất đã bị loại bỏ sau sản xuất",
+        "Chất chỉ dùng trong nông nghiệp"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 104,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Gỗ thuộc loại nguyên liệu nào?",
+      "options": [
+        "Nguyên liệu tự nhiên",
+        "Nguyên liệu nhân tạo",
+        "Nhiên liệu",
+        "Khoáng sản"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 105,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Đá vôi thường được dùng để sản xuất:",
+      "options": [
+        "Giấy",
+        "Xi măng",
+        "Nhựa",
+        "Vải"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 106,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Nhựa (plastic) có nguồn gốc chủ yếu từ:",
+      "options": [
+        "Than củi",
+        "Dầu mỏ",
+        "Gỗ",
+        "Muối ăn"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 107,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Kim loại như sắt, nhôm thường có tính chất:",
+      "options": [
+        "Không dẫn điện",
+        "Giòn, dễ vỡ",
+        "Dẫn điện và dẫn nhiệt tốt",
+        "Không bị ăn mòn"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 108,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Tính chất nổi bật của cao su tự nhiên là:",
+      "options": [
+        "Dẫn điện",
+        "Cứng, nặng",
+        "Co giãn tốt",
+        "Tan trong nước"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 109,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Vật liệu nào sau đây thân thiện với môi trường hơn?",
+      "options": [
+        "Túi ni lông",
+        "Nhựa PVC",
+        "Giấy tái chế",
+        "Kim loại nặng"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 110,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Muốn sử dụng nguyên liệu “bền vững”, ta nên:",
+      "options": [
+        "Khai thác càng nhiều càng tốt",
+        "Tái chế và tái sử dụng khi có thể",
+        "Dùng một lần rồi bỏ",
+        "Đốt bỏ nguyên liệu không dùng"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 111,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Hành động nào sau đây thể hiện sử dụng nguyên liệu an toàn?",
+      "options": [
+        "Dùng hóa chất mà không có đồ bảo hộ",
+        "Bẻ kính bằng tay",
+        "Đeo găng khi dùng chất tẩy rửa",
+        "Ngửi trực tiếp các dung môi"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 112,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Thủy tinh có tính chất:",
+      "options": [
+        "Dẫn điện tốt",
+        "Trong suốt, giòn",
+        "Mềm, dễ uốn",
+        "Tan trong nước"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 113,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Sản phẩm nào sau đây thường làm từ bông hoặc sợi tự nhiên?",
+      "options": [
+        "Tô nhựa",
+        "Áo thun",
+        "Gạch",
+        "Dao thép"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 114,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Ý nghĩa của việc phân loại rác theo nguyên liệu:",
+      "options": [
+        "Tăng lượng rác thải",
+        "Giảm khả năng tái chế",
+        "Thuận lợi cho tái sử dụng và bảo vệ môi trường",
+        "Làm rác bẩn hơn"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 115,
+      "type": "true_false",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Gỗ, tre, nứa đều là nguyên liệu có nguồn gốc từ thực vật.",
+      "correct": 0
+    },
+    {
+      "id": 116,
+      "type": "true_false",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Nhựa phân hủy rất nhanh trong môi trường tự nhiên.",
+      "correct": 1
+    },
+    {
+      "id": 117,
+      "type": "true_false",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Sử dụng nguyên liệu tiết kiệm giúp giảm ô nhiễm môi trường.",
+      "correct": 0
+    },
+    {
+      "id": 118,
+      "type": "true_false",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Kim loại không thể tái chế.",
+      "correct": 1
+    },
+    {
+      "id": 119,
+      "type": "true_false",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Một số nguyên liệu khi sử dụng cần có trang bị bảo hộ để đảm bảo an toàn.",
+      "correct": 0
+    },
+    {
+      "id": 120,
+      "type": "matching",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Chọn nguyên liệu với nguồn gốc",
+      "pairs": [
+        {
+          "country": "Nhựa",
+          "capital": "Dầu mỏ",
+          "id": "a"
+        },
+        {
+          "country": "Gỗ",
+          "capital": "Thực vật",
+          "id": "b"
+        },
+        {
+          "country": "Sắt",
+          "capital": "Khoáng sản (quặng)",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Dầu mỏ",
+        "b": "Thực vật",
+        "c": "Khoáng sản (quặng)"
+      }
+    },
+    {
+      "id": 121,
+      "type": "matching",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Chọn vật liệu với tính chất tiêu biểu",
+      "pairs": [
+        {
+          "country": "Cao su",
+          "capital": "Co giãn",
+          "id": "a"
+        },
+        {
+          "country": "Thủy tinh",
+          "capital": "Giòn, trong suốt",
+          "id": "b"
+        },
+        {
+          "country": "Kim loại",
+          "capital": "Dẫn điện tốt",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Co giãn",
+        "b": "Giòn, trong suốt",
+        "c": "Dẫn điện tốt"
+      }
+    },
+    {
+      "id": 122,
+      "type": "matching",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Chọn nguyên liệu với sản phẩm tương ứng",
+      "pairs": [
+        {
+          "country": "Bông",
+          "capital": "Quần áo",
+          "id": "a"
+        },
+        {
+          "country": "Đá vôi",
+          "capital": "Xi măng",
+          "id": "b"
+        },
+        {
+          "country": "Nhôm",
+          "capital": "Cửa, khung xe",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Quần áo",
+        "b": "Xi măng",
+        "c": "Cửa, khung xe"
+      }
+    },
+    {
+      "id": 123,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Lương thực là:",
+      "options": [
+        "Các loại thức ăn có nguồn gốc từ động vật",
+        "Thực phẩm giàu chất đạm",
+        "Các loại hạt, củ chứa nhiều tinh bột",
+        "Các loại thức ăn đã chế biến sẵn"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 124,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Loại cây nào sau đây thuộc nhóm cây lương thực?",
+      "options": [
+        "Đậu xanh",
+        "Cà rốt",
+        "Lúa",
+        "Rau cải"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 125,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Gạo được chế biến từ:",
+      "options": [
+        "Củ khoai",
+        "Cây ngô",
+        "Hạt lúa",
+        "Hạt đậu"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 126,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Tinh bột có thể bị biến đổi khi:",
+      "options": [
+        "Bảo quản nơi khô ráo",
+        "Nấu chín",
+        "Để nơi lạnh",
+        "Để nguyên hạt"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 127,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Loại lương thực nào sau đây có thể dùng để làm bánh mì?",
+      "options": [
+        "Gạo",
+        "Lúa mì",
+        "Đậu nành",
+        "Khoai lang"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 128,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Thực phẩm nào là thực phẩm giàu protein?",
+      "options": [
+        "Thịt",
+        "Gạo",
+        "Khoai tây",
+        "Đường"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 129,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Đặc điểm của tinh bột là:",
+      "options": [
+        "Tan tốt trong nước lạnh",
+        "Không bị biến đổi khi đun nóng",
+        "Không có giá trị dinh dưỡng",
+        "Là chất rắn, màu trắng"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 130,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Trứng gà thuộc nhóm:",
+      "options": [
+        "Lương thực",
+        "Thực phẩm",
+        "Gia vị",
+        "Đồ uống"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 131,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Loại thực phẩm nào dưới đây giúp cung cấp vitamin?",
+      "options": [
+        "Rau củ",
+        "Thịt bò",
+        "Muối",
+        "Dầu ăn"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 132,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Khoai tây chủ yếu cung cấp:",
+      "options": [
+        "Protein",
+        "Chất béo",
+        "Tinh bột",
+        "Nước"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 133,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Ngô được dùng để sản xuất một loại đường gọi là:",
+      "options": [
+        "Đường mía",
+        "Đường lactose",
+        "Đường fructose",
+        "Đường phèn"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 134,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Thực phẩm nào không nên bảo quản ở nhiệt độ phòng lâu dài?",
+      "options": [
+        "Gạo",
+        "Bánh mì",
+        "Khoai lang khô",
+        "Ngô hạt"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 135,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Gạo, ngô, khoai đều là lương thực chứa nhiều tinh bột.",
+      "correct": 0
+    },
+    {
+      "id": 136,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Trứng và thịt đều là nhóm thực phẩm cung cấp chất đạm.",
+      "correct": 0
+    },
+    {
+      "id": 137,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Tinh bột luôn tan hoàn toàn trong nước lạnh.",
+      "correct": 1
+    },
+    {
+      "id": 138,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Lúa mì là nguyên liệu chính để sản xuất bột mì.",
+      "correct": 0
+    },
+    {
+      "id": 139,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Rau củ là thực phẩm không chứa bất kỳ chất dinh dưỡng nào.",
+      "correct": 1
+    },
+    {
+      "id": 140,
+      "type": "matching",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Chọn lương thực với sản phẩm chế biến",
+      "pairs": [
+        {
+          "country": "Lúa",
+          "capital": "Gạo",
+          "id": "a"
+        },
+        {
+          "country": "Ngô",
+          "capital": "Bột ngô",
+          "id": "b"
+        },
+        {
+          "country": "Lúa mì",
+          "capital": "Bánh mì",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Gạo",
+        "b": "Bột ngô",
+        "c": "Bánh mì"
+      }
+    },
+    {
+      "id": 141,
+      "type": "matching",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Chọn thực phẩm với nhóm chất dinh dưỡng chính",
+      "pairs": [
+        {
+          "country": "Thịt bò",
+          "capital": "Protein",
+          "id": "a"
+        },
+        {
+          "country": "Cà rốt",
+          "capital": "Vitamin",
+          "id": "b"
+        },
+        {
+          "country": "Dầu ăn",
+          "capital": "Chất béo",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Protein",
+        "b": "Vitamin",
+        "c": "Chất béo"
+      }
+    },
+    {
+      "id": 142,
+      "type": "matching",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Chọn vật liệu lương thực với ứng dụng",
+      "pairs": [
+        {
+          "country": "Khoai tây",
+          "capital": "Làm khoai chiên",
+          "id": "a"
+        },
+        {
+          "country": "Gạo",
+          "capital": "Làm bún, phở",
+          "id": "b"
+        },
+        {
+          "country": "Khoai dong",
+          "capital": "Miến",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Làm khoai chiên",
+        "b": "Làm bún, phở",
+        "c": "Miến"
+      }
     }
   ]
 }
