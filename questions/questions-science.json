@@ -1838,6 +1838,7 @@
     {
       "id": 139,
       "type": "matching",
+      "lessonId": "L005",
       "questionImageScale": 50,
       "question": "Match the nutrient to its function.",
       "pairs": [
@@ -1866,6 +1867,7 @@
     {
       "id": 140,
       "type": "fill_in_blank",
+      "lessonId": "L005",
       "questionImageScale": 50,
       "question": "__________ protect organs such as the kidneys and heart.",
       "correct": [
@@ -1876,6 +1878,7 @@
     {
       "id": 141,
       "type": "fill_in_blank",
+      "lessonId": "L005",
       "questionImageScale": 50,
       "question": "The mineral __________ is important for healthy bones and teeth.",
       "correct": [
@@ -1886,6 +1889,7 @@
     {
       "id": 142,
       "type": "fill_in_blank",
+      "lessonId": "L005",
       "questionImageScale": 50,
       "question": "Fibre is important for the digestive system because it helps food move through the __________.",
       "correct": [
@@ -1902,6 +1906,7 @@
     {
       "id": 143,
       "type": "reading_comprehension",
+      "lessonId": "L005",
       "questionImageScale": 50,
       "passage": "Jamie is preparing a poster about healthy eating. She lists her lunch items: a chicken sandwich, an apple, a bottle of water, and a small packet of nuts. She wants to explain which nutrients each food provides. The chicken in the sandwich provides protein for growth and repair. The bread gives carbohydrates for energy. The apple contains vitamins and fibre. The nuts provide lipids, which protect organs and store energy. Water helps keep all her cells hydrated.",
       "passageId": "passage_143",
