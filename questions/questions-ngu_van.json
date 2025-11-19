@@ -11,6 +11,10 @@
     {
       "id": "L003",
       "name": "Học Kì I - Đọc Hiểu 3"
+    },
+    {
+      "id": "L004",
+      "name": "Học Kì I - Đọc hiểu 4"
     }
   ],
   "questions": [
@@ -242,7 +246,9 @@
       "question": "Biện pháp tu từ được sử dụng trong câu “Những quả na nhắm nghiền mắt rồi mở mắt dần.” là:",
       "correct": [
         "Nhân hóa",
-        "nhân hóa"
+        "nhân hóa",
+        "Nhân hoá",
+        "nhân hoá"
       ]
     },
     {
@@ -952,6 +958,250 @@
       ],
       "correct": 2,
       "optionImageScale": 50
+    },
+    {
+      "id": 55,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Câu 1. Câu thơ nào dưới đây sử dụng phép ẩn dụ phẩm chất?",
+      "options": [
+        "Vân xem trang trọng khác vời / Khuôn trăng đầy đặn nét ngài nở nang",
+        "Ngày ngày mặt trời đi qua trên lăng / Thấy một mặt trời trong lăng rất đỏ",
+        "Xe vẫn chạy vì miền Nam phía trước / Chỉ cần trong xe có một trái tim",
+        "Một bếp lửa chờn vờn sương sớm / Một bếp lửa ấp iu nồng đượm / Cháu thương bà biết mấy nắng mưa"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 56,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Tìm cụm tính từ được sử dụng trong câu sau: “Xong, nó vui vẻ chạy đi làm những việc bố mẹ tôi phân công, vừa làm vừa hát có vẻ vui lắm”.",
+      "options": [
+        "vui lắm",
+        "vui vẻ chạy đi",
+        "vừa làm vừa hát",
+        "Không có cụm tính từ"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 57,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Điệp từ và điệp ngữ khác nhau ở chỗ nào?",
+      "options": [
+        "Điệp từ và điệp ngữ đều lặp lại một từ",
+        "Điệp từ là lặp lại cụm từ, điệp ngữ là lặp lại một từ",
+        "Điệp từ là lặp lại một từ, điệp ngữ là lặp lại một cụm từ",
+        "Điệp từ và điệp ngữ đều lặp lại một cụm từ"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 58,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Xác định nội dung chính của đoạn thơ sau:\n\nAi ơi về miệt Tháp Mười\nCá tôm sẵn bắt, lúa trời sẵn ăn",
+      "options": [
+        "Vẻ đẹp quê hương Bình Định",
+        "Vẻ đẹp quê hương Bình Thuận",
+        "Vẻ đẹp của Tháp Mười",
+        "Công ơn của cha mẹ đối với con cái"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 59,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Xác định các động từ trong đoạn văn dưới đây:\n\nBác tiều uống rượu say, mạnh bạo trèo lên cây kêu lên: “Cổ họng người đau phải không, đừng cắn ta, ta sẽ lấy xương ra cho”. Hổ nghe thấy, nằm phục xuống, há miệng nhìn bác tiều ra dáng cầu cứu. Bác tiều trèo xuống lấy tay thò vào cổ họng hổ, lấy ra một chiếc xương bò, to như cánh tay.",
+      "options": [
+        "Uống, trèo, cắn, lấy, nghe, nằm, há, nhìn, trèo, tay, thò",
+        "Uống, trèo, kêu, cắn, lấy, nghe, nằm, há, nhìn, thò",
+        "Uống, trèo, cắn, lấy, nghe, nằm, xuống, há, nhìn, trèo, thò",
+        "Uống, trèo, say, cắn, lấy, nghe, nằm, há, nhìn, trèo, thò"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 60,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Câu nào trong các câu dưới đây có chủ ngữ là động từ?",
+      "options": [
+        "Đi học là niềm vui của trẻ em",
+        "Mặt trời ló rạng trên mặt biển vẫn còn hơi sương",
+        "Nắng e ấp trên các cành cây còn ướt đẫm hơi sương",
+        "Mùa xuân mong ước đã đến"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 61,
+      "type": "fill_in_blank",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Hãy xác định biện pháp tu từ trong câu văn dưới đây\n\nThời đó đường Bờ Sông chỉ trải đá, chưa tráng nhựa, chiều hè gió ngoài sông thổi vào, bụi mù, thành phố phải dùng những xe bò kéo chở nước đi tưới.\nXem thêm tại: https://loigiaihay.com/de-thi-hoc-ki-1-van-6-chan-troi-sang-tao-de-so-10-a124145.html",
+      "correct": [
+        "Hoán dụ",
+        "hoán dụ",
+        "Hoán dụ",
+        "hoán dụ"
+      ]
+    },
+    {
+      "id": 62,
+      "type": "reading_comprehension",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "passage": "Đọc văn bản sau và trả lời các câu hỏi phía dưới\n\nCÂY TRE TRĂM ĐỐT\n\nNgày xưa, có một anh nông phu rất nghèo, phải đi ở đợ cho một phú ông. Phú ông tính rất keo kiệt. Đối với kẻ ăn người ở, hắn có rất nhiều mánh khóe để bòn công mà không phải trả thêm tiền. Hắn có một cô con gái chưa gả chồng. Thấy đầy tớ tuổi đã lớn mà chưa có vợ, hắn vờ vịt:\n\n- Cứ cố làm việc đi con ạ. Lão sẽ gả con gái cho!\n\nVốn tính thật thà nên khi nghe lời đường mật của chủ, anh chàng bỗng nuôi hi vọng làm rể phú ông. Từ đó, anh đổ sức làm việc không biết mệt. Bao nhiêu công việc chủ giao, dù khó khăn nặng nhọc thế nào, anh cũng không hề từ chối. Phú ông thấy mưu mình đắt thì mừng lắm. Thế nhưng, lão không muốn gả con gái cho kẻ ăn người ở như anh nên đã nhận lời gả con cho một nhà giàu ở làng bên. Việc này, lão bắt mọi người trong nhà giữ kín. Anh nông phu vẫn không hề nghi ngờ gì cả, vẫn quần quật làm việc và gửi gắm hi vọng vào ông chủ.\n\nNgày cưới của con gái phú ông đã đến. Nhà phú ông bày biện bàn ghế, giết lợn mổ gà tấp nập. Để anh đầy tớ khỏi sinh sự lôi thôi làm lỡ việc của gia đình mình, phú ông gọi anh đến bảo:\n\n- Con làm việc khá lắm, ta rất ưng ý. Hôm nay, ta đã sửa sọan cỗ bàn rồi đấy.\n\nNhưng mà con cũng phải có gì làm sính lễ mới được. Ta không đòi ruộng vườn, tiền bạc gì cả. Cứ lên rừng chọn cây tre nào có một trăm đốt, chặt mang về đây, ta sẽ cho làm lễ thành hôn với con gái ta. Nếu không có thì ta gả con gái cho người khác đấy!\n\nAnh chàng tin lời, cầm rựa cắm cúi ra đi. Lên rừng, anh tìm những bụi tre dày, cây cao rồi lách vào mà chặt. Nhưng mỗi lần chặt tre là một lần anh thất vọng vì cây cao nhất cũng chỉ có vài chục đốt. Tuy vậy, anh vẫn không nản, có đi vào rừng sâu hơn, luồn vào những nơi hiểm hóc có tre già, mặc cho gai tre tua tủa cào rách da thịt, tìm cây tre trăm đốt mang về dâng lên phú ông để được cưới vợ. Thế nhưng, chặt mãi vẫn không có cây tre nào trăm đốt. Buồn quá đi, anh quăng rựa xuống đất, ngôi khóc nức nở. Tiếng khóc của anh vang động cả núi rừng.\n\nBụt hiện lên hỏi:\n\n- Con là ai ? Cớ sao lại ngồi đây mà khóc?\n\nAnh gạt nước mắt, kể lể sự tình cho Bụt nghe. Nghe xong, Bụt bảo:\n\n- Con dừng khóc nữa. Hãy đi chặt một trăm đốt tre về đây cho ta!\n\nAnh lập tức làm theo lời Bụt. Nhưng khi có đủ trăm đốt tre, anh lại khóc. Bụt lại hỏi vì sao khóc thì anh trả lời:\n\n- Phú ông bảo con chặt cây tre có một trăm đốt chứ không phải chặt một trăm đốt tre.\n\nBụt an ủi rồi bày cho anh sắp một trăm đốt tre lại thành một hàng và hô “khắc nhập”. Anh làm theo thì lạ thay, trăm đốt tre dính vào nhau thành cây tre trăm đốt. Mừng quá, anh ghé vai, định vác tre về. Nhưng loay hoay mãi không sao quay trở được. Anh buông tre ra và lại ngồi khóc. Bụt lại hỏi:\n\n- Làm sao con lại khóc nữa đây?\n\n-Cây tre dài quá, con không làm sao mang về nổi - Anh đáp.\n\nBụt cười, bảo anh hô “ khắc xuất ” Anh vừa hô xong thì những đốt tre rời nhau ra. Anh cảm ơn Bụt rồi bó trăm đốt tre gánh về nhà.\n\nAnh về đến nhà khi hai họ ăn uống linh đình và lễ cưới sắp diễn ra. Anh lẳng lặng đặt gánh tre giữa sân rồi gọi phú ông ra nhận sính lễ. Phú ông chạy ra, quát:\n\n- Tao bảo mày chặt được cây tre trăm đốt chứ có bảo chặt trăm đốt tre đâu.\n\nAnh nông dân luôn miệng hổ “ khắc nhập ”. Thế là trăm đốt tre dính nối vào nhau thành cây tre trăm đốt cao ngất. Thấy lạ, phú ông chạm tay vào cây tre thì bị dính vào cây tre, sợ quá, kêu la hoảng hốt. Chàng rể thấy vậy chạy ra gỡ nhưng cũng bị dính vào bố vợ. Ông thông gia chạy đến định gỡ cho con thì cũng bị dính vào nốt.\n\nCứ thế, cả hai họ, ai xông vào cứu cũng dính vào nhau. Cuối cùng, sợ hãi quá, phú ông đành lạy van xin thả và hứa gả con gái cho anh nông dân, không dám nuốt lời.\n\nBấy giờ, anh mới hô “ khắc xuất ”. Mọi người được rời khỏi cây tre. Chàng rể hụt và cả họ kéo nhau về. Còn anh nông dân được vợ như mong ước.\n\n(Nguyễn Đổng Chi - Kho tàng cổ tích Việt Nam. NXB Khoa học – Xã hội 1976)",
+      "passageId": "passage_62",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Truyện Cây tre trăm đốt thuộc loại truyện cổ tích nào?",
+          "options": [
+            "Cổ tích thần kì.",
+            "Cổ tích về loài vật.",
+            "Cổ tích thế tục.",
+            "Kết hợp các loại cổ tích trên."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q2",
+          "question": "Nhân vật chính của truyện là ai?",
+          "options": [
+            "Nhân vật chính là phú ông.",
+            "Nhân vật chính là cô gái con phú ông.",
+            "Nhân vật chính là anh nông dân nghèo.",
+            "Nhân vật chính là ông Bụt."
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q3",
+          "question": "Nhận xét nào đúng với nhân vật chính trong truyện Cây tre trăm đốt?",
+          "options": [
+            "Nhân vật thật thà, cả tin chứ không quá ngốc nghếch vì biết dùng câu thần chú để trừng phạt kẻ ác, giành lấy thắng lợi",
+            "Nhân vật thật thà, cả tin đến mức ngốc nghếch vì phú ông nói gì cũng tin nên bị lừa",
+            "Nhân vật thật thà nhưng cũng tham vì không biết thân phận mình mà muốn lấy con gái nhà giàu.",
+            "Nhân vật ngốc nghếch, phú ông nói gì cũng tin và làm theo một cách máy móc."
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "type": "reading_comprehension",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "passage": "Đọc văn bản sau và trả lời các câu hỏi phía dưới\n\nBÀ CHÚA BẦU GIÚP HAI BÀ TRƯNG\n\nVào thời nhà Hán cai trị Việt Nam, ở huyện Lập Thạch (Vĩnh Phúc) có một bà cụ già trồng được một cây bầu kì lạ. Cây bầu lớn lên nhưng không thấy ra hoa kết quả, dây bầu cứ nở dài lan mãi. Dây lan ra rất dài, bò lên cả núi đồi, cứ thế mà lan đến tận huyện Sơn Dương, tỉnh Tuyên Quang, rồi leo lên tận núi cao ở đó. Từ đó dây bầu mới bắt đầu trổ hoa và kết thành một quả bầu. Rồi từ trong trái bầu ấy, nở ra một cô gái, chỉ vài ngày sau đã lớn thành một thiếu nữ. Cô gái lần theo dây bầu về đến gốc cây, gặp bà già trồng bầu, nhận bà làm mẹ. Mọi người thấy sự lạ, gọi ngay cô gái là cô Bầu. Và ngọn núi được gọi là núi Bầu.\n\nHai mẹ con nuôi nhau qua ngày, được ít lâu thì bà cụ mất. Nàng Bầu đem mẹ lên sườn núi chôn. Khi đào đất để chôn mẹ, nàng bắt được một cái chuông, đem về nhà. Chuông tuy bé nhưng mỗi khi gõ vào thì tiếng kêu lên rất to và vang đi rất xa. Từ Lập Thạch, tiếng chuông vang tới khắp mấy huyện xung quanh. Khi nghe tiếng chuông, lòng người ai nấy cũng đều cảm thấy xốn xang, như có điều gì nung nấu ở bên trong.\n\nThái thú nhà Hán cai trị Việt Nam lúc đó là Tô Định rất tàn bạo, mất lòng dân. Năm 40, Hai Bà Trưng dựng cờ khởi nghĩa ở Phong Châu, nàng Bầu hay tin bèn gõ chuông lên. Nghe tiếng chuông, các thanh niên nam nữ tất thảy đều bỏ dở công việc, sắm cung tên hoặc trở về nhà lấy giáo mác, băng đèo lội suối chạy một mạch về phía huyện Lập Thạch, đến bên cạnh nàng Bầu. Chỉ trong một ngày đã có tới mấy ngàn người có mặt quanh bà. Rồi mọi người vào cơ ngũ tề chỉnh, nhất tề tôn phù nàng Bầu làm chủ tướng. Nàng Bầu đem quân tới Phong Châu quy phục dưới cờ Hai Bà Trưng, được giao việc chống quân Tô Định. Bà lập được nhiều chiến công, đánh đuổi Tô Định, được Trưng Trắc phong làm công chúa. Vì vậy ai cũng gọi là bà Chúa Bầu. Năm 42, tướng Hán là Mã Viện mang quân sang đánh, quân Trưng Vương yếu hơn phải rút lui.\n\nNăm 43, Trưng Vương bị thua ở Cẩm Khê, đội binh của bà chúa Bầu cũng lâm nạn. Không chống cự nổi với thế giặc quá lớn, bà Chúa Bầu phải chạy về vùng Đạo Trù thuộc huyện Lập Thạch. Khi thấy không còn cách nào cứu vãn nổi tình thế, bà sai quân lính vứt chiếc chuông xuống vực, rồi tự mình cũng nhảy xuống đó, tự vẫn.\n\nTừ đó, các đời sau, mọi người trong vùng Lập Thạch, Sơn Dương đã lập đền thờ tưởng nhớ công lao của bà ở những nơi xảy ra sự tích: Thôn của bà mẹ trồng bầu được gọi là thôn Bầu. Ngọn núi Sơn Dương (Tuyên Quang) được gọi là núi Bầu.Tới thế kỷ 16, họ Vũ cát cứ chống nhà Mạc, xây thành tại đây gọi là thành Bầu và các đời họ Vũ truyền nối nhau được gọi là Chúa Bầu. Chính dòng họ Vũ này cũng có một người con gái là nữ tướng và có công với dân trong vùng, khi mất được thờ và tôn là Bà chúa Bầu họ Vũ để phân biệt với Bà chúa Bầu - tướng của Hai Bà Trưng. Nơi bà sai vứt chuông rồi tự vẫn là vực Chuông. Tại các nơi đền thờ bà, hàng năm dân làng vẫn mở hội lễ. Các triều đại về sau đều sắc thượng phong cho bà.\n\n(https://vi.wikipedia.org/wiki/Bà_Chúa_Bầu)",
+      "passageId": "passage_63",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Câu chuyện trên kể về:",
+          "options": [
+            "Cuộc khởi nghĩa của Hai Bà Trưng.",
+            "Sự ra đời kì lạ của bà chúa Bầu.",
+            "Công cuộc giúp Hai Bà Trưng đánh giặc của bà chúa Bầu.",
+            "Cuộc đời và chiến công của bà chúa Bầu."
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q2",
+          "question": "Nhân vật chính trong truyện là:",
+          "options": [
+            "Hai mẹ con bà Bầu.",
+            "Bà chúa Bầu.",
+            "Hai Bà Trưng.",
+            "Bà chúa Bầu và Hai Bà Trưng."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q3",
+          "question": "Sự việc nào dưới đây KHÔNG có yếu tố kì ảo?",
+          "options": [
+            "Dây bầu lan mãi tới các gò đồi, tới tận núi Sơn Dương.",
+            "Nàng Bầu gõ chuông thì ai nấy đều bỏ dở công việc, cầm giáo mác đến.",
+            "Chỉ trong một ngày, mấy ngàn người đã đến quanh nàng Bầu.",
+            "Hai Bà Trưng khởi nghĩa ở Phong Châu."
+          ],
+          "correct": 3
+        },
+        {
+          "id": "q4",
+          "question": "Mô típ của truyện truyền thuyết trên là:",
+          "options": [
+            "Sự sinh nở thần kì, kì tích của nhân vật lịch sử.",
+            "Điềm báo, hiển linh của nhân vật lịch sử.",
+            "“Ngài hóa” của nhân vật lịch sử.",
+            "Sự hỗ trợ của thần linh với con người đời thường."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q5",
+          "question": "Yếu tố kì ảo nào thể hiện sự ra đời kì lạ của nàng Bầu?",
+          "options": [
+            "Cô gái lần theo dây bầu đến tận gốc thì gặp bà lão.",
+            "Khi chôn cất mẹ, nàng Bầu nhặt được quả chuông kì lạ.",
+            "Nàng Bầu lập được nhiều chiến công giúp Hai Bà Trưng.",
+            "Dây bầu leo lên tận núi mới có quả, nở ra nàng Bầu."
+          ],
+          "correct": 3
+        },
+        {
+          "id": "q6",
+          "question": "Chi tiết cô gái lần theo dây bầu và nhận bà già làm mẹ thể hiện ý nghĩa gì?",
+          "options": [
+            "Giúp bà già bớt cô độc.",
+            "Nàng Bầu xuất thân bình dị, được nuôi nấng từ chính người dân lao động.",
+            "Phần thưởng xứng đáng cho bà lão trồng bầu.",
+            "Nàng Bầu xuất thân từ cuộc sống lao động nghèo khó."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q7",
+          "question": "Vì sao hay tin Hai Bà Trưng khởi nghĩa ở Phong Châu nàng Bầu lại gõ chuông?",
+          "options": [
+            "Muốn tập hợp mọi người cùng đồng lòng đánh giặc.",
+            "Muốn theo Hai Bà Trưng đánh giặc.",
+            "Thể hiện sự căm thù quân Tô Định tàn bạo.",
+            "Thể hiện mong muốn tập hợp mọi người."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q8",
+          "question": "Quả chuông thần kì thể hiện sức mạnh gì của nhân vật nàng Bầu?",
+          "options": [
+            "Kêu gọi được nhiều người đánh giặc.",
+            "Sức mạnh đánh thắng giặc bắt nguồn từ sự đồng thuận, thu phục lòng dân.",
+            "Thu phục được nhân dân cùng đánh giặc.",
+            "Sức mạnh được trợ giúp từ thần linh."
+          ],
+          "correct": 1
+        }
+      ]
     }
   ]
 }

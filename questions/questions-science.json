@@ -15,6 +15,10 @@
     {
       "id": "L004",
       "name": "Material"
+    },
+    {
+      "id": "L005",
+      "name": "Nutrients"
     }
   ],
   "questions": [
@@ -1670,6 +1674,272 @@
       "questionImageScale": 50,
       "question": "All metals are magnetic.",
       "correct": 1
+    },
+    {
+      "id": 126,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Which nutrient is the body’s main source of energy?",
+      "options": [
+        "Protein",
+        "Vitamins",
+        "Carbohydrates",
+        "Minerals"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 127,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Lipids do not perform which of the following functions?",
+      "options": [
+        "Store energy",
+        "Insulate the body",
+        "Protect organs",
+        "Help form bones"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 128,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Which nutrient is needed for growth and repair of body tissues?",
+      "options": [
+        "Lipids",
+        "Protein",
+        "Vitamins",
+        "Fibre"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 129,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Which vitamin helps maintain good eyesight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 130,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Which nutrient makes up most of the body's cells and body fluids?",
+      "options": [
+        "Carbohydrates",
+        "Water",
+        "Minerals",
+        "Fibre"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 131,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Which nutrient is NOT classified as a nutrient but is important for digestion?",
+      "options": [
+        "Fibre",
+        "Lipids",
+        "Vitamins",
+        "Protein"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 132,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Which mineral is needed for healthy bones and teeth?",
+      "options": [
+        "Iron",
+        "Sodium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 133,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Which food is the BEST example of a carbohydrate-rich food?",
+      "options": [
+        "Fish",
+        "Olive oil",
+        "Apples",
+        "Pasta"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 134,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Proteins help repair damaged tissues.",
+      "correct": 0
+    },
+    {
+      "id": 135,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "You only need vitamins and minerals in very large amounts.",
+      "correct": 1
+    },
+    {
+      "id": 136,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Water is lost from the body through urine, sweat, faeces, and exhaling.",
+      "correct": 0
+    },
+    {
+      "id": 137,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Lipids release energy more slowly than carbohydrates.",
+      "correct": 0
+    },
+    {
+      "id": 138,
+      "type": "true_false",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "A balanced diet contains the right nutrients in the correct amounts.",
+      "correct": 0
+    },
+    {
+      "id": 139,
+      "type": "matching",
+      "questionImageScale": 50,
+      "question": "Match the nutrient to its function.",
+      "pairs": [
+        {
+          "country": "Vitamins",
+          "capital": "Keeps you healthy and supports your body functions",
+          "id": "a"
+        },
+        {
+          "country": "Fibre",
+          "capital": "Adds bulk to food and helps prevent constipation",
+          "id": "b"
+        },
+        {
+          "country": "Carbohydrate",
+          "capital": "Provides energy",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Keeps you healthy and supports your body functions",
+        "b": "Adds bulk to food and helps prevent constipation",
+        "c": "Provides energy"
+      }
+    },
+    {
+      "id": 140,
+      "type": "fill_in_blank",
+      "questionImageScale": 50,
+      "question": "__________ protect organs such as the kidneys and heart.",
+      "correct": [
+        "Lipids",
+        "lipids"
+      ]
+    },
+    {
+      "id": 141,
+      "type": "fill_in_blank",
+      "questionImageScale": 50,
+      "question": "The mineral __________ is important for healthy bones and teeth.",
+      "correct": [
+        "Calcium",
+        "calcium"
+      ]
+    },
+    {
+      "id": 142,
+      "type": "fill_in_blank",
+      "questionImageScale": 50,
+      "question": "Fibre is important for the digestive system because it helps food move through the __________.",
+      "correct": [
+        "Gut",
+        "gut",
+        "Intestines",
+        "intestines",
+        "Tract",
+        "tract",
+        "bowels",
+        "Bowels"
+      ]
+    },
+    {
+      "id": 143,
+      "type": "reading_comprehension",
+      "questionImageScale": 50,
+      "passage": "Jamie is preparing a poster about healthy eating. She lists her lunch items: a chicken sandwich, an apple, a bottle of water, and a small packet of nuts. She wants to explain which nutrients each food provides. The chicken in the sandwich provides protein for growth and repair. The bread gives carbohydrates for energy. The apple contains vitamins and fibre. The nuts provide lipids, which protect organs and store energy. Water helps keep all her cells hydrated.",
+      "passageId": "passage_143",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which lunch item provides protein?",
+          "options": [
+            "Apple",
+            "Chicken in the sandwich",
+            "Nuts",
+            "Water"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q2",
+          "question": "What nutrient does the apple mainly give?",
+          "options": [
+            "Lipids",
+            "Vitamins and fibre",
+            "Protein",
+            "Water"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q3",
+          "question": "Why is water an important part of Jamie’s lunch?",
+          "options": [
+            "It provides energy",
+            "It helps repair body tissues",
+            "It keeps her cells hydrated",
+            "It provides vitamins"
+          ],
+          "correct": 2
+        }
+      ]
     }
   ]
 }
