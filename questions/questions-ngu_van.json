@@ -15,6 +15,10 @@
     {
       "id": "L004",
       "name": "Học Kì I - Đọc hiểu 4"
+    },
+    {
+      "id": "L005",
+      "name": "Học Kì I - Đọc Hiểu 5"
     }
   ],
   "questions": [
@@ -1198,6 +1202,246 @@
             "Sức mạnh đánh thắng giặc bắt nguồn từ sự đồng thuận, thu phục lòng dân.",
             "Thu phục được nhân dân cùng đánh giặc.",
             "Sức mạnh được trợ giúp từ thần linh."
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "type": "reading_comprehension",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "passage": "Đọc văn bản sau và trả lời các câu hỏi phía dưới\n\nCÂY XẤU HỔ\n\nBờ đường 9 có lùm cây xấu hổ\nChiến sĩ đi qua ai cũng mỉm cười\n\nGiữa một vùng lửa cháy bom rơi\nTất cả lộ nguyên hình trần trụi\nCây xấu hổ với màu xanh bối rối\nTự giấu mình trong lá khép lim dim\n\nChiến sĩ qua đây ai cũng bước rất êm\nKhi bất chợt thoảng một bàn chân lạ\nCây vội vã nhắm nghìn con mắt lá\nNhựa dồn lên cành khẽ ngả như chào\n \nNgười ra rồi bóng dáng cứ theo sau\nAnh lính trẻ bỗng quay đầu tủm tỉm\nCây đã hé những mắt tròn chúm chím\nĐang thập thò nghịch ngợm nhìn theo\n\nPhút lạ lùng trời đất trong veo\nAnh nghe có tiếng reo thầm gặp gỡ\nNhiều dáng điệu thoáng qua trong trí nhớ\nRất thân quen mà chẳng gọi nên lời\n\nGiữa một vùng lửa cháy bom rơi\nCây hiện lên như một niềm ấp ủ\nAnh lính trẻ hái một cành xấu hổ\nƯớp vào trong trang sổ của mình\n\nVà chuyện này chỉ cây biết với anh.\n\n(Trường Sơn – đường khát vọng, NXB Chính trị Quốc gia, 2008)",
+      "passageId": "passage_64",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Dòng nào nói lên đề tài của văn bản Cây xấu hổ?",
+          "options": [
+            "Hành quân",
+            "Cùng thiên nhiên",
+            "Người lính",
+            "Kỉ niệm chiến trường."
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q2",
+          "question": "Bài thơ trên thuộc thể thơ nào?",
+          "options": [
+            "Thể thơ tự do; gieo vần liền.",
+            "Thể thơ tự do, khổ dài ngắn khác nhau.",
+            "Thể thơ tự do, đa số 8 chữ một dòng, số dòng trong khổ linh hoạt",
+            "Thể thơ tám chữ, gieo vần chân"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q3",
+          "question": "Dòng nào nói lên nội dung của khổ thơ thứ 3 trong văn bản Cây xấu hổ?",
+          "options": [
+            "Cây xấu hổ xanh tươi giữa bom đạn.",
+            "Cây xấu hổ đón chào người lính.",
+            "Cuộc trò chuyện đặc biệt với cây xấu hổ.",
+            "Anh bộ đội lưu giữ kỉ niệm với cây xấu hổ"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q4",
+          "question": "Nhân vật trữ tình trong văn bản",
+          "options": [
+            "Cây xấu hổ là? Cây xấu hổ.",
+            "Người lính nhạy cảm, lạc quan.",
+            "Đồng đội cùng hành quân.",
+            "Người giao liên."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q5",
+          "question": "Khổ thơ nào giới thiệu được nhân vật trữ tình, đối tượng trữ tình?",
+          "options": [
+            "Khổ 1.",
+            "Khổ 2.",
+            "Khổ 3.",
+            "Khổ 4"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q6",
+          "question": "Những khổ thơ nào là cuộc “trò chuyện đặc biệt” giữa người lính với cây xấu hổ?",
+          "options": [
+            "Khổ 4.",
+            "Khổ 2.",
+            "Khổ 3,4,5",
+            "Khổ 4, 6, 7."
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q7",
+          "question": "Dòng nào sau đây nói lên yếu tố tự sự trong bài thơ?",
+          "options": [
+            "Cuộc gặp gỡ, “trò chuyện” của anh bộ đội và cây xấu hổ trên đường hành quân và người lính hái nhành cây đó ép vào trang sổ tay của mình.",
+            "Những cây xấu hổ vẫn can trường xanh tươi giữa bom đạn.",
+            "Người lính hái một cành cây xấu hổ ép vào trang sổ tay của mình",
+            "Cây xấu hổ ấp ủ mầm sống, niềm hy vọng"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q8",
+          "question": "Yếu tố miêu tả làm rõ nhất đặc điểm, trạng thái đối tượng nào trong bài thơ?",
+          "options": [
+            "Anh bộ đội",
+            "Cảnh bom đạn",
+            "Cây xấu hổ",
+            "Chặng đường hành quân của người lính"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q9",
+          "question": "Nội dung của khổ thơ thứ 3 trong văn bản Cây xấu hổ?",
+          "options": [
+            "Cây xấu hổ xanh tươi giữa bom đạn.",
+            "Cây xấu hổ đón chào người lính.",
+            "Cuộc trò chuyện đặc biệt với cây xấu hổ.",
+            "Anh bộ đội lưu giữ kỉ niệm với cây xấu hổ"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q10",
+          "question": "Nghệ thuật nào được sử dụng nhiều nhất trong bài thơ và để diễn tả điều gì?",
+          "options": [
+            "Ẩn dụ, để nói về sức sống đặc biệt của cây xấu hổ.",
+            "Nhân hóa cây xấu hổ có tâm hồn và trở nên gần gũi với người lính (cảm xúc giao hòa cùng con người, bất chấp bom đạn)",
+            "Hoán dụ, để khẳng định bom đạn không thể hủy diệt được sự sống.",
+            "Nói quá, để biến cây xấu hổ thành cô gái e ấp làm duyên"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q11",
+          "question": "Những từ ngữ nào diễn tả “cuộc trò chuyện” cây xấu hổ với người lính?",
+          "options": [
+            "Khẽ ngả như chào; mắt tròn chúm chím; nghịch ngợm nhìn theo.",
+            "Màu xanh bối rối; tự giấu mình trong lá khép lim dim",
+            "Cây vội vã nhắm nghìn con mắt lá.",
+            "Tiếng reo thẩm gặp gỡ; một niềm ấp ủ."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q12",
+          "question": "Những từ ngữ nào gợi tả tâm hồn người lính trẻ nhạy cảm, dí dỏm, lạc quan?",
+          "options": [
+            "Quay đầu tủm tỉm, nghịch ngợm nhìn theo",
+            "Mỉm cười, bước rất êm, quay đầu tủm tỉm, nghe có tiếng reo thầm.",
+            "Vội vã nhằm nghìn con mắt lá.",
+            "Bước rất êm, quay đầu tủm tỉm"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q13",
+          "question": "Cảm xúc chủ đạo của bài thơ Cây xấu hổ?",
+          "options": [
+            "Ngạc nhiên, say mê trước vẻ e ấp của cây xấu hổ.",
+            "Ngỡ ngàng trước sự xuất hiện của cây xấu hồ giữa vùng bom đạn trần trụi",
+            "Nâng niu sự sống, rung động tuyệt đẹp trong tâm hồn nhạy cảm người lính nơi chiến trường",
+            "Xúc động trước cử chỉ đẹp của anh lính trẻ"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "type": "reading_comprehension",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "passage": "Đọc văn bản sau và trả lời các câu hỏi phía dưới\n\nVƯỜN NHÀ NGOẠI TÔI\n\n(Cỏ dại – Tô Hoài)\n\nÔng bà ngoại tôi có nếp nhà gạch rất cũ. Người ta thường đồn rằng tuổi nó dễ đã đến ngoài một trăm năm. Nhưng kể tuổi thực của nó, cũng chưa lão quá như vậy. Chỉ trong vòng một kỷ, trên hoặc dưới cái quãng người Tây vào tỉnh Hà Nội lần thứ nhất. Không phải ông bà ngoại của tôi làm nên nếp nhà ấy. Nó là cái cơ nghiệp hương hoả. Ông tôi được gánh thừa tự, đèn nhang cho một ông bác mất không có con trai [...]\n\nTôi ngẩn ngơ nhìn ông tôi bê chậu nước với đi xung quanh tường, quét những hình tròn tròn. Lốt vôi tỏ mãi, trắng xoá trên màu tường gạch hung đỏ. Đến bây giờ hãy còn dấu rõ ràng. Những người bạn vào nhà tôi, tưởng như vào một chiếc tàu biển mà bên thành tàu có những lỗ đại bác, hoặc những cửa tròn trong khoang nhìn ra mặt sóng.\n\nNgoài sân, cây cối um như rừng. Mảnh sân đất dài nhưng hẹp, lúc nào cũng ẩm, vì ánh nắng không lọt xuống mấy. Cây na, cây lựu, một cây cam sành, cây hồng quả, cây ổi lớn chi chít cành. Giữa có cây ngọc lan. Đầu mùa hè, hoa ngọc lan chín trắng muốt, hương ngát ra tận ngoài đầu ngõ. Các dì tôi hay bắc ghế đẩu\n\nhái hoa lan gài lên mái tóc, lẩn vào đầu vành khăn. Cạnh cây ngọc lan là một cây đào thực to. Cái sân bé hoẻn mà lủng củng những cây. Đối với tôi, là cả một thế giới cây cối. Thân cây đào lớn bằng cột đình, đen xù xì, quanh năm phòi ra từng cục nhựa trong óng, dính như cồn. Nó lão quá không đứng được thẳng, phải khom khom ngả dài nghển ra tận thành bể. Tôi cứ men men leo được đến lưng chừng thân, rất dễ dàng. Về cuối mùa thu, cây trụi gần hết lá. Sang đầu xuân hoa và lá lại thi nhau trổ xanh rờn và đỏ phớt - sắc hoa đào phai, cho đến khi mãn vụ quả, tức là bắt đầu mùa hè.\n\nNăm nào cũng có đôi vợ chồng chim chào mào tha rác đến làm tổ trong một cành đào rậm lá cao cao. Tháng năm, tháng sáu, những con chim mới nở đã mạnh cánh và cứng mỏ, thì vợ chồng con cái nhà chim bỏ tổ, ríu rít mang nhau đi. Tôi hóng xem kỹ càng từ hổm chú chào mào đực quặp ở đâu về cành cây từng cuộng rạ nhỏ. Khi ấp trứng, chúng hót líu lo suốt sớm chiều. Rồi những ngày tha mồi vất vả. Hai vợ chồng chim cũng gây phờ người. Buổi sáng mát, mấy chú chim con chen nhau đứng trên thành tổ ngóng ra. Tôi ngồi núp một bên bể nước say mê ngắm nghía. Tôi không thích bắn. Nổi cho đúng tôi cũng không dám bắt các chú chim nhỏ ấy. Ông tôi cấm.\n\nĐến ngày chim rời tổ, “bồng bế” nhau đi, tôi ngẩn ngơ nhớ.\n\nRồi sang năm, không biết vẫn đội ấy hay đôi khác, chim chào mào lại đến làm tổ. Ngày ngày tôi lại lom khom nấp bên cạnh bể nước, ngó lên cây đào. Trong cây đào cuối mùa xuân thì có tổ chim chào mào. Trong cây cam sành thì quanh năm có tổ chim gỉ đá. Có khi mấy tổ nhiều hàng chục con. Loài này ăn ở dè lén, bay thì không động lá. Ở cũng như đi, yên lặng như không. Chúng xấu xí và bé hơn cả chim sẻ, tôi chả thích mấy. Vả lại, chúng cứ bay lấn trong lá, tôi không ngó thấy mấy khi. Lá cây nhiều quá. Lá cây này bíu lấy lá cây khác, ôm lẫn nhau, mặt đất mát rười rượi. Ở tầng thấp hơn la liệt nào xương rộng, mào gà, nào tía tô, kinh giới, cây nhỏ bé ấy mọc chìa ra lúc nào cũng có những cậu cóc xù xì ngồi chầu nhau, ngẫm nghĩ và nghiến răng kèn kẹt. Cao nhất ở góc sân, bốn cây cau mốc trắng vút lên trời, đội trên đầu những chòm lá như những chiếc áo tơi xanh. Về mùa mưa gió thỉnh thoảng, một cái mo mèo rớt mạnh, ngã thình xuống sân...",
+      "passageId": "passage_65",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Người kể truyện trong văn bản trên là ai?",
+          "options": [
+            "Là tác giả - người kể chuyện xưng tôi.",
+            "Là một người giấu mình đi.",
+            "Là ông “tôi”.",
+            "Là các dì “tôi”."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q2",
+          "question": "Nội dung của văn bản trên kể về sự việc gì?",
+          "options": [
+            "Kể về những ngày “tôi” còn bé được ông bà cưng chiều.",
+            "Kể về ngày thơ ấu tươi đẹp tại nhà ngoại cùng vườn cây, bầy chim.",
+            "Kể về khu vườn có rất nhiều loại cây.",
+            "Kể về những ngày thơ ấu được sống cùng ông bà rất vui."
+          ],
+          "correct": 3
+        },
+        {
+          "id": "q3",
+          "question": "Đâu là chi tiết xác thực (cốt lõi sự thật) được đề cập đến trong văn bản?",
+          "options": [
+            "Ông bà ngoại và khu vườn tươi tốt.",
+            "Ngôi nhà và khu vườn in dấu tuổi thơ.",
+            "Nếp nhà gạch, mảnh sân, khu vườn, ông bà, dì của “tôi”.",
+            "Thế giới cây cối trong kí ức của “tôi”."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q4",
+          "question": "Vì sao “Đến ngày chim rời tổ, “bồng bể” nhau đi, tôi ngẩn ngơ nhớ”?",
+          "options": [
+            "Vì vắng tiếng chim khu vườn im ắng quá.",
+            "Vì từ mai, niềm vui nhỏ bé của tôi” không còn, “tôi” chẳng có những người bạn để hàng ngày ngóng trông, theo dõi nữa.",
+            "Vì thiếu bóng dáng, tiếng hót của lũ chim chào mào gắn bó với tôi.",
+            "Vì lũ chim chào mào mang đến niềm vui cho “tôi”."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q5",
+          "question": "Hai câu sau đây chứa những thông tin quan trọng nào của thể kí \"Cái sân bé hoẻn mà lủng củng những cây. Đối với tôi, là cả một thế giới cây cối.\"?",
+          "options": [
+            "Lõi sự thật và cảm xúc của chủ thể.",
+            "Thực tế nghèo nàn, chật hẹp.",
+            "Chủ nhân không có mắt thẩm mỹ.",
+            "Đánh giá của nhân vật tôi về người chủ vườn."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q6",
+          "question": "Dòng nào KHÔNG thể hiện tâm trạng, cảm xúc của nhân vật “tôi”?",
+          "options": [
+            "Tôi ngẩn ngơ nhớ.",
+            "Tôi ngồi núp một bên bể nước say mê ngắm nghía.",
+            "Trong cây đào cuối mùa xuân thì có tổ chim chào mào.",
+            "Tôi không thích bắn."
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q7",
+          "question": "Dòng nào KHÔNG chứng tỏ “tôi” quan sát kỹ, cảm nhận trạng trái của đôi chim chào mào?",
+          "options": [
+            "Khi ấp trứng, chúng hót líu lo suốt sớm chiều.",
+            "Nói cho đúng tôi cũng không dám bắt các chú chim nhỏ ấy.",
+            "Rồi những ngày tha mồi vất vả. Hai vợ chồng chim cùng gầy phờ người.",
+            "Buổi sáng mát, mấy chú chim con chen nhau đứng trên thành tổ ngóng ra."
           ],
           "correct": 1
         }
