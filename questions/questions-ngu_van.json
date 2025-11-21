@@ -968,12 +968,12 @@
       "type": "multiple_choice",
       "lessonId": "L004",
       "questionImageScale": 50,
-      "question": "Câu 1. Câu thơ nào dưới đây sử dụng phép ẩn dụ phẩm chất?",
+      "question": "Câu thơ nào dưới đây sử dụng phép ẩn dụ phẩm chất?",
       "options": [
-        "Vân xem trang trọng khác vời / Khuôn trăng đầy đặn nét ngài nở nang",
-        "Ngày ngày mặt trời đi qua trên lăng / Thấy một mặt trời trong lăng rất đỏ",
-        "Xe vẫn chạy vì miền Nam phía trước / Chỉ cần trong xe có một trái tim",
-        "Một bếp lửa chờn vờn sương sớm / Một bếp lửa ấp iu nồng đượm / Cháu thương bà biết mấy nắng mưa"
+        "Vân xem trang trọng khác vời<br>Khuôn trăng đầy đặn nét ngài nở nang<br>",
+        "Ngày ngày mặt trời đi qua trên lăng<br>Thấy một mặt trời trong lăng rất đỏ<br>",
+        "Xe vẫn chạy vì miền Nam phía trước<br>Chỉ cần trong xe có một trái tim<br>",
+        "Một bếp lửa chờn vờn sương sớm<br>Một bếp lửa ấp iu nồng đượm<br>Cháu thương bà biết mấy nắng mưa<br>"
       ],
       "correct": 1,
       "optionImageScale": 50
@@ -1013,7 +1013,7 @@
       "type": "multiple_choice",
       "lessonId": "L004",
       "questionImageScale": 50,
-      "question": "Xác định nội dung chính của đoạn thơ sau:\n\nAi ơi về miệt Tháp Mười\nCá tôm sẵn bắt, lúa trời sẵn ăn",
+      "question": "Xác định nội dung chính của đoạn thơ sau:<br>\n<br>\nAi ơi về miệt Tháp Mười<br>\nCá tôm sẵn bắt, lúa trời sẵn ăn<br>",
       "options": [
         "Vẻ đẹp quê hương Bình Định",
         "Vẻ đẹp quê hương Bình Thuận",
@@ -1028,7 +1028,7 @@
       "type": "multiple_choice",
       "lessonId": "L004",
       "questionImageScale": 50,
-      "question": "Xác định các động từ trong đoạn văn dưới đây:\n\nBác tiều uống rượu say, mạnh bạo trèo lên cây kêu lên: “Cổ họng người đau phải không, đừng cắn ta, ta sẽ lấy xương ra cho”. Hổ nghe thấy, nằm phục xuống, há miệng nhìn bác tiều ra dáng cầu cứu. Bác tiều trèo xuống lấy tay thò vào cổ họng hổ, lấy ra một chiếc xương bò, to như cánh tay.",
+      "question": "Xác định các động từ trong đoạn văn dưới đây:<br>\n<br>\nBác tiều uống rượu say, mạnh bạo trèo lên cây kêu lên: “Cổ họng người đau phải không, đừng cắn ta, ta sẽ lấy xương ra cho”. Hổ nghe thấy, nằm phục xuống, há miệng nhìn bác tiều ra dáng cầu cứu. Bác tiều trèo xuống lấy tay thò vào cổ họng hổ, lấy ra một chiếc xương bò, to như cánh tay.<br>",
       "options": [
         "Uống, trèo, cắn, lấy, nghe, nằm, há, nhìn, trèo, tay, thò",
         "Uống, trèo, kêu, cắn, lấy, nghe, nằm, há, nhìn, thò",
@@ -1058,7 +1058,7 @@
       "type": "fill_in_blank",
       "lessonId": "L004",
       "questionImageScale": 50,
-      "question": "Hãy xác định biện pháp tu từ trong câu văn dưới đây\n\nThời đó đường Bờ Sông chỉ trải đá, chưa tráng nhựa, chiều hè gió ngoài sông thổi vào, bụi mù, thành phố phải dùng những xe bò kéo chở nước đi tưới.\nXem thêm tại: https://loigiaihay.com/de-thi-hoc-ki-1-van-6-chan-troi-sang-tao-de-so-10-a124145.html",
+      "question": "Hãy xác định biện pháp tu từ trong câu văn dưới đây<br>\n<br>\nThời đó đường Bờ Sông chỉ trải đá, chưa tráng nhựa, chiều hè gió ngoài sông thổi vào, bụi mù, thành phố phải dùng những xe bò kéo chở nước đi tưới.",
       "correct": [
         "Hoán dụ",
         "hoán dụ",
