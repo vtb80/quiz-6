@@ -19,6 +19,10 @@
     {
       "id": "L005",
       "name": "Một số lương thực - thực phẩm"
+    },
+    {
+      "id": "L006",
+      "name": "Chất tinh khiết - Hỗn hợp"
     }
   ],
   "questions": [
@@ -2037,6 +2041,359 @@
         "b": "Làm bún, phở",
         "c": "Miến"
       }
+    },
+    {
+      "id": 143,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chất nào sau đây là chất tinh khiết?",
+      "options": [
+        "Nước biển",
+        "Không khí",
+        "Nước cất",
+        "Nước chanh"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 144,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Hỗn hợp gồm đặc điểm nào sau đây?",
+      "options": [
+        "Gồm một chất duy nhất",
+        "Gồm nhiều chất nhưng không tạo chất mới",
+        "Luôn trong suốt",
+        "Có tính chất không xác định"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 145,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nước đường là loại hỗn hợp:",
+      "options": [
+        "Đồng nhất",
+        "Không đồng nhất",
+        "Huyền phù",
+        "Nhũ tương"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 146,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chất nào không tan trong nước?",
+      "options": [
+        "Muối",
+        "Đường",
+        "Cát",
+        "Baking soda"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 147,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Yếu tố nào làm tốc độ hòa tan tăng?",
+      "options": [
+        "Giảm nhiệt độ",
+        "Khuấy trộn",
+        "Tăng kích thước hạt",
+        "Không khuấy"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 148,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Khi nhiệt độ tăng, độ tan của chất khí trong nước:",
+      "options": [
+        "Tăng",
+        "Giảm",
+        "Không thay đổi",
+        "Lúc tăng lúc giảm"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 149,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Trong dung dịch muối – nước, chất tan là:",
+      "options": [
+        "Nước",
+        "Muối",
+        "Không khí",
+        "Cát"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 150,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nước hồ đục sau mưa là ví dụ của:",
+      "options": [
+        "Dung dịch",
+        "Nhũ tương",
+        "Dung môi",
+        "Huyền phù"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 151,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Hỗn hợp nước + dầu ăn (lắc mạnh) thuộc loại:",
+      "options": [
+        "Dung dịch",
+        "Nhũ tương",
+        "Huyền phù",
+        "Chất tinh khiết"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 152,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Dấu hiệu nhận biết dung dịch là:",
+      "options": [
+        "Tách lớp",
+        "Đục",
+        "Trong suốt",
+        "Có hạt lơ lửng"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 153,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chất tinh khiết có nhiệt độ nóng chảy cố định.",
+      "correct": 0
+    },
+    {
+      "id": 154,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Huyền phù là hỗn hợp đồng nhất của chất rắn trong chất lỏng.",
+      "correct": 1
+    },
+    {
+      "id": 155,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nhũ tương gồm hai chất lỏng không hòa tan vào nhau.",
+      "correct": 0
+    },
+    {
+      "id": 156,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Dung dịch là hỗn hợp đồng nhất giữa chất tan và dung môi.",
+      "correct": 0
+    },
+    {
+      "id": 157,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chất khí tan nhiều hơn trong nước khi nhiệt độ tăng.",
+      "correct": 1
+    },
+    {
+      "id": 158,
+      "type": "matching",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chọn cặp thích hợp",
+      "pairs": [
+        {
+          "country": "Nước đường",
+          "capital": "Dung dịch",
+          "id": "a"
+        },
+        {
+          "country": "Nước + bột mì",
+          "capital": "Huyền phù",
+          "id": "b"
+        },
+        {
+          "country": "Nước + dầu ăn",
+          "capital": "Nhũ tương",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Dung dịch",
+        "b": "Huyền phù",
+        "c": "Nhũ tương"
+      }
+    },
+    {
+      "id": 159,
+      "type": "matching",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chọn cặp thích hợp",
+      "pairs": [
+        {
+          "country": "Dung dịch",
+          "capital": "Trong suốt",
+          "id": "a"
+        },
+        {
+          "country": "Huyền phù",
+          "capital": "Hạt rắn lơ lửng",
+          "id": "b"
+        },
+        {
+          "country": "Nhũ tương",
+          "capital": "Tách lớp khi để yên",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Trong suốt",
+        "b": "Hạt rắn lơ lửng",
+        "c": "Tách lớp khi để yên"
+      }
+    },
+    {
+      "id": 160,
+      "type": "matching",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chọn cặp tương ứng",
+      "pairs": [
+        {
+          "country": "Đường",
+          "capital": "Tan",
+          "id": "a"
+        },
+        {
+          "country": "Cát",
+          "capital": "Không tan",
+          "id": "b"
+        },
+        {
+          "country": "Muối",
+          "capital": "Tan",
+          "id": "c"
+        },
+        {
+          "country": "Dầu ăn",
+          "capital": "Không tan",
+          "id": "d"
+        }
+      ],
+      "correct": {
+        "a": "Tan",
+        "b": "Không tan",
+        "c": "Tan",
+        "d": "Không tan"
+      }
+    },
+    {
+      "id": 161,
+      "type": "fill_in_blank",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Dung dịch là hỗn hợp đồng nhất gồm chất tan và ________.",
+      "correct": [
+        "dung môi"
+      ]
+    },
+    {
+      "id": 162,
+      "type": "fill_in_blank",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Khi nhiệt độ tăng, chất khí sẽ ________ tan trong nước.",
+      "correct": [
+        "ít"
+      ]
+    },
+    {
+      "id": 163,
+      "type": "fill_in_blank",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chất tinh khiết chỉ gồm một ________ duy nhất.",
+      "correct": [
+        "chất"
+      ]
+    },
+    {
+      "id": 164,
+      "type": "fill_in_blank",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Huyền phù là hỗn hợp không đồng nhất có hạt rắn ________ trong chất lỏng.",
+      "correct": [
+        "lơ lửng"
+      ]
+    },
+    {
+      "id": 165,
+      "type": "fill_in_blank",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nhũ tương là hỗn hợp của hai chất lỏng không hòa tan, một chất phân tán thành ________ nhỏ.",
+      "correct": [
+        "giọt"
+      ]
+    },
+    {
+      "id": 166,
+      "type": "fill_in_blank",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Trong dung dịch, chất được hòa tan gọi là chất tan, còn chất làm tan gọi là ________.",
+      "correct": [
+        "dung môi"
+      ]
+    },
+    {
+      "id": 167,
+      "type": "fill_in_blank",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nước + dầu để yên một thời gian sẽ ________ lớp.",
+      "correct": [
+        "tách"
+      ]
     }
   ]
 }
