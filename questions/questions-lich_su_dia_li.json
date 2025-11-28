@@ -19,6 +19,14 @@
     {
       "id": "L005",
       "name": "Chuyển động quanh Mặt Trời của Trái Đất và hệ quả"
+    },
+    {
+      "id": "L006",
+      "name": "Học Kì I - Lịch Sử"
+    },
+    {
+      "id": "L007",
+      "name": "Học Kì I - Địa Lí"
     }
   ],
   "questions": [
@@ -1362,6 +1370,670 @@
       "questionImageScale": 50,
       "question": "Ngày 21/3 và 23/9, Mặt Trời chiếu thẳng góc vào chí tuyến Bắc.",
       "correct": 1
+    },
+    {
+      "id": 97,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Ai Cập cổ đại nằm ở",
+      "options": [
+        "Tây Bắc châu Phi",
+        "Đông Nam châu Á",
+        "Đông Bắc châu Phi",
+        "Tây Nam châu Âu"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 98,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nhà nước Ai Cập cổ đại hình thành trên lưu vực con sông nào?",
+      "options": [
+        "Sông Hoàng Hà",
+        "Sông Nin",
+        "Sông Ơ-phrat và Ti-gro",
+        "Sông Trường Giang"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 99,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Các công xã nông thôn của cư dân Ai Cập cổ đại còn được gọi là gì?",
+      "options": [
+        "Nôm",
+        "Bản",
+        "Xóm",
+        "Chiềng, chạ"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 100,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Vị vua nào đã thống nhất Thượng và Hạ Ai Cập",
+      "options": [
+        "Shits-đác-ta Go-ta-ma",
+        "Ha-mu-ra-bi",
+        "Na-mơ (hoặc Mê-nét)",
+        "Mô-ha-mét"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 101,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Đứng đầu nhà nước Ai Cập cổ đại là",
+      "options": [
+        "Pha-ra-ông",
+        "Thiên tử",
+        "En-xi",
+        "Ra-gia"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 102,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Người Ai Cập cổ đại viết chữ trên",
+      "options": [
+        "Những tấm đất sét còn ướt",
+        "Giấy làm từ cây pa-pi-rút",
+        "Thẻ tre, trúc",
+        "Mai rùa, xương thú"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 103,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Sông Nin có thuận lợi gì cho việc di chuyển hàng hóa của người Ai Cập cổ đại",
+      "options": [
+        "Nước sông cạn nên chi đi bộ mới được",
+        "Chảy đều theo hướng Bắc - Nam, thuận tiện cho thuyền bè vận chuyển",
+        "Sông Nin bị chia cắt nhiều đoạn, không đi lại được",
+        "Nước sông bị nhiễm mặn nên không dùng được cho thuyền"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 104,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Bán đảo Ấn Độ nằm ở khu vực",
+      "options": [
+        "Nam Á",
+        "Tây Á",
+        "Đông Nam Á",
+        "Đông Bắc Á"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 105,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Dãy núi nào chia địa hình Ấn Độ thành hai khu vực Bắc Ấn và Nam Ấn",
+      "options": [
+        "Dãy An-pơ",
+        "Dãy Vin-đi-a",
+        "Dãy At-lát",
+        "Dãy Hi-ma-lay-a"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 106,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Cư dân Ấn Độ cổ đại sinh sống chủ yếu ở lưu vực hai con sông nào?",
+      "options": [
+        "Sông Hoàng Hà và Trường Giang",
+        "Sông Ơ-phrat và Ti-gro",
+        "Sông Ấn và Hằng",
+        "Sông Hồng và Mã"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 107,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Khoảng 2500 TCN, nhóm người nào đã xây dựng những thành thị dọc hai bên bờ sông Ấn",
+      "options": [
+        "Người Đra-vi-đa",
+        "Người Xu-me",
+        "Người Hi Lạp",
+        "Người A-ri-a"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 108,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Đẳng cấp nào có vị thế cao nhất ở Ấn Độ",
+      "options": [
+        "Bra-man",
+        "Ksa-tri-a",
+        "Vai-si-a",
+        "Su-đra"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 109,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Đẳng cấp nào có vị thế thấp nhất ở Ấn Độ",
+      "options": [
+        "Bra-man",
+        "Ksa-tri-a",
+        "Vai-si-a",
+        "Su-đra"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 110,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chữ viết của người Ấn Độ là",
+      "options": [
+        "Chữ Phạn",
+        "Chữ tượng hình",
+        "Chữ La Mã",
+        "Chữ hình nêm"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 111,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Một trong những công trình bằng đá cổ nhất của Ấn Độ còn lại đến ngày nay là",
+      "options": [
+        "Kim Tự Tháp",
+        "Vạn Lí Trường Thành",
+        "Vườn treo Ba-bi-lon",
+        "Đại bảo tháp San-chi"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 112,
+      "type": "matching",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Hãy nối ý đúng",
+      "pairs": [
+        {
+          "country": "Bà La Môn",
+          "capital": "Tôn giáo cổ xưa nhất của người Ấn Độ",
+          "id": "a"
+        },
+        {
+          "country": "Hin-đu giáo",
+          "capital": "Ra đời dựa trên cơ sở của Bà La Môn giáo",
+          "id": "b"
+        },
+        {
+          "country": "Phật giáo",
+          "capital": "Do Siddhartha Gautama sáng lập",
+          "id": "c"
+        },
+        {
+          "country": "Phật giáo quan niệm",
+          "capital": "Tất cả mọi người đều bình đẳng",
+          "id": "d"
+        }
+      ],
+      "correct": {
+        "a": "Tôn giáo cổ xưa nhất của người Ấn Độ",
+        "b": "Ra đời dựa trên cơ sở của Bà La Môn giáo",
+        "c": "Do Siddhartha Gautama sáng lập",
+        "d": "Tất cả mọi người đều bình đẳng"
+      }
+    },
+    {
+      "id": 113,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Thời cổ đại, cư dân Trung Quốc tập trung chủ yếu ở lưu vực hai con sông lớn là",
+      "options": [
+        "Nin",
+        "Ti-grơ và Ơ-phrat",
+        "Hằng và Ấn",
+        "Trường Giang và Hoàng Hà"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 114,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Ai là người thống nhất Trung Quốc vào năm 221 TCN",
+      "options": [
+        "Tư Mã Thiên",
+        "Lưu Bang",
+        "Tần Thủy Hoàng",
+        "Lý Uyên"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 115,
+      "type": "reordering",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Từ nhà Hán đến nhà Tùy lịch sử Trung Quốc lần lượt trải qua các thời kì và triều đại nào?",
+      "items": [
+        {
+          "text": "Nhà Hán",
+          "order": 1
+        },
+        {
+          "text": "Thời Tam Quốc",
+          "order": 2
+        },
+        {
+          "text": "Nhà Tấn",
+          "order": 3
+        },
+        {
+          "text": "Thời Nam-Bắc triều",
+          "order": 4
+        },
+        {
+          "text": "Nhà Tùy",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Hai giai cấp cơ bản trong xã hộ phong kiến Trung Quốc là",
+      "options": [
+        "Nông dân và công nhân",
+        "Lãnh chúa và nông nô",
+        "Địa chủ và nông dân lĩnh canh",
+        "Tư sản và vô sản"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 117,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Tác phẩm văn học cổ nhất của Trung Quốc là",
+      "options": [
+        "Kinh Thi",
+        "Tam Quốc Chí Diễn Nghĩa",
+        "Thủy Hử",
+        "Hồng Lâu Mộng"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 118,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Người Trung Quốc đã có chữ viết từ thời nhà",
+      "options": [
+        "Hán",
+        "Tùy",
+        "Thương",
+        "Tần"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 119,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Người Trung Quốc đã phát minh ra",
+      "options": [
+        "Số 0",
+        "Hệ chữ cái La-tinh",
+        "Kỹ thuật làm giấy",
+        "Hệ đếm lấy số 10 làm cơ sở"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 120,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Người sáng lập ra học thuyết Nho gia là",
+      "options": [
+        "Hàn Phi Tử",
+        "Khổng Tử",
+        "Lão Tử",
+        "Mặc Tử"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 121,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Triều đại nhà Tần đã tồn tại trong bao nhiêu năm?",
+      "options": [
+        "5 năm ( 221 TCN - 216 TCN)",
+        "10 năm (221 TCN - 211 TCN)",
+        "15 năm (221 TCN - 206 TCN)",
+        "20 năm (221 TCN - 201 TCN)"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 122,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Chữ được khắc trên mai rùa, xương thú được gọi là",
+      "options": [
+        "Chữ kim văn",
+        "Chữ Hán",
+        "Chữ hình nêm",
+        "Chữ giáp cốt"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 123,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Trục Trái Đất nối liền hai cực của Trái Đất có góc nghiêng so với mặt phẳng quỹ đạo là",
+      "options": [
+        "66°33’",
+        "33°33’",
+        "36°33’",
+        "66°35’"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 124,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Thời gian Trái Đất quay một vòng quanh trục là khoảng",
+      "options": [
+        "12 giờ",
+        "7 giờ",
+        "24 giờ",
+        "48 giờ"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 125,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Khi ở Việt Nam là 7 giờ tối, bạn Lan gọi cho My (một người bạn đang sống ở Pháp), nhưng bên Pháp trời vẫn còn sáng. Hiện tượng này xảy ra do nguyên nhân nào?",
+      "options": [
+        "Trái Đất tự quay quanh trục nên mỗi khu vực trên bề mặt nhận ánh sáng Mặt Trời vào những thời điểm khác nhau",
+        "Vị trí các châu lục khác nhau khiến từng quốc gia có thời gian sáng tối thay đổi theo sự chiếu sáng của Mặt Trời",
+        "Việt Nam và Pháp nằm trên các kinh tuyến khác nhau nên thời điểm nhận ánh sáng Mặt Trời giữa hai nơi không trùng nhau",
+        "Sự luân phiên ngày đêm diễn ra do Trái Đất quay quanh trục tạo thành các vùng sáng tối luân phiên ở những khu vực khác nhau"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 126,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Vì sao Trái Đất lại xảy ra hiện tượng luân phiên giữa ngày và đêm?",
+      "options": [
+        "Vì Trái Đất quay quanh trục và tạo ra sự thay đổi liên tục giữa vùng được chiếu sáng và vùng khuất ánh sáng.",
+        "Vì Trái Đất có dạng hình cầu nên nhận ánh sáng không đều.",
+        "Các khu vực trên Trái Đất nằm ở vị trí khác nhau.",
+        "Vì phần được chiếu sáng thay đổi liên tục theo chu kỳ."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 127,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Khi ở Việt Nam (múi giờ GMT+7) là 12 giờ trưa, thì ở Nhật Bản (GMT+9) là mấy giờ?",
+      "options": [
+        "10 giờ sáng",
+        "11 giờ trưa",
+        "1 giờ chiều",
+        "2 giờ chiều"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 128,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Bề mặt Trái Đất được chia ra làm bao nhiêu khu vực giờ?",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "7"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 129,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "GMT là gì?",
+      "options": [
+        "Giờ được tính theo múi giờ gốc làm giờ giao dịch chung trên thế giới.",
+        "Giờ được tính theo giờ thông thường của nhiều nước châu Á.",
+        "Giờ được tính theo vòng quay của Mặt Trời để các nhà thiên văn học dễ dàng quan sát.",
+        "Giờ được tính theo giờ của quốc gia lớn nhất trên thế giới làm chuẩn trong các hoạt động quốc tế."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 130,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Múi giờ gốc được lấy tại đâu?",
+      "options": [
+        "Có kinh tuyến 0° đi qua đầi thiên văn Greenwich của Anh.",
+        "Có kinh tuyến 15° Đông và được lấy làm chuẩn cho châu Âu.",
+        "Nằm ở khu vực xích đạo và đụowc chọn làm giờ quốc tế",
+        "Được quy định theo kinh tuyến 90° Tây và dùng cho toàn cầu."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 131,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Trái Đất quay quanh Mặt Trời theo hướng nào?",
+      "options": [
+        "Từ Tây sang Đông",
+        "Từ Đông sang Tây",
+        "Từ Nam lên Bắc",
+        "Từ Bắc xuống Nam"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 132,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Trái Đất chuyển động quanh Mặt Trời theo hình gì?",
+      "options": [
+        "Hình tròn hoàn hảo",
+        "Hình elip",
+        "Hình vuông",
+        "Hình tam giác"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 133,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Trái Đất quay một vòng quanh Mặt Trời mất khoảng:",
+      "options": [
+        "365 ngày 6 giờ",
+        "365 ngày 4 giờ",
+        "366 ngày",
+        "365 ngày"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 134,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Mùa là gì?",
+      "options": [
+        "Là khoảng thời gian trong năm khi nhiệt độ và lượng mưa thay đổi theo chu kỳ.",
+        "Là một khoảng thời gian của năm, có những đặc điểm riêng về thời tiết và khí hậu.",
+        "Là khoảng thời gian trong năm gắn với sự thay đổi của vị trí của Trái Đất quanh Mặt Trời.",
+        "Là khoảng thời gian trong năm thể hiện sự khác nhau về nắng, mưa và độ dài ngày đêm."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 135,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Nguyên nhân sinh ra hiện tượng mùa là gì?",
+      "options": [
+        "Do Trái Đất tự quay quanh trục của nó khi chuyển động quanh Mặt Trời.",
+        "Do Trái Đất có dạng hình cầu và trục của nó bị nghiêng so với qũy đạo",
+        "Do Trái Đất nghiêng một góc so với mặt phẳng quỹ đạo và chuyển động quanh mặt trời",
+        "Do Mặt Trời thay đổi nhiệt lượng tỏa ra theo các thời điểm trong năm"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 136,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Bán cầu ngả về phía Mặt Trời ít hơn sẽ nhận được ít ánh sáng và nhiệt hơn, lúc đó là mùa gì?",
+      "options": [
+        "Mùa nóng",
+        "Mùa lạnh",
+        "Mùa thu",
+        "Mùa xuân"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 137,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Vào ngày nào trong năm ở hai nửa bán cầu đều nhận được lượng ánh sáng và nhiệt như nhau?",
+      "options": [
+        "Ngày 22/6 và ngày 22/12",
+        "Ngày 21/3 và 23/9",
+        "Ngày 21/6 và 23/12",
+        "Ngày 22/3 và 22/9"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 138,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Khu vực nào sau đây quanh năm có ngày đêm bằng nhau?",
+      "options": [
+        "Xích đạo",
+        "Chí tuyến",
+        "Ôn đới",
+        "Vòng cực"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
     }
   ]
 }
