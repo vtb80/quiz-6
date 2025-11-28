@@ -1518,7 +1518,7 @@
         "Sông Ấn và Hằng",
         "Sông Hồng và Mã"
       ],
-      "correct": 1,
+      "correct": 2,
       "optionImageScale": 50
     },
     {
@@ -1927,7 +1927,7 @@
         "Từ Nam lên Bắc",
         "Từ Bắc xuống Nam"
       ],
-      "correct": 1,
+      "correct": 0,
       "optionImageScale": 50
     },
     {
