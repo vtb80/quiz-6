@@ -19,6 +19,10 @@
     {
       "id": "L005",
       "name": "Học Kì I"
+    },
+    {
+      "id": "L006",
+      "name": "Học Kì I - Phần 2"
     }
   ],
   "questions": [
@@ -1041,6 +1045,931 @@
       "questionImageScale": 50,
       "question": "Không cần đăng xuất sau khi dùng email ở máy công cộng.",
       "correct": 1
+    },
+    {
+      "id": 76,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Hoạt động đưa thông tin vào vật mang tin được gọi là gì?",
+      "options": [
+        "Dữ liệu",
+        "Lưu trữ thông tin",
+        "Trao đổi thông tin",
+        "Xử lí thông tin"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 77,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Thuật ngữ nào dùng để gọi chung các thông tin chưa được đưa vào vật mang tin?",
+      "options": [
+        "Thông tin",
+        "Lưu trữ thông tin",
+        "Dữ liệu",
+        "Trao đổi thông tin"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 78,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Hoạt động gửi thông tin tới bên nhận và nhận thông tin từ bên gửi được gọi là gì?",
+      "options": [
+        "Xử lí thông tin",
+        "Lưu trữ thông tin",
+        "Trao đổi thông tin",
+        "Ghi nhớ thông tin"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 79,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Có những dạng dữ liệu nào?",
+      "options": [
+        "Chỉ âm thanh và hình ảnh",
+        "Chỉ văn bản",
+        "Chữ & số, hình ảnh, âm thanh",
+        "Chữ & số"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 80,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Sau khi được lưu trữ vào vật mang tin, dữ liệu sẽ trở thành gì?",
+      "options": [
+        "Vật mang tin",
+        "Thông tin",
+        "Mã hoá",
+        "Kí hiệu"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 81,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Đơn vị nhỏ nhất để biểu diễn và lưu trữ thông tin trong máy tính là gì?",
+      "options": [
+        "Byte",
+        "Kí tự",
+        "Bit",
+        "Ảnh số"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 82,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Bit chỉ có thể nhận một trong hai trạng thái, đó là những kí hiệu nào?",
+      "options": [
+        "1–2",
+        "X–Y",
+        "0–1",
+        "Đúng–Sai"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 83,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Thuật ngữ nào dùng để gọi chung cho chữ cái, chữ số, dấu cách, dấu chính tả, kí hiệu khác?",
+      "options": [
+        "Chữ cái",
+        "Từ khóa",
+        "Kí tự",
+        "Văn bản"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 84,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Công việc chuyển văn bản thành dãy bit được gọi là gì?",
+      "options": [
+        "Chuyển đổi văn bản",
+        "Nén văn bản",
+        "Số hoá văn bản",
+        "Mã hóa ký tự"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 85,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Việc chuyển hình ảnh thành dãy bit được gọi là gì?",
+      "options": [
+        "Nén hình ảnh",
+        "Số hoá hình ảnh",
+        "Biểu diễn hình ảnh",
+        "Dữ liệu số"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 86,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Kết quả của việc số hoá một đoạn âm thanh là gì?",
+      "options": [
+        "Âm thanh nén",
+        "Âm thanh vòm",
+        "Âm thanh số",
+        "Ảnh số"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 87,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Dữ liệu số là dữ liệu đã được chuyển thành dạng nào để máy tính xử lí?",
+      "options": [
+        "Tín hiệu liên tục",
+        "Tín hiệu tương tự",
+        "Dãy bit",
+        "Kí tự"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 88,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Mạng máy tính là một nhóm máy tính và thiết bị kết nối với nhau để làm gì?",
+      "options": [
+        "Chia sẻ điện năng",
+        "Lưu trữ tập trung",
+        "Truyền thông tin",
+        "Điều khiển từ xa"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 89,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Mạng cục bộ (LAN) thường kết nối máy tính trong phạm vi nào?",
+      "options": [
+        "Toàn cầu",
+        "Thành phố",
+        "Tòa nhà/ cơ quan/Trường học/Nhà riêng",
+        "Quốc gia"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 90,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Internet hình thành từ việc kết nối nhiều mạng nhỏ và thuộc sở hữu của ai?",
+      "options": [
+        "Chính phủ",
+        "Các tập đoàn",
+        "Không thuộc ai",
+        "Các công ty viễn thông"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 91,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Ứng dụng phổ biến nào do Internet phát triển?",
+      "options": [
+        "Điện thoại cố định",
+        "Email",
+        "Máy photocopy",
+        "Máy tính cầm tay"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 92,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Lợi ích chính của mạng máy tính?",
+      "options": [
+        "Tăng chi phí vận hành",
+        "Giảm hiệu suất làm việc",
+        "Chia sẻ tài nguyên và thông tin",
+        "Giảm tốc độ xử lý dữ liệu"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 93,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Mạng máy tính gồm mấy thành phần chính?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 94,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Mạng máy tính gồm những thành phần chính nào?",
+      "options": [
+        "Thiết bị mạng, môi trường truyền dẫn, giao thức truyền thông",
+        "Thiết bị đầu cuối, hệ điều hành, cáp mạng",
+        "Router, phần mềm ứng dụng, sóng vô tuyến",
+        "Máy tính, switch, dữ liệu người dùng"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 95,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Thiết bị nào giúp kết nối máy tính, truyền thông tin?",
+      "options": [
+        "Cáp điện",
+        "Cáp mạng, Switch, Modem",
+        "Webcam",
+        "Vỉ mạng"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 96,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Thiết bị nào biến đổi tín hiệu để truyền xa?",
+      "options": [
+        "Switch",
+        "Cáp mạng",
+        "Modem",
+        "Router"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 97,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Loại cáp nào dùng tia sáng truyền thông tin?",
+      "options": [
+        "Cáp xoắn",
+        "Đồng trục",
+        "Cáp quang",
+        "Điện thoại"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 98,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Phần mềm nào giúp giao tiếp và truyền thông tin qua mạng?",
+      "options": [
+        "Word",
+        "Excel",
+        "Trình duyệt",
+        "Hệ thống"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 99,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Văn bản có chứa siêu liên kết được gọi là gì?",
+      "options": [
+        "Văn bản số",
+        "Văn bản kĩ thuật số",
+        "Siêu văn bản",
+        "Siêu dữ liệu"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 100,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Một nhóm trang web có chung địa chỉ truy cập tạo thành gì?",
+      "options": [
+        "Trang chủ",
+        "WWW",
+        "Website",
+        "Wifi"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 101,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Hệ thống các website trên Internet liên kết với nhau gọi là gì?",
+      "options": [
+        "Web page",
+        "Mạng máy tính",
+        "WWW",
+        "Siêu liên kết"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 102,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Trình duyệt web là loại phần mềm nào?",
+      "options": [
+        "Soạn thảo",
+        "Hệ thống",
+        "Hiển thị trang web",
+        "Tìm kiếm"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 103,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Tên gọi các trình duyệt phổ biến?",
+      "options": [
+        "Word, Excel, PowerPoint",
+        "Chrome, Firefox, Cốc Cốc,Safari",
+        "Facebook, Zalo, Instagram",
+        "Windows, macOS, Linux"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 104,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Công cụ tìm kiếm thông tin trên Internet?",
+      "options": [
+        "Điện thoại",
+        "Máy tìm kiếm",
+        "Ổ cứng",
+        "CPU"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 105,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Email phổ biến nhờ gì?",
+      "options": [
+        "Máy tính",
+        "Internet",
+        "Điện thoại",
+        "Vật mang tin"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 106,
+      "type": "multiple_choice",
+      "lessonId": "L005",
+      "questionImageScale": 50,
+      "question": "Khi gửi email, tài khoản riêng của người dùng cần những thông tin cơ bản nào?",
+      "options": [
+        "Tên + SĐT",
+        "IP",
+        "Email + mật khẩu",
+        "Tên miền"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 107,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Bộ phận nào trong cấu trúc thư điện tử giúp người nhận biết được email nói về việc gì?",
+      "options": [
+        "Địa chỉ email người gửi",
+        "Địa chỉ email người nhận",
+        "Chủ đề email",
+        "Nội dung email"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 108,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Ưu điểm nổi bật nhất của thư điện tử so với thư bưu chính truyền thống là gì?",
+      "options": [
+        "Đảm bảo bảo mật tuyệt đối",
+        "Soạn và gửi thư điện tử rất nhanh, nhận được thư gần như ngay lập tức",
+        "Không bao giờ gặp rủi ro virus",
+        "Cho phép gửi các vật phẩm nặng"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 109,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Việc sử dụng thư điện tử có thể gặp phải những vấn đề rủi ro nào?",
+      "options": [
+        "Máy tính bị hỏng bàn phím",
+        "Mất kết nối Internet",
+        "Máy tính bị nhiễm virus, thư giả mạo, lừa đảo",
+        "Tốn kém chi phí gửi thư"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 110,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Địa chỉ email là duy nhất trên toàn thế giới sau khi người dùng thực hiện thao tác nào?",
+      "options": [
+        "Gửi email đầu tiên",
+        "Tạo tài khoản thành công",
+        "Đăng nhập lần đầu",
+        "Mở hộp thư"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 111,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Tại sao hoạt động thông tin (bao gồm thu nhận, xử lí, lưu trữ và trao đổi thông tin) lại được \ncoi là diễn ra thường xuyên trong cuộc sống hàng ngày của chúng ta?",
+      "options": [
+        "Vì con người luôn cần máy tính để xử lí công việc.",
+        "Vì con người luôn phải thu nhận thông tin, xử lí thông tin và quyết định hành động kịp thời.",
+        "Vì thông tin là tài sản quý giá nhất.",
+        "Vì các hoạt động này chỉ xảy ra ở nơi làm việc."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 112,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Trong tình huống \"Cô giáo giảng bài, em nghe và ghi bài vào vở\", hành động nào là hành \nđộng lưu trữ thông tin?",
+      "options": [
+        "Cô giáo giảng bài.",
+        "Em nghe bằng tai.",
+        "Em và cô giáo đang trao đổi thông tin.",
+        "Em ghi bài vào vở"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 113,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Theo sơ đồ hoạt động thông tin của con người, bộ phận nào đóng vai trò trung tâm trong toàn bộ quá trình?",
+      "options": [
+        "Tai, mắt",
+        "Sách, vở",
+        "Bộ não",
+        "Tay, chân"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 114,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nếu một kí tự trong máy tính được biểu diễn bằng một dãy 8 bit xác định, thì một văn bản \ngồm 5 kí tự sẽ được biểu diễn bằng một dãy bit có độ dài là bao nhiêu?",
+      "options": [
+        "8 bit",
+        "5 bit",
+        "13 bit",
+        "40 bit"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 115,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Máy tính biểu diễn chữ cái 'A' và chữ cái 'B' bằng hai dãy bit khác nhau. Điều này cho thấy \nđiều gì về cách biểu diễn kí tự trong máy tính?",
+      "options": [
+        "Kí tự không liên quan đến dãy bit.",
+        "Mỗi kí tự được biểu diễn bằng một dãy bit tương ứng xác định.",
+        "Kí tự chỉ là một bit.",
+        "Máy tính chỉ biểu diễn được chữ cái."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 116,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Khi thay màu xanh bằng kí hiệu \"0\" và màu đỏ bằng kí hiệu \"1\", việc này gợi ý cho chúng ta về khái niệm cơ bản nào trong tin học?",
+      "options": [
+        "Mật mã",
+        "Trao đổi thông tin",
+        "Khái niệm bit",
+        "Mã hóa Morse"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 117,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "\"Dữ liệu số\" được dùng để chỉ điều gì?",
+      "options": [
+        "Dữ liệu chỉ chứa chữ số (0-9).",
+        "Dữ liệu đã được lưu trữ trong máy tính.",
+        "Dữ liệu đã được chuyển thành dãy bit.",
+        "Dữ liệu chỉ bao gồm âm thanh"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 118,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Khi một nhóm học sinh cùng chia sẻ và chỉnh sửa chung một tệp tài liệu trực tuyến (online), họ đang tận dụng lợi ích cơ bản nào của mạng máy tính?",
+      "options": [
+        "Tăng tốc độ đường truyền",
+        "Chia sẻ tài nguyên (dữ liệu)",
+        "Giảm chi phí phần cứng",
+        "Tăng độ bảo mật"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 119,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nếu không có mạng máy tính và Internet, hoạt động nào sau đây sẽ bị ảnh hưởng nghiêm trọng nhất?",
+      "options": [
+        "Soạn thảo văn bản cá nhân",
+        "Tính toán tiền đi chợ",
+        "Thực hiện cuộc gọi video, gửi thư điện tử",
+        "Vẽ tranh"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 120,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Trong ba thành phần của mạng máy tính, Modem và Switch thuộc nhóm nào?",
+      "options": [
+        "Máy tính và thiết bị có khả năng gửi/nhận thông tin",
+        "Phần mềm giúp người dùng giao tiếp",
+        "Các thiết bị mạng có chức năng kết nối các máy tính với nhau",
+        "Thiết bị ngoại vi"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 121,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Cáp xoắn và cáp quang khác nhau chủ yếu ở đặc điểm nào khi truyền thông tin?",
+      "options": [
+        "Độ dài của cáp",
+        "Nguyên lí truyền tín hiệu",
+        "Hình dạng bên ngoài",
+        "Giá thành sản xuất"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 122,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Trình duyệt web (Web browser) đóng vai trò gì trong việc truy cập thông tin trên WWW?",
+      "options": [
+        "Cung cấp kết nối Internet",
+        "Lưu trữ tất cả các trang web",
+        "Là phần mềm hiển thị nội dung các trang web",
+        "Chuyển đổi tín hiệu đường truyền"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 123,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Điều gì xảy ra khi bạn nháy chuột vào một siêu liên kết (link) trên trang web?",
+      "options": [
+        "Trang web được tải lại",
+        "Chuyển đến địa chỉ/vị trí dữ liệu tương ứng mà liên kết đó trỏ tới",
+        "Tự động tải về máy tính",
+        "Mở phần mềm trình duyệt"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 124,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Tại sao World Wide Web (WWW) được ví như một kho dữ liệu khổng lồ?",
+      "options": [
+        "Vì nó chỉ chứa thông tin dạng văn bản.",
+        "Vì WWW là một ứng dụng duy nhất do một công ty quản lý.",
+        "Vì nó là hệ thống các website liên kết với nhau, chứa rất nhiều dữ liệu đa dạng (văn bản, hình ảnh,âm thanh, video).",
+        "Vì WWW là mạng máy tính duy nhất"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 125,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Khi sử dụng máy tìm kiếm Google, danh sách các trang web được trả về xuất hiện theo thứ\ntự nào?",
+      "options": [
+        "Theo thứ tự bảng chữ cái",
+        "Theo thứ tự ngẫu nhiên",
+        "Theo thứ tự từ quan trọng nhất đến ít quan trọng hơn so với từ khóa",
+        "Theo thứ tự trang web mới nhất"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 126,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nếu em muốn tìm thông tin về một cụm từ chính xác (ví dụ: tên một cuốn sách), em nên sử dụng kỹ thuật tìm kiếm nào để có kết quả chính xác nhất?",
+      "options": [
+        "Chỉ gõ cụm từ vào ô tìm kiếm",
+        "Chỉ tìm kiếm trong mục Hình ảnh",
+        "Đặt cụm từ đó trong dấu ngoặc kép (\"...\")",
+        "Gõ cụm từ bằng chữ in hoa"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 127,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Khi tạo tài khoản email, tên đăng nhập (ví dụ: trunganh8112021) và mật khẩu có cần phải \nđược bảo mật không và vì sao?",
+      "options": [
+        "Không cần bảo mật vì email miễn phí.",
+        "Cần bảo mật vì đó là thông tin riêng tư, giúp bảo vệ tài khoản khỏi bị kẻ gian dễ dàng đoán.",
+        "Chỉ cần bảo mật tên đăng nhập.",
+        "Bảo mật cũng được, không bảo mật cũng không sao."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 128,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "So với các phương thức liên lạc khác như điện thoại hoặc thư bưu chính, thư điện tử có ưu \nđiểm gì về mặt tài nguyên và chi phí?",
+      "options": [
+        "Tốn nhiều giấy, mực hơn.",
+        "Không cần giấy, mực và nhiều vật liệu khác, tiết kiệm chi phí và bảo vệ môi trường.",
+        "Phải trả phí cho mỗi lần gửi.",
+        "Chỉ dùng được cho văn bản."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 129,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Nội dung nào trong email là không bắt buộc phải có?",
+      "options": [
+        "Địa chỉ email người nhận",
+        "Chủ đề email và nội dung email",
+        "Tệp đính kèm",
+        "Địa chỉ email người gửi"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 130,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Tình huống nào sau đây thể hiện hoạt động Trao đổi thông tin?",
+      "options": [
+        "Quan sát biển báo \"Ao sâu, nguy hiểm\".",
+        "Ghi lại số điện thoại của bạn.",
+        "Bật đèn xe cứu hỏa nháy đèn, hú còi khi làm nhiệm vụ.",
+        "Đọc lại bài học cũ trong vở ghi."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 131,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Một người đang điều khiển xe trên đường. Khi nhìn thấy biển báo giao thông, họ nhanh chóng phanh lại. Bước nào đã diễn ra trước khi người này phanh lại?",
+      "options": [
+        "Lưu trữ thông tin",
+        "Trao đổi thông tin",
+        "Xử lí thông tin và ra quyết định hành động",
+        "Ghi nhớ thông tin"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 132,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Trong một câu lạc bộ có quy ước dùng màu \"Xanh\" là 0 và màu \"Đỏ\" là 1. Nếu một thành \nviên mang phù hiệu được biểu diễn bằng dãy bit \"101\", thì thứ tự màu trên phù hiệu của họ là gì?",
+      "options": [
+        "Xanh - Đỏ - Xanh",
+        "Xanh - Xanh - Đỏ",
+        "Đỏ - Xanh - Đỏ",
+        "Đỏ - Đỏ - Xanh"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 133,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Một hình ảnh đen trắng có kích thước 16×16 pixel, mỗi pixel được lưu bằng 1 bit. Ngoài dữ liệu điểm ảnh, tệp còn có 20 byte thông tin tiêu đề (header). Hỏi tệp ảnh này cần tổng cộng bao nhiêu bit để lưu trữ?",
+      "options": [
+        "256 bit",
+        "320 bit",
+        "416 bit",
+        "576 bit"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 134,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "An (dùng máy tính) gửi email cho Bình (dùng máy tính). Trong tình huống này, Modem, \nCáp mạng, và Switch đóng vai trò gì?",
+      "options": [
+        "Đều là phần mềm mạng.",
+        "Đều là máy tính và thiết bị nhận/gửi thông tin.",
+        "Là các thiết bị mạng có chức năng kết nối và truyền thông tin.",
+        "Là tài nguyên chia sẻ."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 135,
+      "type": "reordering",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Giả sử bạn muốn gửi thư điện tử bằng Gmail. Hãy sắp xếp lại các bước sau theo đúng \nquy trình:",
+      "items": [
+        {
+          "text": "Đăng nhập hộp thư",
+          "order": 1
+        },
+        {
+          "text": "Soạn nội dung thư",
+          "order": 2
+        },
+        {
+          "text": "Gửi thư",
+          "order": 3
+        },
+        {
+          "text": "Đăng xuất hộp thư",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Trong địa chỉ email mẫu: trunganh8112021@gmail.com, phần nào sau đây là tên đăng nhập (tên người dùng)?",
+      "options": [
+        "@gmail.com",
+        "gmail.com",
+        "trunganh8112021",
+        "@"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
     }
   ]
 }
