@@ -23,6 +23,10 @@
     {
       "id": "L006",
       "name": "Chất tinh khiết - Hỗn hợp"
+    },
+    {
+      "id": "L007",
+      "name": "Một số phương pháp tách chất ra khỏi hỗn hợp"
     }
   ],
   "questions": [
@@ -2394,6 +2398,174 @@
       "correct": [
         "tách"
       ]
+    },
+    {
+      "id": 168,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Phương pháp nào dùng để tách chất rắn không tan ra khỏi chất lỏng?",
+      "options": [
+        "Cô cạn",
+        "Lọc",
+        "Chiết",
+        "Chưng cất"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 169,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Hỗn hợp nào sau đây không thể tách bằng giấy lọc thông thường?",
+      "options": [
+        "Nước + bột mì",
+        "Nước + cát",
+        "Nước muối",
+        "Nước + đất"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 170,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Khi cô cạn dung dịch muối, hiện tượng nào xảy ra khi nước bốc hơi hết?",
+      "options": [
+        "Muối bay hơi theo",
+        "Muối kết tinh lại",
+        "Muối phân hủy",
+        "Không có gì xảy ra"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 171,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Dụng cụ dùng trong phương pháp chiết là:",
+      "options": [
+        "Phễu thường",
+        "Phễu chiết",
+        "Giấy lọc",
+        "Cốc đong"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 172,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Khi tách dầu ra khỏi nước bằng phễu chiết, lớp nào nằm ở dưới?",
+      "options": [
+        "Dầu",
+        "Nước",
+        "Cả hai trộn lẫn",
+        "Không xác định được"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 173,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Phương pháp cô cạn không phù hợp khi:",
+      "options": [
+        "Chất rắn tan trong nước",
+        "Chất rắn không tan trong nước",
+        "Chất rắn dễ bị phân hủy khi đun nóng",
+        "Chất lỏng bay hơi nhanh"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 174,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Hỗn hợp nào sau đây có thể tách bằng phễu chiết",
+      "options": [
+        "Nước + rượu",
+        "Dầu ăn + xăng",
+        "Nước + muối",
+        "Cát + nước"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 175,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Khi lọc hỗn hợp cát + nước, phần nước sau khi chảy qua giấy lọc được gọi là:",
+      "options": [
+        "Cặn",
+        "Dung dịch",
+        "Phần lọc",
+        "Chất rắn"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 176,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Chiết được dùng để tách hai chất lỏng không hòa tan vào nhau.",
+      "correct": 0
+    },
+    {
+      "id": 177,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Trong phương pháp lọc, chất rắn được giữ lại trên giấy lọc.",
+      "correct": 0
+    },
+    {
+      "id": 178,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Cô cạn có thể làm biến đổi chất rắn nếu chất đó dễ phân hủy.",
+      "correct": 0
+    },
+    {
+      "id": 179,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Nước và cồn có thể tách bằng phễu chiết.",
+      "correct": 1
+    },
+    {
+      "id": 180,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Lọc chỉ áp dụng khi chất rắn không tan trong chất lỏng",
+      "correct": 0
+    },
+    {
+      "id": 181,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Chiết dựa vào sự khác nhau về khối lượng riêng của các chất.",
+      "correct": 0
     }
   ]
 }
