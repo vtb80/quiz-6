@@ -11,6 +11,10 @@
     {
       "id": "L003",
       "name": "Tự lập"
+    },
+    {
+      "id": "L004",
+      "name": "Học Kì I"
     }
   ],
   "questions": [
@@ -648,6 +652,368 @@
         {
           "text": "Đánh giá kết quả và rút kinh nghiệm",
           "order": 4
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Biểu hiện nào không tôn trọng sự thật?",
+      "options": [
+        "Nói một phần sự thật.",
+        "Sẵn sàng bảo vệ sự thật.",
+        "Không che giấu sự thật.",
+        "Không nói sai sự thật."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Sống trung thực sẽ mang lại cho con người những lợi ích nào sau đây?<br>\n1. Tự tin hơn trong cuộc sống.<br>\n2. Nhiều người sẽ xa lánh chúng ta.<br>\n3. Nâng cao phẩm giá của chúng ta.<br>  \n4. Dễ làm mất lòng người khác.<br>  \n5. Được mọi người xung quanh tin tưởng, yêu quý.<br>  \n6. Được những người xung quanh tôn trọng.<br>  \n7. Những cái xấu ở xung quanh chúng ta sẽ dần bị đẩy lùi.",
+      "options": [
+        "A. 1, 3, 5, 6, 7",
+        "B. 1, 3, 4, 6, 7",
+        "C. 1, 2, 5, 6, 7",
+        "D. 1, 2, 4, 6, 7"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Sếc – xpia đã từng nói: “Phải thành thật với mình, có thế mới không dối trá với người khác”. Câu nói đó nói đến điều gì?",
+      "options": [
+        "Đức tính trung thực.",
+        "Đức tính tiết kiệm.",
+        "Đức tính khiêm tốn.",
+        "Đức tính thật thà."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Cuộc tranh luận đang xảy ra giữa các bạn trong lớp N, cùng một sự việc mà các bạn đưa ra rất nhiều ý kiến khác nhau. Nếu em là N, em sẽ làm gì?",
+      "options": [
+        "Bảo vệ đến cùng ý kiến của mình, không cần lắng nghe ai.",
+        "Ý kiến nào được nhiều bạn đồng tình thì theo.",
+        "Không bao giờ dám đưa ra ý kiến của mình.",
+        "Lắng nghe, phân tích để chọn ý kiến đúng nhất."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 51,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Trong các biểu hiện dưới đây đâu là biểu hiện của tính tự lập?",
+      "options": [
+        "Tự suy nghĩ, tự chịu trách nhiệm về quyết định của mình.",
+        "Ỷ lại vào người khác, lười nhác, không nỗ lực, dựa dẫm, thiếu trách nhiệm…",
+        "Cả A và B đúng.",
+        "Cả A và B sai."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 52,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Các em cần làm gì để rèn luyện tính tự lập trong học tập và cuộc sống hằng ngày?",
+      "options": [
+        "Chỉ làm khi cảm thấy việc đó là có lợi cho bản thân.",
+        "Cần chủ động làm việc, tự tin và quyết tâm khi thực hiện hành động.",
+        "Chúng ta còn nhỏ chỉ cần nhờ bố mẹ giúp là được.",
+        "Cả 3 đáp án trên."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 53,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Người có tính tự lập sẽ có hiệu quả gì?",
+      "options": [
+        "Khi làm tốt những việc trong khả năng của bản thân sẽ dần trở nên tự tin.",
+        "Hình thành tinh thần tự chịu trách nhiệm với những việc mình làm.",
+        "Dễ thành công trong cuộc sống, xứng đáng được người khác kính trọng.",
+        "Cả 3 đáp án trên."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 54,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Hành vi nào sau đây là biểu hiện của tính tự lập?",
+      "options": [
+        "Khoa sau khi đi đá bóng về luôn tự giặt sạch quần áo và giày đá bóng của mình không để mẹ phải giặt.",
+        "Nam thường mang bài tập đến lớp mượn của các bạn cùng lớp chép cho nhanh.",
+        "Nga đi học về thường vứt cặp sách lung tung sau đó mẹ phải đi dọn.",
+        "Cả 3 bạn trên đều là người có tính tự lập."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 55,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Tự làm lấy các công việc của mình trong cuộc sống gọi là",
+      "options": [
+        "Tự tin",
+        "Tự kỉ",
+        "Tự chủ",
+        "Tự lập."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 56,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Nga hát không hay nên mỗi khi cầm micro, Nga đều cảm thấy không tự tin về chất giọng của mình.<br> \nNga được cô chủ nhiệm phân công đại diện lớp tham gia cuộc thi hùng biện của trường. Mặc dù thầy cô và bạn bè đều khen giọng Nga trên micro nghe rất ấm và cuốn hút nhưng Nga lại không dám thể hiện và có ý định từ bỏ việc tham gia cuộc thi.<br>\nNếu là Nga, em sẽ làm gì?",
+      "options": [
+        "Xin rút lui khỏi cuộc thi.",
+        "Lấy lời khen của mọi người làm động lực và tin rằng bản thân sẽ làm được, cố gắng rèn luyện tốt để mang thành tích về cho lớp.",
+        "Nhờ bạn khác trong lớp đi thi hộ.",
+        "Mua chiếc micro có thể chỉnh âm thanh để tham gia cuộc thi."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 57,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Trung rất thần tượng ca sĩ nổi tiếng và tìm mọi cách để thay đổi bản thân cho giống với ca sĩ đó từ sở thích, tính cách, trang phục, đầu tóc đến cử chỉ, điệu bộ. Việc làm của Trung thể hiện điều gì?",
+      "options": [
+        "Trung không biết tự nhận thức giá trị bản thân, tuyệt đối hóa thần tượng.",
+        "Trung biết kính trọng những người nổi tiếng.",
+        "Trung chăm chỉ, kiên trì.",
+        "Trung yêu thương con người."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 58,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Ngay từ nhỏ ông B có tật nói lắp. Nhưng hàng ngày do ông chịu khó tập luyện và cuối cùng đã trở thành một nhà diễn thuyết nổi tiếng thế giới. Việc ông B thấy được điểm yếu của mình để rèn luyện là thể hiện",
+      "options": [
+        "Mặc cảm bản thân.",
+        "Sự tự phê bình mình.",
+        "Tự nhận thức bản thân.",
+        "Sự thay đổi tính cách."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 59,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "N luôn muốn mình học giỏi như bạn A, nhưng N nghĩ rằng đó là điều rất khó với mình, vì bạn cho rằng những người học giỏi là những người có tố chất thông minh. Vì vậy không thông minh có cố gắng mấy cũng không thể học giỏi được. Nếu là bạn của N em sẽ khuyên bạn:",
+      "options": [
+        "Nên cố gắng vì mỗi người có điểm mạnh, điểm yếu khác nhau.",
+        "Thôi đừng cố công vô ích vì mình không có tố chất thông minh.",
+        "Nên biết thân biết phận của mình, đừng mong ước viễn vong nữa.",
+        "Nên tìm cách lấy lòng A, để A cho nhìn bài trong giờ kiểm tra."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 60,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "D thường xuyên viết nhật kí về những điều xảy ra hàng ngày, để từ đó có thể tự nhận xét, đánh giá, rút kinh nghiệm cho bản thân… giúp D hoàn thiện bản thân ngày càng tốt hơn. Việc làm này thể hiện D là người biết",
+      "options": [
+        "sở thích của mình.",
+        "điểm yếu của mình.",
+        "tự nhận thức bản thân.",
+        "điểm mạnh của mình."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 61,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Trong giờ kiểm tra em phát hiện bạn Minh đang sử dụng tài liệu trong giờ.  Trong tình huống này em sẽ làm gì? Vì sao?",
+      "options": [
+        "Lờ đi vì không muốn làm mất lòng bạn Minh.",
+        "Đợi hết giờ kiểm tra rồi mới báo cáo với giáo viên.",
+        "Báo cáo ngay với thầy cô giáo về hành vi của Minh vì đó là hành vi gian lận, không trung thực, vi phạm quy chế thi và cần giữ sự công bằng trong lớp.",
+        "Viết một lá thư nặc danh gửi cho cô giáo sau buổi kiểm tra."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 62,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Vì sao chúng ta phải tôn trọng sự thật?",
+      "options": [
+        "Giúp chúng ta dễ dàng đạt được lợi ích cá nhân hơn.",
+        "Tôn trọng sự thật giúp chúng ta nhận được sự tin yêu, quý trọng từ mọi người và là một đức tính cần thiết, đáng quý.",
+        "Chỉ cần tôn trọng những sự thật có lợi cho bản thân mình.",
+        "Vì đó là quy định bắt buộc của nhà trường và xã hội."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 63,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Theo em, Tự lập là gì?",
+      "options": [
+        "Tự tin vào khả năng của bản thân, không cần quan tâm ý kiến của người khác.",
+        "Tự ý làm theo mọi điều mình thích mà không cần xin phép ai.",
+        "Tự làm mọi việc một cách hoàn hảo mà không bao giờ mắc lỗi.",
+        "Tự làm, giải quyết những công việc của mình mà không trông chờ, ỷ lại vào người khác."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 64,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Hành động nào sau đây là biểu hiện đúng đắn của tính tự lập trong học tập và cuộc sống?",
+      "options": [
+        "Luôn nhờ bạn bè nhắc bài và làm hộ bài tập về nhà.",
+        "Đợi bố mẹ nhắc nhở và sắp xếp sách vở, đồ dùng cá nhân.",
+        "Tự làm bài tập của mình, tự dọn dẹp, sắp xếp mà không ai nhắc nhở.",
+        "Chờ đợi người khác đưa ra quyết định thay cho mình."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 65,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Câu tục ngữ, thành ngữ nào dưới đây nói về tính tự lập?",
+      "options": [
+        "Gần mực thì đen, gần đèn thì sáng.",
+        "Thương người như thể thương thân.",
+        "Tự lực cánh sinh.",
+        "Một cây làm chẳng nên non"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 66,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Câu tục ngữ nào dưới đây khuyến khích tinh thần làm việc chăm chỉ, tự mình lao động để có cuộc sống ấm no (tức là tinh thần tự lập)?",
+      "options": [
+        "Ăn quả nhớ kẻ trồng cây.",
+        "Uống nước nhớ nguồn.",
+        "Tay làm hàm nhai, tay quai miệng trễ.",
+        "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 67,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Câu thành ngữ nào sau đây mang ý nghĩa đối lập, phê phán thói quen ỷ lại, trông chờ vào người khác (trái ngược với tính tự lập)?",
+      "options": [
+        "Há miệng chờ sung.",
+        "Tự lực cánh sinh.",
+        "Việc hôm nay chớ để ngày mai.",
+        "Có công mài sắt, có ngày nên kim."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 68,
+      "type": "multiple_choice",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "question": "Câu tục ngữ \"Hữu thân hữu khổ\"  muốn nói đến điều gì liên quan đến tính tự lập?",
+      "options": [
+        "Khuyên chúng ta nên sống hòa đồng và yêu thương lẫn nhau.",
+        "Chỉ những người có thân phận thấp kém mới phải chịu khổ.",
+        "Khẳng định mỗi người phải tự gánh vác, tự chịu trách nhiệm về những vất vả, khó khăn của bản thân, không thể trông chờ vào người khác.",
+        "Chỉ cần có bạn bè tốt là mọi khó khăn sẽ được giải quyết."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 69,
+      "type": "reading_comprehension",
+      "lessonId": "L004",
+      "questionImageScale": 50,
+      "passage": "Khi chia sẻ về kinh nghiệm học tập, Huy nói: \"Mình không thông minh, thậm chí còn chậm chạp, nhưng mình đã chép lại nội dung, dành thời gian tìm hiểu, nhờ anh trai giảng bài và tự hoàn thành bài tập nên thành tích tiến bộ.\"",
+      "passageId": "passage_69",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Lời chia sẻ của Huy thể hiện điều gì?",
+          "options": [
+            "Huy là người học chậm và cần sự giúp đỡ của người khác.",
+            "Huy giỏi giang và thông minh hơn so với suy nghĩ của bạn bè.",
+            "Huy đang cố gắng che giấu điểm yếu của bản thân.",
+            "Huy là một người biết tự nhận thức bản thân, biết rõ điểm yếu và biết cách cải thiện để đạt kết quả tốt."
+          ],
+          "correct": 3
+        },
+        {
+          "id": "q2",
+          "question": "Từ kinh nghiệm học tập của Huy, bài học quan trọng nhất mà em có thể rút ra cho bản thân là gì?",
+          "options": [
+            "Chỉ những người thông minh mới có thể đạt được thành tích học tập cao.",
+            "Việc chép lại nội dung bài học là cách duy nhất để cải thiện kết quả.",
+            "Muốn tiến bộ và giỏi hơn, cần phải biết rõ điểm mạnh, điểm yếu của bản thân, từ đó cố gắng, kiên trì học tập và cải thiện từ những lỗi sai, điểm yếu của mình.",
+            "Nên nhờ người thân (như anh, chị) giảng bài để tiết kiệm thời gian tự học."
+          ],
+          "correct": 2
         }
       ]
     }
