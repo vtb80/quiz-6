@@ -1949,6 +1949,380 @@
           "correct": 2
         }
       ]
+    },
+    {
+      "id": 144,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Materials are used to make:",
+      "options": [
+        "Games",
+        "Objects",
+        "Songs",
+        "Air"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 145,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Which material is transparent?",
+      "options": [
+        "Wood",
+        "Metal",
+        "Glass",
+        "Rubber"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 146,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "A fuel is something that:",
+      "options": [
+        "Gives energy when it burns",
+        "Always stays cold",
+        "Is only a gas",
+        "Makes food taste better"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 147,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Which is a raw material?",
+      "options": [
+        "Plastic bottle",
+        "Limestone",
+        "Paper",
+        "Bread"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 148,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "A staple food is something people:",
+      "options": [
+        "Rarely eat",
+        "Eat only at restaurants",
+        "Eat often as a main food",
+        "Eat only during holidays"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 149,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "A pure substance has:",
+      "options": [
+        "One type of particle",
+        "Two solids",
+        "Water and oil",
+        "Many colours"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 150,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "A homogeneous mixture looks:",
+      "options": [
+        "Mixed but separate",
+        "The same everywhere",
+        "Only solid",
+        "Only liquid"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 151,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Filtration is used to separate:",
+      "options": [
+        "Two liquids",
+        "Solid from liquid",
+        "Gas from gas",
+        "Two gases"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 152,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Cells are:",
+      "options": [
+        "The biggest part of the body",
+        "The smallest living units",
+        "Food pieces",
+        "Rocks"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 153,
+      "type": "multiple_choice",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Which part is found only in plant cells?",
+      "options": [
+        "Cell wall",
+        "Nucleus",
+        "Cytoplasm",
+        "Cell membrane"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 154,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Wood can be used to make furniture.",
+      "correct": 0
+    },
+    {
+      "id": 155,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Glass is flexible.",
+      "correct": 1
+    },
+    {
+      "id": 156,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Metals are strong and hard.",
+      "correct": 0
+    },
+    {
+      "id": 157,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Materials cannot be recycled",
+      "correct": 1
+    },
+    {
+      "id": 158,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Petrol is a type of fuel.",
+      "correct": 0
+    },
+    {
+      "id": 159,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Fuels give energy when burned.",
+      "correct": 0
+    },
+    {
+      "id": 160,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Fuels are always safe to handle without care.",
+      "correct": 1
+    },
+    {
+      "id": 161,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Coal can be used to produce electricity",
+      "correct": 0
+    },
+    {
+      "id": 162,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Limestone is a raw material used to make cement.",
+      "correct": 0
+    },
+    {
+      "id": 163,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Raw materials come directly from nature.",
+      "correct": 0
+    },
+    {
+      "id": 164,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Plastic is a natural raw material.",
+      "correct": 1
+    },
+    {
+      "id": 165,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Using raw materials carefully helps protect the environment.",
+      "correct": 0
+    },
+    {
+      "id": 166,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Rice is an example of a staple food.",
+      "correct": 0
+    },
+    {
+      "id": 167,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Snacks are considered staple foods.",
+      "correct": 1
+    },
+    {
+      "id": 168,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Cooking food properly helps prevent food poisoning.",
+      "correct": 0
+    },
+    {
+      "id": 169,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Washing hands before handling food is important.",
+      "correct": 0
+    },
+    {
+      "id": 170,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "A pure substance has only one type of particle.",
+      "correct": 0
+    },
+    {
+      "id": 171,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Saltwater is a homogeneous mixture.",
+      "correct": 0
+    },
+    {
+      "id": 172,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "A heterogeneous mixture looks the same everywhere.",
+      "correct": 1
+    },
+    {
+      "id": 173,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Ammonia dissolves easily in water.",
+      "correct": 0
+    },
+    {
+      "id": 174,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Filtration can separate solid from liquid.",
+      "correct": 0
+    },
+    {
+      "id": 175,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Evaporation can be used to get salt from seawater.",
+      "correct": 0
+    },
+    {
+      "id": 176,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Decantation mixes two liquids together.",
+      "correct": 1
+    },
+    {
+      "id": 177,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Separation methods are used in real life.",
+      "correct": 0
+    },
+    {
+      "id": 178,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "All living things are made of cells.",
+      "correct": 0
+    },
+    {
+      "id": 179,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Plant cells have chloroplasts.",
+      "correct": 0
+    },
+    {
+      "id": 180,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Animal cells have cell walls.",
+      "correct": 1
+    },
+    {
+      "id": 181,
+      "type": "true_false",
+      "lessonId": "L006",
+      "questionImageScale": 50,
+      "question": "Cells help organisms grow and reproduce.",
+      "correct": 0
     }
   ]
 }
