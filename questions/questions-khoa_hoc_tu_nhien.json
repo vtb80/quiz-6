@@ -2574,6 +2574,660 @@
       "questionImageScale": 50,
       "question": "Chiết dựa vào sự khác nhau về khối lượng riêng của các chất.",
       "correct": 0
+    },
+    {
+      "id": 182,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Nhận định nào sau đây là đúng về vật liệu?",
+      "options": [
+        "Vật liệu là một số thức ăn được con người sử dụng hàng ngày.",
+        "Vật liệu là một số chất được sử dụng trong xây dựng như sắt, cát, xi măng, …",
+        "Vật liệu là một chất hoặc một hỗn hợp một số chất được con người được sử dụng như là nguyên liệu đầu vào trong một quá trình sản xuất để tạo ra những sản phẩm phục vụ cuộc sống.",
+        "Vật liệu là gồm nhiều chất trộn vào nhau."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 183,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Trong số các trường hợp sau, trường hợp nào không phải là vật liệu?",
+      "options": [
+        "Kim loại",
+        "Cao su",
+        "Gỗ tự nhiên",
+        "Xe đạp"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 184,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Vật liệu nào dưới đây không phải là kim loại?",
+      "options": [
+        "Đồng",
+        "Gỗ",
+        "Nhôm",
+        "Sắt"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 185,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Vật liệu bằng kim loại không có tính chất nào sau đây?",
+      "options": [
+        "Có tính dẫn điện",
+        "Có tính dẫn nhiệt",
+        "Dễ bị ăn mòn, bị gỉ",
+        "Cách điện tốt."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 186,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Vật liệu nào sau đây không dẫn điện, không dẫn nhiệt, có tính đàn hồi, không tan trong nước, ít biến đổi khi gặp nóng hay lạnh?",
+      "options": [
+        "Thủy tinh",
+        "Xi măng",
+        "Kim loại",
+        "Cao su."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 187,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Vật liệu nào dưới đây, được sử dụng ngoài mục đích xây dựng còn hướng tới bảo vệ môi trường và đảm bảo sự phát triển bền vững?",
+      "options": [
+        "Gỗ tự nhiên",
+        "Kim loại",
+        "Đá vôi",
+        "Gạch không nung."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 188,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Vật liệu nào sau đây không thể tái chế?",
+      "options": [
+        "Thủy tinh",
+        "Thép xây dựng",
+        "Nhôm",
+        "Xi măng"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 189,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Nhận định nào sau đây là sai?",
+      "options": [
+        "Nhiên liệu là những chất cháy được, khi cháy tỏa nhiệt và phát sáng.",
+        "Nhiên liệu đóng vai trò quan trọng trong đời sống và sản xuất.",
+        "Nhiên liệu rắn gồm than đá, củi, nến, sáp …",
+        "Nhiên liệu khí có năng suất tỏa nhiệt thấp, gây độc hại cho môi trường"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 190,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Nhận định nào sau đây là đúng về nhiên liệu?",
+      "options": [
+        "Nhiên liệu là một số chất hoặc hỗn hợp chất được dùng làm nguyên liệu đầu vào cho các quá trình sản xuất hoặc chế tạo.",
+        "Nhiên liệu là những chất oxi hóa để cung cấp năng lượng cho cơ thể sống.",
+        "Nhiên liệu là những vật liệu dùng cho quá trình xây dựng.",
+        "Nhiên liệu là những chất cháy được để cung cấp năng lượng dưới dạng nhiệt hoặc ánh sáng nhằm phục vụ mục đích sử dụng của con người."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 191,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Nhiên liệu nào sau đây không phải nhiên liệu hóa thạch?",
+      "options": [
+        "Than đá",
+        "Dầu mỏ",
+        "Cồn",
+        "Khí tự nhiên."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 192,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Để sử dụng gas tiết kiệm, hiệu quả người ta sử dụng biện pháp nào dưới đây?",
+      "options": [
+        "Tốt nhất nên để gas ở mức độ nhỏ nhất.",
+        "Tốt nhất nên để gas ở mức độ lớn nhất.",
+        "Tùy nhiệt độ cần thiết để điểu chỉnh lượng gas.",
+        "Ngăn không cho khí gas tiếp xúc với carbon dioxide."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 193,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Việc làm nào sau đây góp phần sử dụng hiệu quả nhiên liệu?",
+      "options": [
+        "Vặn gas thật to khi đun nấu.",
+        "Tạo các lỗ nhỏ trong viên than tổ ong.",
+        "Xếp khít củi vào nhau khi nhóm bếp.",
+        "Không vệ sinh kiềng bếp và mặt bếp gas sau khi đun nấu."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 194,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Khi khai thác quặng sắt, ý nào sau đây là không đúng?",
+      "options": [
+        "Chế biến quặng thành sản phẩm có giá trị để nâng cao kinh tế.",
+        "Nên sử dụng các phương pháp khai thác thủ công.",
+        "Tránh làm ô nhiễm môi trường.",
+        "Khai thác tiết kiệm vì nguồn quặng có hạn."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 195,
+      "type": "fill_in_blank",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Điền cụm từ thích hợp nhất vào chỗ trống sau: <br>\nNguyên liệu là ………………… chưa qua xử lý và cần được chuyển hóa để tạo ra sản phẩm.",
+      "correct": [
+        "vật liệu"
+      ]
+    },
+    {
+      "id": 196,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Vật thể nào sau đây được xem là nguyên liệu?",
+      "options": [
+        "Gạch nung",
+        "Đất sét",
+        "Niêu sành",
+        "Nồi nhôm."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 197,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Khi dùng gỗ để sản xuất giấy thì người ta sẽ gọi gỗ là",
+      "options": [
+        "nhiên liệu",
+        "nguyên liệu",
+        "phế liệu",
+        "phế phẩm."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 198,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Nhận xét nào dưới đây là đúng về lương thực?",
+      "options": [
+        "Lương thực là thức ăn chứa nhiều chất béo.",
+        "Rau xanh là lương thực.",
+        "Ngũ cốc là năm loại rau xanh.",
+        "Lương thực là thức ăn chứa hàm lượng lớn tinh bột"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 199,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Gạo sẽ cung cấp chất dinh dưỡng nào nhiều nhất cho cơ thể?",
+      "options": [
+        "Vitamin",
+        "Protein (chất đạm).",
+        "Chất béo",
+        "Carbohydrate (chất đường, bột)."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 200,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Nhận xét nào sau đây là không đúng về thực phẩm?",
+      "options": [
+        "Thực phẩm tự nhiên có nguồn gốc từ động vật, thực vật.",
+        "Cá là thực phẩm tự nhiên.",
+        "Thực phẩm cung cấp các chất dinh dưỡng cho cơ thể.",
+        "Thực phẩm không bị biến đổi tính chất khi để lâu ngoài không khí"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 201,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Những biện pháp đảm bảo an toàn thực phẩm gồm:",
+      "options": [
+        "Rau, quả, thịt, cá.. phải mua tươi hoặc ướp lạnh.",
+        "Thực phẩm đóng hộp phải chú ý hạn sử dụng.",
+        "Tránh để lẫn lôn thực phẩm sống với thực phẩm cần nấu chín.",
+        "Tất cả các câu trên đều đúng."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 202,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Chất tinh khiết được tạo ra từ",
+      "options": [
+        "một chất duy nhất",
+        "một nguyên tố duy nhất.",
+        "một nguyên tử",
+        "hai chất khác nhau."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 203,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Hỗn hợp được tạo ra từ",
+      "options": [
+        "nhiều nguyên tử",
+        "một chất.",
+        "nhiều chất trộn lẫn vào nhau",
+        "nhiều chất để riêng biệt."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 204,
+      "type": "matching",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Chọn từ thích hợp (gợi ý: chất tinh khiết, hỗn hợp) <br>\n- Không khí là …………….<br>\n- Nước khoáng là ……………. <br>\n- Nước cất là …………….<br>",
+      "pairs": [
+        {
+          "country": "Không khí",
+          "capital": "Hỗn hợp",
+          "id": "a"
+        },
+        {
+          "country": "Nước khoáng",
+          "capital": "Hỗn hợp",
+          "id": "b"
+        },
+        {
+          "country": "Nước cất",
+          "capital": "Chất tinh khiết",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Hỗn hợp",
+        "b": "Hỗn hợp",
+        "c": "Chất tinh khiết"
+      }
+    },
+    {
+      "id": 205,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Hỗn hợp nào sau đây không được xem là dung dịch?",
+      "options": [
+        "Hỗn hợp nước muối",
+        "Hỗn hợp nước đường.",
+        "Hỗn hợp nước và rượu",
+        "Hỗn hợp cát và nước."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 206,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Hai chất lỏng không hòa tan vào nhau nhưng khi chịu tác động, chúng lại phân tán vào nhau thì được gọi là",
+      "options": [
+        "dung dịch",
+        "huyền phù",
+        "nhũ tương",
+        "chất tinh khiết."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 207,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Khi cho bột gạo vào nước và khuấy đều, ta thu được",
+      "options": [
+        "nhũ tương",
+        "huyền phù",
+        "dung dịch",
+        "dung môi."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 208,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Khí nào là khí tan tốt trong nước?",
+      "options": [
+        "Amonia",
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 209,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Phương pháp nào sau đây không ảnh hưởng đến độ tan của chất rắn:",
+      "options": [
+        "Nghiền nhỏ chất rắn",
+        "Khuấy đều chất rắn trong dung môi",
+        "Tăng nhiệt độ",
+        "Cho thêm khí nitrogen vào phản ứng"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 210,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Trong các hỗn hợp dưới đây, hỗn hợp nào là hỗn hợp không đồng nhất?",
+      "options": [
+        "Hỗn hợp nước muối",
+        "Hỗn hợp nước đường.",
+        "Hỗn hợp dầu ăn và nước",
+        "Hỗn hợp nước và rượu."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 211,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Phương pháp nào dưới đây là đơn giản nhất để tách cát lẫn trong nước?",
+      "options": [
+        "Chiết",
+        "Dùng máy li tâm",
+        "Cô cạn",
+        "Lọc."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 212,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Việc làm nào sau đây là quá trình tách chất dựa theo sự khác nhau về kích thước hạt?",
+      "options": [
+        "Giặt giẻ lau bảng bằng nước từ vòi nước.",
+        "Ngâm quả dâu với đường để lấy nước dâu.",
+        "Lọc nước bị vẩn đục bằng giấy lọc.",
+        "Dùng nam châm hút bột sắt từ hỗn hợp bột sắt và lưu huỳnh."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 213,
+      "type": "true_false",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Một hỗn hợp gồm bột sắt và đồng, có thể tách riêng hai chất bằng cách hòa tan vào nước.",
+      "correct": 1
+    },
+    {
+      "id": 214,
+      "type": "true_false",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Cách hợp lí nhất để tách muối từ nước biển là để yên cho muối lắng xuống rồi gạn nước.",
+      "correct": 1
+    },
+    {
+      "id": 215,
+      "type": "true_false",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Bột đá vôi và muối ăn là hỗn hợp có thể tách riêng các chất khi cho hỗn hợp vào nước, sau đó khuấy kĩ và lọc.",
+      "correct": 0
+    },
+    {
+      "id": 216,
+      "type": "true_false",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Tác dụng chủ yếu của việc đeo khẩu trang là lọc và giữ lại khói bụi trong không khí ở mặt ngoài khẩu trang, giúp chúng ta hít thở không khí được sạch hơn.",
+      "correct": 0
+    },
+    {
+      "id": 217,
+      "type": "fill_in_blank",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Nếu không may làm đổ dầu ăn vào nước, ta dùng phương pháp nào để tách riêng dầu ăn ra khỏi nước?",
+      "correct": [
+        "Phương pháp chiết",
+        "phương pháp chiết"
+      ]
+    },
+    {
+      "id": 218,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Nhận định nào đúng khi nói về hình dạng và kích thước tế bào?",
+      "options": [
+        "Các loại tế bào đều có chung hình dạng và kích thước.",
+        "Các loại tế bào thường có hình dạng khác nhau nhưng kích thước giống nhau.",
+        "Các loại tế bào khác nhau thường có hình dạng và kích thước khác nhau.",
+        "Các loại tế bào chỉ khác nhau về kích thước, chúng giống nhau về hình dạng."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 219,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Vật nào sau đây có cấu tạo từ tế bào?",
+      "options": [
+        "Xe ô tô",
+        "Cây cầu",
+        "Cây bạch đàn",
+        "Ngôi nhà."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 220,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Khi một tế bào lớn lên và sinh sản sẽ có bao nhiêu tế bào mới hình thành?",
+      "options": [
+        "8",
+        "6",
+        "4",
+        "2"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 221,
+      "type": "true_false",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Các loại tế bào đều có hình đa giác.",
+      "correct": 1
+    },
+    {
+      "id": 222,
+      "type": "true_false",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Mọi sinh vật đều được cấu tạo từ đơn vị cơ bản là tế bào.",
+      "correct": 0
+    },
+    {
+      "id": 223,
+      "type": "true_false",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Hầu hết các tế bào có thể quan sát được bằng mắt thường.",
+      "correct": 1
+    },
+    {
+      "id": 224,
+      "type": "true_false",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Lớp biểu bì vảy hành được cấu tạo từ tế bào còn lá hành thì không.",
+      "correct": 1
+    },
+    {
+      "id": 225,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Đơn vị cấu tạo nên cơ thể sống gọi là gì?",
+      "options": [
+        "Mô",
+        "Tế bào",
+        "Biểu bì",
+        "Bào quan."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 226,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Tế bào động vật khác tế bào thực vật ở điểm nào?",
+      "options": [
+        "Đa số không có thành tế bào",
+        "Đa số không có ti thể",
+        "Nhân tế bào chưa hoàn chỉnh",
+        "Tế bào động vật giống hoàn toàn với tế bào thực vật"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 227,
+      "type": "multiple_choice",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Lục lạp ở tế bào thực vật có chức năng gì?",
+      "options": [
+        "Tổng hợp protein",
+        "Lưu trữ thông tin di truyền",
+        "Kiểm soát các chất đi vào và đi ra khỏi tế bào",
+        "Tiến hành quang hợp"
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 228,
+      "type": "fill_in_blank",
+      "lessonId": "L009",
+      "questionImageScale": 50,
+      "question": "Một tế bào tiến hành sinh sản 3 lần liên tiếp sẽ tạo ra bao nhiêu tế bào?",
+      "correct": [
+        "8 tế bào",
+        "Tám tế bào",
+        "tám tế bào",
+        "8",
+        "Tám",
+        "tám"
+      ]
     }
   ]
 }
