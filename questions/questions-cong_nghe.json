@@ -294,6 +294,547 @@
       ],
       "correct": 0,
       "optionImageScale": 50
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "“ Ngôi nhà thông minh là ngôi nhà được trang bị hệ thống điều khiển tự động hoặc ……………………………… để các thiết bị, đồ dùng trong nhà có thể tự hoạt động theo ý muốn của chủ\nnhà.”",
+      "options": [
+        "Thông minh",
+        "Bán tự động",
+        "Bảo vệ",
+        "Giám sát."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Ngôi nhà thông minh có mấy đặc điểm?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Đặc điểm của ngôi nhà thông minh là:",
+      "options": [
+        "Tiện ích, an ninh an toàn, tiết kiệm năng lượng",
+        "Tự động, tiết kiệm năng lượng, có giám sát",
+        "An ninh an toàn, có giám sát, tự động",
+        "Tiết kiệm năng lượng, tự động hoặc bán tự động"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImage": "images/cong_nghe/q23_main.jpg",
+      "questionImageScale": 50,
+      "question": "Hình ảnh sau biểu diễn đặc điểm nào của ngôi nhà thông minh?",
+      "options": [
+        "Tiện ích.",
+        "An ninh, an toàn.",
+        "Thông minh.",
+        "Tiết kiệm năng lượng."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Đặc điểm “Tiết kiệm năng lượng” trong ngôi nhà thông minh được thể hiện qua:",
+      "options": [
+        "Hệ thống camera giám sát kết nối với điện thoại.",
+        "Cửa tự động khoá – mở bằng hệ thống vân tay.",
+        "Tivi lưu trữ các chương trình đã phát.",
+        "Hệ thống máy nước nóng – lạnh bằng pin năng lượng mặt trời."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "“Hệ thống điều khiển các thiết bị trong nhà từ xa” thể hiện đặc điểm nào của ngôi nhà thông minh?",
+      "options": [
+        "Tiện ích",
+        "Tiết kiệm năng lượng.",
+        "Thông minh",
+        "An toàn, an ninh"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Căn cứ vào giá trị dinh dưỡng của mỗi loại thực phẩm, người ta chia thực phẩm thành:",
+      "options": [
+        "3 nhóm",
+        "4 nhóm",
+        "5 nhóm",
+        "6 nhóm."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Nhóm thực phẩm giàu đường, bột bao gồm:",
+      "options": [
+        "Cam, nho, táo, dâu",
+        "Mì, nui, gạo, bánh mì.",
+        "Cải thìa, bông cải, cà rốt",
+        "Thịt, trứng, sữa, đậu."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Các loại rau xanh thuộc nhóm thực phẩm nào?",
+      "options": [
+        "Giàu chất bột, đường",
+        "Giàu chất sơ.",
+        "Giàu chất đạm",
+        "Giàu chất khoáng và vitamin."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Để cung cấp chất đạm cho cơ thể, ta nên chọn món ăn nào?",
+      "options": [
+        "Bò lúc lắc",
+        "Cải thìa xào nấm đông cô.",
+        "Canh kim chi tàu hủ",
+        "Sữa chua trái cây."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Mỗi ngày cơ thể cần bao nhiêu bữa ăn chính để đảm bảo sức khoẻ?",
+      "options": [
+        "2 bữa",
+        "3 bữa",
+        "4 bữa",
+        "5 bữa"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Khi dạ dày hoạt động bình thường, trung bình thức ăn được tiêu hoá trong bao lâu?",
+      "options": [
+        "1 giờ",
+        "2 giờ",
+        "3 giờ",
+        "4 giờ."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Một bữa ăn dinh dưỡng hợp lý nên có đầy đủ các loại món:",
+      "options": [
+        "Cơm trắng, món xào, món mặn, món canh.",
+        "Cơm trắng, món luộc, món mặn, món trộn.",
+        "Món chính, món xào hoặc món luộc, món mặn, món canh.",
+        "Món chính, món trộn hoặc món luộc, món mặn, món canh."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Loại thực phẩm cần hạn chế ăn theo tháp dinh dưỡng vận động là:",
+      "options": [
+        "Muối",
+        "Đường",
+        "Dầu",
+        "Sữa."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "“ Thực phẩm khi hư hỏng sẽ bị giảm giá trị dinh dưỡng, gây …………………. hoặc gây bệnh, làm ảnh hưởng đến sức khoẻ và tính mạng của người sử dụng.”",
+      "options": [
+        "suy dinh dưỡng",
+        "béo phì",
+        "ngộ độc",
+        "khó tiêu."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Thực phẩm có thể bị hư hỏng do những nguyên nhân nào?",
+      "options": [
+        "Vi khuẩn xâm nhập",
+        "Côn trùng bâu vào.",
+        "Nấm mốc phát triển",
+        "Tất cả đều đúng."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImage": "images/cong_nghe/q36_main.jpg",
+      "questionImageScale": 50,
+      "question": "Nguyên nhân gây hư hỏng thực phẩm được mô tả trong hình sau là:",
+      "options": [
+        "Kí sinh trùng.",
+        "Vi khuẩn.",
+        "Nấm mốc.",
+        "Côn trùng."
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Vai trò của việc bảo quản thực phẩm là:",
+      "options": [
+        "Ngăn chặn sự xâm nhập và phát triển của vi sinh vật gây hại, làm chậm quá trình hư hỏng",
+        "của thực phẩm.",
+        "Làm thực phẩm chín mềm, dễ tiêu hoá.",
+        "Tạo nên hương vị thơm ngon đặc trưng của các vùng miền khác nhau.",
+        "Đảm bảo vệ sinh và an toàn cho người sử dụng."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Để lựa chọn phương pháp bảo quản phù hợp, ta căn cứ vào:",
+      "options": [
+        "Điều kiện môi trường",
+        "Đặc tính của thực phẩm.",
+        "Giá thành thực phẩm",
+        "Tất cả đều đúng."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Phương pháp bảo quản thực phẩm thông qua việc sử dụng nhiệt độ thấp để ức chế hoạt động của vi sinh vật là:",
+      "options": [
+        "Ướp muối",
+        "Xông khói",
+        "Ướp đá",
+        "Phơi khô"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImage": "images/cong_nghe/q40_main.jpg",
+      "questionImageScale": 50,
+      "question": "Hình ảnh sau mô tả phương pháp bảo quản thực phẩm nào?",
+      "options": [
+        "Hút chân không.",
+        "Đóng hộp.",
+        "Ngâm giấm.",
+        "Phơi khô."
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Đối với các loại rau xanh, phương pháp bảo quản phù hợp là:",
+      "options": [
+        "Ướp muối",
+        "Tủ lạnh",
+        "Ướp đá",
+        "Phơi khô."
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Ý nghĩa của việc chế biến thực phẩm là:",
+      "options": [
+        "Làm thực phẩm chín mềm, dễ tiêu hoá.",
+        "Tạo nên hương vị thơm ngon đặc trưng của các vùng miền khác nhau.",
+        "Tăng tính đa dạng của món ăn, làm phong phú bữa ăn.",
+        "Tất cả đều đúng."
+      ],
+      "correct": 3,
+      "optionImageScale": 50
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Các phương pháp chế biến thực phẩm được chia thành mấy nhóm?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Hình ảnh nào mô tả phương pháp chế biến thực phẩm có sử dụng nhiệt?",
+      "options": [
+        "Option 0",
+        "Option 1",
+        "Option 2",
+        "Option 3"
+      ],
+      "correct": 3,
+      "optionImages": {
+        "0": "images/cong_nghe/q44_option_0.jpg",
+        "1": "images/cong_nghe/q44_option_1.jpg",
+        "2": "images/cong_nghe/q44_option_2.jpg",
+        "3": "images/cong_nghe/q44_option_3.jpg"
+      },
+      "optionImageScale": 50
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Rán là:",
+      "options": [
+        "Phương pháp bảo quản thực phẩm bằng cách giảm nhiệt độ để ức chế hoạt động của vi sinh vật",
+        "Phương pháp làm chín thực phẩm với lượng chất béo khá nhiều",
+        "Phương pháp bảo quản thực phẩm bằng cách tạo môi trường hút ẩm mạnh để ức chế hoạt động của vi sinh vật",
+        "Phương pháp làm chín thực phẩm trong lượng nước vừa phải với hương vị đậm đà"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 46,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Nhóm thực phẩm giàu chất bột, đường là nguồn cung cấp năng lượng cho mọi hoạt động của cơ thể.",
+      "correct": 0
+    },
+    {
+      "id": 47,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Bảo vệ cơ thể và chuyển hoá một số vitamin cần thiết là vai trò của nhóm thực phẩm giàu chất béo.",
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Để tăng sức đề kháng, giúp cơ thể chống mọi bệnh tật ta cần bổ sung các thực phẩm giàu đạm",
+      "correct": 1
+    },
+    {
+      "id": 49,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Nhóm thực phẩm giàu vitamin và khoáng chất có vai trò xây dựng và tái tạo tế bào mới, giúp cơ thế phát triển.",
+      "correct": 1
+    },
+    {
+      "id": 50,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Trẻ sơ sinh đang trong giai đoạn phát triển nên cần cung cấp nhiều chất đạm hơn so với người lớn.",
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Cơ thể người lớn tuổi có các hoạt động chuyển hoá suy yếu dần nên cần giảm lượng thức ăn để không tăng áp lực lên hệ tiêu hoá.",
+      "correct": 0
+    },
+    {
+      "id": 52,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Người lao động nặng thì lượng thức ăn nạp vào cơ thể cần nhiều hơn so với người lao động nhẹ.",
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Trẻ em đang lớn có hệ tiêu hoá chưa hoàn thiện nên chưa thể ăn được thức ăn cứng, vì vậy cần dùng sữa thay thế cho toàn bộ bữa ăn trong ngày",
+      "correct": 1
+    },
+    {
+      "id": 54,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Việc ăn uống thiếu các nhóm chất dinh dưỡng khác nhau sẽ dẫn đến việc cơ thể bị suy dinh dưỡng.",
+      "correct": 0
+    },
+    {
+      "id": 55,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Tình trạng béo phì xảy ra khi cơ thể nạp quá nhiều nhóm thực phẩm giàu chất béo.",
+      "correct": 0
+    },
+    {
+      "id": 56,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Người bị béo phì thường mắc các bệnh về tiểu đường, huyết áp, tim mạch, ...",
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "type": "true_false",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Tình trạng suy dinh dưỡng kéo dài có thể gây suy giảm miễn dịch đối với cơ thể",
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "type": "multiple_choice",
+      "lessonId": "L003",
+      "questionImageScale": 50,
+      "question": "Trong các bữa ăn dưới đây, theo em bữa ăn nào là bữa ăn dinh dưỡng hợp lý? <br>\n<br>\n<b>Bữa ăn số 1</b><br> \nCơm trắng<br>\nBò xào bông cải xanh<br>\nCá diêu hồng chiên giòn<br>\nCanh bí đỏ thịt bằm<br>\n<br>\n<b>Bữa ăn số 2</b><br> \nMì ý sốt kem<br>\nGà chiên giòn<br>\nRau củ trộn mayonaise<br>\n<br>\n<b>Bữa ăn số 3</b><br>\nCơm trắng<br>\nCá lóc kho tiêu<br>\nCải thìa luộc<br>\nCanh chua thơm<br>",
+      "options": [
+        "Bữa ăn số 1",
+        "Bữa ăn số 2",
+        "Bữa ăn số 3",
+        "Cả 3 bữa ăn"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 59,
+      "type": "reordering",
+      "lessonId": "L003",
+      "questionImage": "images/cong_nghe/q59_main.png",
+      "questionImageScale": 50,
+      "question": "Sắp xếp các hình ảnh sau thành quy trình thực hiện món rau luộc.",
+      "items": [
+        {
+          "text": "B",
+          "order": 1
+        },
+        {
+          "text": "E",
+          "order": 2
+        },
+        {
+          "text": "C",
+          "order": 3
+        },
+        {
+          "text": "A",
+          "order": 4
+        },
+        {
+          "text": "D",
+          "order": 5
+        }
+      ]
     }
   ]
 }
