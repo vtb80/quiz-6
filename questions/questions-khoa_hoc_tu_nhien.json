@@ -3228,6 +3228,225 @@
         "Tám",
         "tám"
       ]
+    },
+    {
+      "id": 229,
+      "type": "multiple_choice",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Tế bào là gì?",
+      "options": [
+        "Đơn vị lớn nhất của cơ thể",
+        "Đơn vị cấu tạo nên mọi cơ thể sống",
+        "Cấu trúc chỉ có trong động vật",
+        "Cơ quan của thực vật"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 230,
+      "type": "multiple_choice",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Tế bào có kích thước thường tính bằng:",
+      "options": [
+        "cm",
+        "mm",
+        "µm (micromet)",
+        "m"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 231,
+      "type": "multiple_choice",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Thành phần điều khiển mọi hoạt động của tế bào là:",
+      "options": [
+        "Màng sinh chất",
+        "Tế bào chất",
+        "Nhân tế bào",
+        "Không bào"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 232,
+      "type": "multiple_choice",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Thành phần nào sau đây là nơi diễn ra các hoạt động sống chủ yếu của tế bào?",
+      "options": [
+        "Chất tế bào",
+        "Vùng nhân",
+        "Nhân tế bào",
+        "Màng tế bào"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 233,
+      "type": "true_false",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Tất cả các tế bào đều có nhân hoàn chỉnh được bao bọc bởi màng nhân.",
+      "correct": 0
+    },
+    {
+      "id": 234,
+      "type": "multiple_choice",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Màng sinh chất có chức năng:",
+      "options": [
+        "Tổng hợp protein",
+        "Bao bọc tế bào, trao đổi chất",
+        "Chứa vật chất di truyền",
+        "Sản xuất năng lượng"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 235,
+      "type": "multiple_choice",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Tế bào nhân thực có đặc điểm:",
+      "options": [
+        "Không có nhân",
+        "Nhân chưa hoàn chỉnh",
+        "Nhân có màng bao bọc",
+        "Không có tế bào chất"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 236,
+      "type": "multiple_choice",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Thực vật có cấu trúc giúp tế bào cứng cáp là:",
+      "options": [
+        "Nhân",
+        "Màng sinh chất",
+        "Vách tế bào",
+        "Không bào"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 237,
+      "type": "true_false",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Màng tế bào chỉ có nhiệm vụ bảo vệ tế bào, không tham gia vào quá trình trao đổi chất.",
+      "correct": 1
+    },
+    {
+      "id": 238,
+      "type": "multiple_choice",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Sự sinh sản của tế bào chủ yếu thông qua:",
+      "options": [
+        "Phân đôi",
+        "Nảy chồi",
+        "Tạo trứng",
+        "Tạo hạt phấn"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 239,
+      "type": "matching",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Ghép nối bào quan với đặc điểm tương ứng:",
+      "pairs": [
+        {
+          "country": "Lục lạp",
+          "capital": "Có màu xanh, quang hợp (ở thực vật)",
+          "id": "a"
+        },
+        {
+          "country": "Vùng nhân",
+          "capital": "Không có màng bao bọc vật chất di truyền",
+          "id": "b"
+        },
+        {
+          "country": "Màng tế bào",
+          "capital": "Bao bọc tế bào chất",
+          "id": "c"
+        }
+      ],
+      "correct": {
+        "a": "Có màu xanh, quang hợp (ở thực vật)",
+        "b": "Không có màng bao bọc vật chất di truyền",
+        "c": "Bao bọc tế bào chất"
+      }
+    },
+    {
+      "id": 240,
+      "type": "multiple_choice",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Loại tế bào nào sau đây có thể quan sát được bằng mắt thường mà không cần kính hiển vi?",
+      "options": [
+        "Tế bào vi khuẩn E.coli",
+        "Tế bào hồng cầu",
+        "Tế bào trứng cá chép",
+        "Tế bào biểu bì vảy hành"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 241,
+      "type": "reordering",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Sắp xếp theo thứ tự kích thước tăng dần của các cấu trúc sau:<br>\nTế bào vi khuẩn<br>\nNguyên tử<br>\nTế bào thực vật<br>",
+      "items": [
+        {
+          "text": "Nguyên tử",
+          "order": 1
+        },
+        {
+          "text": "Tế bào vi khuẩn",
+          "order": 2
+        },
+        {
+          "text": "Tế bào thực vật",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "type": "true_false",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Mọi tế bào trong cơ thể thực vật đều có khả năng phân chia suốt đời.",
+      "correct": 1
+    },
+    {
+      "id": 243,
+      "type": "fill_in_blank",
+      "lessonId": "L008",
+      "questionImageScale": 50,
+      "question": "Điền từ thích hợp vào chỗ trống: \"Sự lớn lên và ... của tế bào là cơ sở cho sự lớn lên của sinh vật.\"",
+      "correct": [
+        "phân chia"
+      ]
     }
   ]
 }
