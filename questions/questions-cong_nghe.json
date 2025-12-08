@@ -733,7 +733,7 @@
       "lessonId": "L003",
       "questionImageScale": 50,
       "question": "Trẻ sơ sinh đang trong giai đoạn phát triển nên cần cung cấp nhiều chất đạm hơn so với người lớn.",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": 51,
@@ -773,7 +773,7 @@
       "lessonId": "L003",
       "questionImageScale": 50,
       "question": "Tình trạng béo phì xảy ra khi cơ thể nạp quá nhiều nhóm thực phẩm giàu chất béo.",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": 56,
