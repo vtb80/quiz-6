@@ -6,7 +6,11 @@
     },
     {
       "id": "L006",
-      "name": "Semester I"
+      "name": "Semester I - Revision 1"
+    },
+    {
+      "id": "L007",
+      "name": "Semeter I - Revision 2"
     }
   ],
   "questions": [
@@ -1218,6 +1222,466 @@
       "questionImageScale": 50,
       "question": "Cells help organisms grow and reproduce.",
       "correct": 0
+    },
+    {
+      "id": 182,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Materials are used to make:",
+      "options": [
+        "Songs",
+        "Objects",
+        "Air",
+        "Weather"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 183,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "A material that can be melted and shaped is:",
+      "options": [
+        "Wood",
+        "Plastic",
+        "Glass",
+        "Rubber"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 184,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Recycling means:",
+      "options": [
+        "Throwing things away",
+        "Using things again",
+        "Burning waste",
+        "Buying new items"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 185,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "A renewable fuel is:",
+      "options": [
+        "Coal",
+        "Oil",
+        "Solar energy",
+        "Gasoline"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 186,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Raw materials are:",
+      "options": [
+        "Finished products",
+        "Natural resources used to make things",
+        "Food waste",
+        "Recycled items"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 187,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Which material is transparent?",
+      "options": [
+        "Metal",
+        "Glass",
+        "Paper",
+        "Fabric"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 188,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Food gives our body:",
+      "options": [
+        "Music",
+        "Energy",
+        "Color",
+        "Smell"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 189,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "A nutrient that helps our muscles grow is:",
+      "options": [
+        "Protein",
+        "Fat",
+        "Sugar",
+        "Water"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 190,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Paper is made from:",
+      "options": [
+        "Rocks",
+        "Sand",
+        "Wood",
+        "Metal"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 191,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "An example of a fuel is:",
+      "options": [
+        "Water",
+        "Coal",
+        "Air",
+        "Plastic"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 192,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Which of these can be recycled?",
+      "options": [
+        "Banana peel",
+        "Metal can",
+        "Tissue",
+        "Food scraps"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 193,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "The main nutrient that gives quick energy:",
+      "options": [
+        "Vitamins",
+        "Minerals",
+        "Carbohydrates",
+        "Water"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 194,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Fossil fuels come from:",
+      "options": [
+        "Dead plants and animals",
+        "Mountains",
+        "Clouds",
+        "Soil only"
+      ],
+      "correct": 0,
+      "optionImageScale": 50
+    },
+    {
+      "id": 195,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Plastics are made from:",
+      "options": [
+        "Freshwater",
+        "Oil",
+        "Wood",
+        "Rocks"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 196,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "A material that does not let light pass through is:",
+      "options": [
+        "Transparent",
+        "Waterproof",
+        "Opaque",
+        "Flexible"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 197,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "A healthy diet includes:",
+      "options": [
+        "Only fats",
+        "Only sugars",
+        "Many nutrients",
+        "No water"
+      ],
+      "correct": 2,
+      "optionImageScale": 50
+    },
+    {
+      "id": 198,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "When your body uses food, what does it produce?",
+      "options": [
+        "Noise",
+        "Energy",
+        "Light",
+        "Plastic"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 199,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "A natural raw material is:",
+      "options": [
+        "Plastic bottle",
+        "Iron ore",
+        "Bread",
+        "Glass cup"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 200,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Which action helps the environment?",
+      "options": [
+        "Burning trash",
+        "Recycling plastic",
+        "Using more fuel",
+        "Wasting water"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 201,
+      "type": "multiple_choice",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "An example of a non-renewable fuel is:",
+      "options": [
+        "Wind",
+        "Coal",
+        "Sunlight",
+        "Water"
+      ],
+      "correct": 1,
+      "optionImageScale": 50
+    },
+    {
+      "id": 202,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Recycling helps reduce trash.",
+      "correct": 0
+    },
+    {
+      "id": 203,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Carbohydrates give the body energy.",
+      "correct": 0
+    },
+    {
+      "id": 204,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Coal can be replaced quickly by nature.",
+      "correct": 1
+    },
+    {
+      "id": 205,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Glass can be used again.",
+      "correct": 0
+    },
+    {
+      "id": 206,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Protein helps our bodies grow.",
+      "correct": 0
+    },
+    {
+      "id": 207,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "All materials come from nature.",
+      "correct": 1
+    },
+    {
+      "id": 208,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Fossil fuels will run out one day.",
+      "correct": 0
+    },
+    {
+      "id": 209,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Water is important for the body.",
+      "correct": 0
+    },
+    {
+      "id": 210,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Metals are strong.",
+      "correct": 0
+    },
+    {
+      "id": 211,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Plastic is made by people.",
+      "correct": 0
+    },
+    {
+      "id": 212,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Vitamins are not important for health.",
+      "correct": 1
+    },
+    {
+      "id": 213,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Burning fuels releases no energy.",
+      "correct": 1
+    },
+    {
+      "id": 214,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Sand is used to make glass.",
+      "correct": 0
+    },
+    {
+      "id": 215,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Recycling paper does not save trees.",
+      "correct": 1
+    },
+    {
+      "id": 216,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Fats give the body some energy.",
+      "correct": 0
+    },
+    {
+      "id": 217,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Renewable energy will run out soon.",
+      "correct": 1
+    },
+    {
+      "id": 218,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Rubber from trees is natural.",
+      "correct": 0
+    },
+    {
+      "id": 219,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Eating only one type of food is healthy.",
+      "correct": 1
+    },
+    {
+      "id": 220,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "Oil, coal, and gas are fossil fuels.",
+      "correct": 0
+    },
+    {
+      "id": 221,
+      "type": "true_false",
+      "lessonId": "L007",
+      "questionImageScale": 50,
+      "question": "All materials have the same use.",
+      "correct": 1
     }
   ]
 }
